@@ -6,3 +6,5 @@ root: intro.md
 chapters:
   - file: Topic_1_The_GenAI_Toolkit.md
     title: "Topic 1: The GenAI Toolkit"
+  - file: Topic_2_Introduction_to_AI_Based_Entrepreneurship.md
+    title: "Topic 2: Introduction to AI-Based Entrepreneurship"
