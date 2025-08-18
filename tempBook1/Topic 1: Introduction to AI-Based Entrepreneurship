@@ -1,0 +1,321 @@
+# Topic 1: Introduction to AI-Based Entrepreneurship
+## Slide Deck & Interactive Exercises
+
+---
+
+## Slide Deck
+
+### Slide 1: Course Welcome
+**Title: Welcome to Entrepreneuring AI-Based Startups**
+
+- Course Goal: Build an AI-powered MVP and deliver a compelling pitch
+- Today's Focus: Understanding the AI-entrepreneurship intersection
+- Your Journey: From idea to functioning prototype in 16 weeks
+- Key Question: How is AI changing the entrepreneurial landscape?
+
+### Slide 2: The AI Entrepreneurship Revolution
+**The Current Landscape**
+
+- 80% of Y Combinator startups are now AI-focused (2025)
+- 25% achieve 95% AI-generated code development
+- $50B+ invested in AI startups in 2024
+- Traditional entrepreneurship principles + AI capabilities = New opportunities
+
+**Quote:** *"AI doesn't replace entrepreneurs—it amplifies them."* - Sam Altman, OpenAI
+
+### Slide 3: What Makes AI Entrepreneurship Different?
+**Traditional Entrepreneurship:**
+- Market research → Product development → Customer validation
+- Linear, sequential process
+- Human-driven insights and development
+
+**AI-Enabled Entrepreneurship:**
+- Rapid prototyping with AI tools
+- Real-time market analysis and customer simulation
+- Iterative, AI-accelerated validation cycles
+- Human creativity + AI computational power
+
+### Slide 4: The AI Entrepreneur's Toolkit
+**Core Categories:**
+
+1. **Research & Analysis**: Market sizing, competitor analysis, trend identification
+2. **Product Development**: Rapid prototyping, feature generation, technical architecture
+3. **Customer Understanding**: Persona simulation, interview preparation, feedback analysis
+4. **Business Strategy**: Model generation, scenario planning, risk assessment
+5. **Communication**: Pitch development, content creation, presentation optimization
+
+### Slide 5: Entrepreneurial Behavior Characteristics in the AI Era
+**Traditional Characteristics:**
+- Risk tolerance, opportunity recognition, innovation drive
+
+**Enhanced by AI:**
+- **Rapid Experimentation**: Test 10x more ideas in same timeframe
+- **Data-Driven Decisions**: Real-time analysis of market signals
+- **Scalable Creativity**: Generate numerous solutions, then apply human judgment
+- **Global Perspective**: Instant access to worldwide market intelligence
+
+### Slide 6: Real AI Startup Success Stories
+**Case Study 1: Jasper (AI Content)**
+- Founded: 2021 | Valuation: $1.5B (2022)
+- Problem: Marketing content creation bottleneck
+- AI Solution: GPT-powered content generation platform
+
+**Case Study 2: Runway ML (AI Video)**
+- Founded: 2018 | Valuation: $1.5B (2023)
+- Problem: Video editing complexity and cost
+- AI Solution: AI-powered video creation and editing
+
+### Slide 7: The Startup Ecosystem Today
+**Key Players:**
+- **Incubators**: Y Combinator, Techstars (AI-first programs)
+- **Investors**: Andreessen Horowitz, Sequoia (AI-focused funds)
+- **Infrastructure**: OpenAI, Anthropic, Google (API providers)
+- **Talent**: AI researchers transitioning to entrepreneurship
+
+**Market Dynamics**: Customer expectation of AI integration, competitive necessity, regulatory considerations
+
+### Slide 8: Your AI Entrepreneurship Framework
+**The 4-Layer Approach:**
+
+1. **Foundation Layer**: AI literacy and prompt engineering
+2. **Application Layer**: Using AI for specific business functions
+3. **Integration Layer**: Building AI into your product/service
+4. **Innovation Layer**: Creating novel AI-powered solutions
+
+### Slide 9: Course Project Overview
+**Your Challenge:**
+- Identify a real problem worth solving
+- Design an AI-enhanced solution
+- Build a functional MVP
+- Validate with real customers
+- Present to investor panel
+
+**Success Metrics:** Problem-solution fit, technical feasibility, market validation, business viability
+
+### Slide 10: This Week's Learning Objectives
+By the end of today, you will:
+- Understand how AI is transforming entrepreneurship
+- Identify characteristics of successful AI entrepreneurs
+- Recognize opportunities for AI-enhanced business solutions
+- Begin developing your entrepreneurial AI mindset
+
+---
+
+## Interactive Exercises
+
+### Exercise 1: AI Entrepreneurship Landscape Analysis (20 minutes)
+
+**Setup:** Teams of 3-4 students
+
+**Task:** Research and analyze one AI startup category:
+- **Team A**: AI for Healthcare (diagnostic tools, drug discovery, patient care)
+- **Team B**: AI for Finance (trading, fraud detection, personal finance)
+- **Team C**: AI for Education (personalized learning, assessment, administration)
+- **Team D**: AI for Retail (recommendation engines, inventory optimization, customer service)
+- **Team E**: AI for Transportation (autonomous vehicles, route optimization, logistics)
+
+**Research Framework:**
+1. **Market Size**: What's the total addressable market?
+2. **Key Players**: Who are the leading startups and established companies?
+3. **Customer Pain Points**: What problems are being solved?
+4. **Technology Enablers**: Which AI capabilities make solutions possible?
+5. **Business Models**: How do these companies make money?
+
+**Deliverable:** 3-minute team presentation with key insights
+
+**AI Integration:** Use ChatGPT or Claude to gather initial market research, then verify with authoritative sources
+
+### Exercise 2: Entrepreneurial Behavior Self-Assessment (15 minutes)
+
+**Individual Reflection:**
+
+Rate yourself (1-5 scale) on traditional entrepreneurial characteristics:
+- Risk tolerance
+- Opportunity recognition
+- Innovation drive
+- Persistence
+- Networking ability
+- Resource optimization
+
+**AI Enhancement Questions:**
+1. How could AI tools amplify your strongest entrepreneurial traits?
+2. Which weaknesses could AI help you compensate for?
+3. What new capabilities does AI give you as an entrepreneur?
+
+**AI Application:** Use an LLM to analyze your responses and suggest personalized development strategies
+
+### Exercise 3: Problem-Solution Brainstorming (25 minutes)
+
+**Phase 1: Problem Identification (10 minutes)**
+Individual brainstorming of problems you've personally experienced:
+- Daily frustrations or inefficiencies
+- Industry-specific challenges (from work/internship experience)
+- Social or environmental issues you care about
+
+**Phase 2: AI Solution Ideation (10 minutes)**
+For each problem, brainstorm how AI could provide or enhance a solution:
+- What data could AI analyze?
+- What patterns could AI identify?
+- What tasks could AI automate?
+- What insights could AI provide?
+
+**Phase 3: Feasibility Assessment (5 minutes)**
+Use AI tools to quickly research:
+- Is this technically feasible with current AI?
+- Are there existing solutions?
+- What would be the MVP feature set?
+
+**AI Prompts to Use:**
+```
+"Analyze this problem: [describe problem]. What AI technologies could address this? Consider machine learning, natural language processing, computer vision, and predictive analytics."
+
+"Research existing solutions for [problem area]. What gaps exist in current offerings that AI could fill?"
+```
+
+### Exercise 4: AI Tool Speed Dating (20 minutes)
+
+**Setup:** Rotation stations around the classroom
+
+**Station 1: ChatGPT** (5 minutes)
+- Task: Generate 5 startup ideas for sustainable transportation
+- Learn: Prompt engineering basics
+
+**Station 2: Claude** (5 minutes)
+- Task: Analyze the business model for a ride-sharing app
+- Learn: Complex reasoning and analysis
+
+**Station 3: Perplexity** (5 minutes)
+- Task: Research the size of the meal delivery market
+- Learn: Cited research and fact-checking
+
+**Station 4: Gamma** (5 minutes)
+- Task: Create a quick pitch deck outline for an AI tutoring app
+- Learn: Content creation and visualization
+
+**Reflection Questions:**
+- Which tool felt most intuitive?
+- What surprised you about AI capabilities?
+- How might you use these tools in your entrepreneurial journey?
+
+### Exercise 5: Startup Ecosystem Mapping (15 minutes)
+
+**Collaborative Activity:**
+
+Create a visual map of the AI startup ecosystem using a shared digital whiteboard (Miro/Figma):
+
+**Components to Map:**
+- **Funding Sources**: VCs, angels, government grants
+- **Talent Pipeline**: Universities, big tech, research labs
+- **Infrastructure Providers**: Cloud platforms, AI APIs, development tools
+- **Support Organizations**: Incubators, accelerators, co-working spaces
+- **Market Channels**: App stores, enterprise sales, partnerships
+
+**Your Role:** Each student adds 2-3 components they've discovered through research
+
+**AI Enhancement:** Use AI tools to identify ecosystem players you might not know about
+
+### Exercise 6: Personal AI Entrepreneurship Manifesto (10 minutes)
+
+**Individual Writing Exercise:**
+
+Draft a personal manifesto addressing:
+1. **Vision**: How do you see AI changing your chosen industry/interest area?
+2. **Values**: What ethical principles will guide your AI entrepreneurship?
+3. **Commitment**: What will you do differently as an AI-enabled entrepreneur?
+4. **Impact**: What positive change do you want to create?
+
+**Format:** 3-4 bullet points, 2-3 sentences each
+
+**AI Support:** Use AI to help refine your language and ensure clarity, but keep the ideas authentically yours
+
+---
+
+## Homework Assignment
+
+### Project: AI-Enhanced Opportunity Analysis
+
+**Objective:** Identify and analyze a specific entrepreneurial opportunity using AI tools
+
+**Deliverables:**
+1. **Problem Statement** (200 words): Clearly defined problem worth solving
+2. **Market Analysis** (300 words): Size, growth, key players, trends
+3. **AI Solution Concept** (250 words): How AI could address the problem
+4. **Competitive Landscape** (200 words): Existing solutions and gaps
+5. **Feasibility Assessment** (150 words): Technical and market viability
+
+**AI Documentation Requirement:**
+- List all AI tools used
+- Include 3 sample prompts with brief analysis of output quality
+- Identify one instance where you disagreed with AI analysis and explain why
+
+**Submission Format:** Google Doc with clear sections and AI usage documentation
+
+**Evaluation Criteria:**
+- Problem relevance and specificity (25%)
+- Quality of market research (25%)
+- Creative application of AI concepts (25%)
+- Critical evaluation of AI outputs (25%)
+
+---
+
+## Assessment Rubric
+
+### Class Participation (25 points)
+
+**Excellent (23-25 points):**
+- Actively engages in all exercises
+- Provides thoughtful insights during discussions
+- Demonstrates curiosity about AI applications
+- Helps teammates effectively
+
+**Good (20-22 points):**
+- Participates in most exercises
+- Contributes meaningful ideas
+- Shows interest in learning
+- Collaborates well
+
+**Satisfactory (17-19 points):**
+- Completes exercises adequately
+- Occasionally contributes to discussions
+- Basic engagement level
+- Adequate teamwork
+
+**Needs Improvement (0-16 points):**
+- Minimal participation
+- Limited contribution to team activities
+- Distracted or disengaged
+- Doesn't support team objectives
+
+### Exercise Quality (25 points)
+
+**Focus Areas:**
+- Depth of analysis and critical thinking
+- Creative application of AI tools
+- Quality of research and insights
+- Effective use of class time
+
+### Professional Development (10 points)
+
+- Demonstrates entrepreneurial mindset
+- Shows willingness to experiment with new tools
+- Asks strategic questions
+- Connects learning to personal goals
+
+---
+
+## Next Week Preview
+
+**Topic 2: AI Literacy**
+- Deep dive into AI capabilities and limitations
+- Hands-on prompt engineering workshop
+- Introduction to data analysis for entrepreneurs
+- Building your personal AI toolkit
+
+**Preparation:**
+- Sign up for ChatGPT Plus or Claude Pro
+- Complete AI tool exploration homework
+- Think about data you encounter daily that could inform business decisions
+
+**Required Reading:**
+- Chapter 2: "AI for Business Leaders" (provided materials)
+- Browse Y Combinator's latest startup batch for AI inspiration
