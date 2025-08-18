@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: intro
+root: intro.md
 chapters:
   - file: Topic_1_The_GenAI_Toolkit.md
     title: "Topic 1: The GenAI Toolkit"
