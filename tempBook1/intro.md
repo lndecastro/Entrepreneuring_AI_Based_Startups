@@ -61,6 +61,10 @@ Welcome to **CEN 4930 – Entrepreneuring AI-Based Startups**. This course is de
 - **Scalable Creativity**: Generate numerous solutions, then apply human judgment
 - **Global Perspective**: Instant access to worldwide market intelligence
 
+## Our Journey
+
+![Entrepreneuring AI-Based Startup Journey] (./tempBook1/Our_Journey.svg)
+
 ---
 
 ## 1. Key Roles in a Startup Team  
