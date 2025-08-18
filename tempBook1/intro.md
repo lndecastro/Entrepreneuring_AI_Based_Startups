@@ -61,6 +61,8 @@ Welcome to **CEN 4930 – Entrepreneuring AI-Based Startups**. This course is de
 - **Scalable Creativity**: Generate numerous solutions, then apply human judgment
 - **Global Perspective**: Instant access to worldwide market intelligence
 
+---
+
 ## 1. Key Roles in a Startup Team  
 
 When forming your startup team, it is important to have **complementary skills**. Here are some of the most common roles in startups:  
@@ -95,8 +97,6 @@ When forming your startup team, it is important to have **complementary skills**
 - **Sales Lead:** Builds relationships with customers and closes deals.  
 - **Customer Success Lead:** Ensures users are happy and stay engaged with the product.  
 
----
-
 ## Why Complementary Skills Matter  
 
 - A startup usually starts **small (2–3 founders)**, so it is not possible to have all roles from day one.  
@@ -108,6 +108,7 @@ When forming your startup team, it is important to have **complementary skills**
 
 👉 **Tip:** When forming your team, choose partners who bring **different strengths** so you don’t all overlap. Think: *Who is the visionary? Who is the builder? Who is the seller?*  
 
+---
 
 ## 2. Startup Meetup  
 
