@@ -9,7 +9,7 @@ Welcome to **CEN 4930 – Entrepreneuring AI-Based Startups**. This course is de
 - Director of the **Dendritic Institute for Artificial Intelligence and Data Science** at FGCU.  
 - Author of various AI and Data Science books and recognized among the **Top 2% most influential researchers in Computer Science worldwide**.  
 - Experienced entrepreneur, researcher, and educator with a focus on applying AI for innovation, business, and societal impact.  
-- Active mentor and collaborator with international academic and industry partners.
+- Active mentor and collaborator with international academic and industry partners. 
 
 ## Course Goal and Class Focus
 - Course Goal: Build an AI-powered MVP and deliver a compelling pitch
