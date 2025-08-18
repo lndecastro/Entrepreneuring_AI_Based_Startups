@@ -1,23 +1,23 @@
-# Topic 1: The GenAI Toolkit 
+# Topic 1: The Basic GenAI Toolkit 
 
 Generative Artificial Intelligence (GenAI) has become one of the most transformative technological advancements of recent years, enabling systems to generate text, images, code, and even entire business solutions. To make the most of these tools, it is essential to understand not only what GenAI can do, but also how to interact with it effectively. This topic introduces the fundamentals of GenAI with a focus on **Prompt Engineering**—the art and science of crafting inputs that guide AI models toward accurate, creative, and useful outputs. By mastering prompt engineering, students will gain practical skills to explore the capabilities and limitations of GenAI, preparing them to apply these tools strategically in entrepreneurial and problem-solving contexts.  
 
-## Prompt Engineering Basics
+## 1. Prompt Engineering Basics
 
-### Learning Objectives
+### 1.1 Learning Objectives
 - Understand the purpose and scope of prompt engineering.
 - Identify the components that make up an effective prompt.
 - Identify and apply different types of prompt design patterns.
 - Compare how prompt structures influence AI outputs.
 - Practice prompt improvement through iteration.
 
-### What is Prompt Engineering?
+### 1.2 What is Prompt Engineering?
 
 Prompt engineering is the practice of crafting effective inputs (prompts) for large language models (LLMs) to produce accurate, relevant, and useful outputs.
 
 Unlike traditional programming, where you write rigid code, prompt engineering is about **communicating naturally** with an AI system — and doing so **strategically**.
 
-### Anatomy of a Prompt
+### 1.3 Anatomy of a Prompt
 
 A good prompt typically includes:
 
@@ -30,13 +30,13 @@ A good prompt typically includes:
 4. **Output Format** (optional): Desired structure or style.
    - _e.g., "Respond in JSON format with sentiment and category."_
 
-### Why Prompt Engineering Matters
+### 1.4 Why Prompt Engineering Matters
 
 - It **boosts model performance** without changing the model itself.
 - It helps tailor responses to specific **tasks and audiences**.
 - It allows you to guide the model toward **more reliable, interpretable results**.
 
-### Example Prompt
+### 1.5 Example Prompt
 ```
 You are a scientific editor. Summarize the text below into 3 bullet points for a general audience.
 
@@ -54,11 +54,11 @@ Message:
 I was evicted without notice on June 3rd even though I paid rent until July...
 ```
 
-### Why Prompt Patterns Matter
+### 1.6 Why Prompt Patterns Matter
 
 Prompt patterns are reusable structures that help you get consistent, high-quality results from language models. Understanding them empowers you to choose the right style for your goal.
 
-### Common Prompt Types
+### 1.7 Common Prompt Types
 
 1. **Instructional Prompts**
 Directly ask the model to perform a task, e.g.:
@@ -88,7 +88,7 @@ English: Good morning → Portuguese: Bom dia
 English: Thank you → Portuguese: Obrigado
 English: I’m hungry → Portuguese:
 ```
-### Prompt Comparison
+### 1.8 Prompt Comparison
 
 | Pattern           | Use Case                               | Example Role/Task                              |
 |------------------|----------------------------------------|------------------------------------------------|
@@ -104,7 +104,7 @@ Use the following task and try prompting it in three different styles.
 
 **Task**: Recommend three books for someone interested in artificial intelligence.
 
-### Why Iteration Matters
+### 1.9 Why Iteration Matters
 
 Prompting is often **not a one-shot process**. Even good prompts may return incomplete, vague, or misleading results. The key is to **test, analyze, and refine**.
 
@@ -114,7 +114,7 @@ Iteration helps you:
 - Adjust tone or output format
 - Explore different framing approaches
 
-### The Iterative Prompting Process
+### 1.10 The Iterative Prompting Process
 
 1. **Draft the initial prompt**  
    _Write a basic version of your request._
@@ -163,7 +163,7 @@ Step 3 – Prediction:
 Based on findings, advise whether Contoso should continue, adjust, or halt this Discount Band.
 ```
 
-### Tips for Troubleshooting and Improving Prompts
+### 1.11 Tips for Troubleshooting and Improving Prompts
 
 - If output is **too generic**: Add specific instructions or examples.
 - If output **hallucinates**: Ask the model to “only use provided information.”
@@ -172,7 +172,7 @@ Based on findings, advise whether Contoso should continue, adjust, or halt this 
 
 **Hallucination** is when a model confidently outputs incorrect or invented information.
   
-### Assessing Prompt Quality
+### 1.12 Assessing Prompt Quality
 
 Five criteria to judge the effectiveness of a prompt-output pair:
 
@@ -189,15 +189,59 @@ Five criteria to judge the effectiveness of a prompt-output pair:
 - Clarify that the model should say **“I don't know”** if unsure.
 - Specify that the answer should be based **only on the uploaded file** or context.
 
-## 1.5 Ethical Considerations
+## 2. GenAI Tools to be Studied
+
+### ChatGPT
+ChatGPT is a versatile AI language model developed by OpenAI, capable of interpreting natural language, performing various statistical analyses, coding in Python, and generating data visualizations such as bar charts, pie charts, scatter plots, and histograms. It supports data uploads in formats like CSV, XLSX, PDF, and JSON (up to 50MB) and can integrate with cloud storage like Google Drive and OneDrive. ChatGPT excels in broad AI capabilities including data analysis, summarization, and storytelling. It requires web browsing for real-time data updates.
+Access ChatGPT here: [https://chat.openai.com/]
+
+### Claude.ai
+Claude.ai is an AI assistant with strong natural language processing capabilities and expanding tools for data analysis. It supports data uploads and can process data using JavaScript within its Analysis Tool. Claude.ai can perform complex calculations, data manipulation, and create visualizations through its Analysis Tool and Artifacts feature. It primarily analyzes uploaded data and does not rely on real-time web browsing.
+Access Claude.ai here: [https://claude.ai/]
+
+### Perplexity
+Perplexity is a research-focused AI platform emphasizing data-driven insights and real-time web search integration. It allows file uploads for analysis and uses coding capabilities within its Deep Research mode to identify patterns, trends, and anomalies. Perplexity integrates web search for broader context and is particularly strong in providing current data and research-backed answers.
+Access Perplexity here: [https://www.perplexity.ai]
+
+### Grok
+Grok is a conversational AI developed by Elon Musk’s xAI, designed to provide witty, insightful, and real-time responses. Integrated with X (formerly Twitter), Grok emphasizes reasoning and humor, offering a more personality-driven interaction style. It supports real-time data access and is positioned as a competitor to ChatGPT and Gemini. Access Grok here: [https://x.ai]
+
+### Meta AI
+Meta AI is Meta’s suite of generative AI tools embedded across Facebook, Instagram, WhatsApp, and Messenger. It offers multimodal capabilities including text, image, and video generation, and supports real-time chat, creative content generation, and productivity tasks. Meta AI is powered by the Llama 4 model and is accessible via Meta’s apps and a standalone assistant. Access Meta AI here: [https://www.meta.ai]
+
+### Copilot
+Copilot is Microsoft’s AI assistant integrated across tools like Word, Excel, PowerPoint, Outlook, and Teams. It leverages large language models to help users draft content, analyze data, summarize meetings, and automate workflows. In Excel, it can generate formulas, create charts, and explain data trends. In Word and PowerPoint, it assists with writing, editing, and designing presentations. Copilot is deeply embedded in Microsoft 365, enhancing productivity through natural language commands. Access Copilot here: [https://copilot.microsoft.com]
+
+### Gemini
+Gemini is Google’s family of multimodal AI models integrated into Google Workspace and available via the Gemini web app. It assists users in drafting, summarizing, brainstorming, analyzing documents, and generating code. Within Docs, Gmail, and Sheets, Gemini enhances productivity by offering smart suggestions, data insights, and content generation. It also supports image understanding and code interpretation through its advanced model versions. Access Gemini here: [https://gemini.google.com]
+
+### NotebookLM
+NotebookLM is a personalized AI research assistant from Google designed to help users work with their own documents. It can summarize large texts, generate FAQs, suggest outlines, timelines, and even podcast scripts. Unlike general-purpose chatbots, NotebookLM focuses on grounded responses based solely on the sources provided by the user, making it ideal for academic, legal, and research-based tasks.
+Access NotebookLM here: [https://notebooklm.google]
+
+### Napkin
+Napkin is a visual storytelling AI tool that transforms plain text into professional diagrams, infographics, and flowcharts. It is ideal for business presentations, educational content, and social media visuals. Users can customize visuals with icons, connectors, and themes, and export them in formats like PNG, PDF, and SVG. Access Napkin here: [https://www.napkin.ai]
+
+### Gamma
+Gamma is an AI-powered content creation platform for building presentations, documents, and websites. It uses natural language prompts to generate scrollable, interactive content with modern design. Gamma is ideal for pitch decks, proposals, and educational materials, and supports real-time collaboration and publishing. Access Gamma here: [https://gamma.app]
+
+### AI Studio
+Google AI Studio is a development platform for building with Gemini, Google’s multimodal AI models. It supports chat, code execution, file analysis, and video generation. Designed for both beginners and developers, AI Studio enables rapid prototyping and integration of AI into applications with a user-friendly interface. Access AI Studio here: [https://aistudio.google.com]
+
+### SciSpace
+SciSpace is an AI research assistant tailored for academic reading, comprehension, and exploration of scientific literature. It allows users to upload PDFs of scholarly articles and interact with them through a chat-based interface that explains complex concepts, defines technical terms, and summarizes content section-by-section. SciSpace is particularly strong in STEM fields and integrates citation tracing, question generation, and concept mapping. It is ideal for literature review, paper comprehension, and academic study.
+Access SciSpace here: [https://scispace.com/]
+
+## 3. Ethical Considerations
 
 - Responsible use: data privacy, bias, hallucinations, transparency
 - Examples of misuse and how to avoid them
 - When *not* to use AI or when to rely on human judgment
 
-## 1.6 Wrap-Up Reflection
+## 4. Wrap-Up Reflection
 
 - What did you learn about AI tools that surprised you?
 - Which AI tasks are you most comfortable with?
 - What task in your work would you most like to streamline with AI?
 - What did you learn about prompt engineering?
+
