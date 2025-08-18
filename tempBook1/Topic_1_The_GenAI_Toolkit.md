@@ -2,6 +2,8 @@
 
 Generative Artificial Intelligence (GenAI) has become one of the most transformative technological advancements of recent years, enabling systems to generate text, images, code, and even entire business solutions. To make the most of these tools, it is essential to understand not only what GenAI can do, but also how to interact with it effectively. This topic introduces the fundamentals of GenAI with a focus on **Prompt Engineering**—the art and science of crafting inputs that guide AI models toward accurate, creative, and useful outputs. By mastering prompt engineering, students will gain practical skills to explore the capabilities and limitations of GenAI, preparing them to apply these tools strategically in entrepreneurial and problem-solving contexts.  
 
+---
+
 ## 1. Prompt Engineering Basics
 
 ### 1.1 Learning Objectives
@@ -189,7 +191,9 @@ Five criteria to judge the effectiveness of a prompt-output pair:
 - Clarify that the model should say **“I don't know”** if unsure.
 - Specify that the answer should be based **only on the uploaded file** or context.
 
-## 2. GenAI Tools to be Studied
+---
+
+## 2. Useful GenAI Tools 
 
 ### ChatGPT
 ChatGPT is a versatile AI language model developed by OpenAI, capable of interpreting natural language, performing various statistical analyses, coding in Python, and generating data visualizations such as bar charts, pie charts, scatter plots, and histograms. It supports data uploads in formats like CSV, XLSX, PDF, and JSON (up to 50MB) and can integrate with cloud storage like Google Drive and OneDrive. ChatGPT excels in broad AI capabilities including data analysis, summarization, and storytelling. It requires web browsing for real-time data updates.
@@ -232,14 +236,69 @@ Google AI Studio is a development platform for building with Gemini, Google’s 
 SciSpace is an AI research assistant tailored for academic reading, comprehension, and exploration of scientific literature. It allows users to upload PDFs of scholarly articles and interact with them through a chat-based interface that explains complex concepts, defines technical terms, and summarizes content section-by-section. SciSpace is particularly strong in STEM fields and integrates citation tracing, question generation, and concept mapping. It is ideal for literature review, paper comprehension, and academic study.
 Access SciSpace here: [https://scispace.com/]
 
-## 3. Ethical Considerations
+---
+
+## 3. Applications of Generative AI for Entrepreneurs  
+
+Generative AI (GenAI) opens new opportunities for startups by lowering costs, speeding up creativity, and enabling small teams to produce high-quality outputs. Here are some of the most common applications relevant to entrepreneurs:  
+
+### 1. Text and Content Creation  
+- **What it does:** Write blog posts, product descriptions, social media captions, or even full business reports.  
+- **Why it matters:** Saves time, improves consistency, and helps create a strong online presence.  
+
+### 2. Copywriting and Marketing Material  
+- **What it does:** Generates ads, landing page text, email campaigns, and personalized customer messages.  
+- **Why it matters:** Entrepreneurs can quickly test different messages and find what resonates with their audience.  
+
+### 3. Image and Art Generation  
+- **What it does:** Create logos, product designs, illustrations, and concept art.  
+- **Why it matters:** Startups can create professional visuals without hiring expensive designers in the early stages.  
+
+### 4. Video Generation and Editing  
+- **What it does:** Generate short promotional videos, explainer animations, or even realistic avatars for pitches.  
+- **Why it matters:** Video is a powerful communication tool, and GenAI reduces production time and costs.  
+
+### 5. Music and Audio Creation  
+- **What it does:** Compose background music, generate jingles, or create soundtracks for videos and ads.  
+- **Why it matters:** Entrepreneurs can add professional audio branding to their product without needing a composer.  
+
+### 6. Speech and Voice Cloning  
+- **What it does:** Generate natural-sounding voiceovers for videos, podcasts, or apps.  
+- **Why it matters:** Provides multilingual and cost-effective voice solutions for marketing and customer support.  
+
+### 7. Code Generation and Software Prototyping  
+- **What it does:** Helps write, debug, or improve code; can also create quick prototypes of apps or websites.  
+- **Why it matters:** Reduces development time, especially for non-technical founders.  
+
+### 8. Data Analysis and Insights  
+- **What it does:** Summarizes trends, visualizes datasets, and extracts insights from customer feedback or market data.  
+- **Why it matters:** Entrepreneurs can make data-driven decisions without needing a large analytics team.  
+
+---
+
+## 4. Homework Assignment – Exploring GenAI Tools  
+
+**Objective:** Discover real-world GenAI tools and their entrepreneurial applications.  
+
+**Instructions for Teams:**  
+1. Form your startup teams (2–3 members).  
+2. Choose one application area from the list above.  
+3. Research **existing GenAI tools** in each area (e.g., Jasper for text, MidJourney for images, Runway for video, Soundraw for music, GitHub Copilot for code).  
+4. Prepare a short presentation (5–7 minutes) that includes:  
+   - The **type of application** (e.g., video generation).  
+   - The **tool name(s)** and what they do.  
+   - At least one **example use case** relevant to startups.  
+   - A reflection: *How could your startup use this tool?*  
+
+**Deliverable:** In-class presentation next session, with slides or a live demo if possible.  
+
+---
+
+## 3. Ethical Considerations and Wrap-Up Reflections
 
 - Responsible use: data privacy, bias, hallucinations, transparency
 - Examples of misuse and how to avoid them
 - When *not* to use AI or when to rely on human judgment
-
-## 4. Wrap-Up Reflection
-
 - What did you learn about AI tools that surprised you?
 - Which AI tasks are you most comfortable with?
 - What task in your work would you most like to streamline with AI?
