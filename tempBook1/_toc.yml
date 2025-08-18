@@ -4,7 +4,7 @@
 format: jb-book
 root: intro
 chapters:
-  - file: Topic 1: The GenAI Toolkit.md
+  - file: Topic_1_The_GenAI_Toolkit.md
     title: "Topic 1: The GenAI Toolkit"
   - file: Topic 2: Introduction to AI-Based Entrepreneurship.md
     title: "Topic 2: Introduction to AI-Based Entrepreneurship"
