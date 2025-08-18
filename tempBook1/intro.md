@@ -63,7 +63,7 @@ Welcome to **CEN 4930 – Entrepreneuring AI-Based Startups**. This course is de
 
 ## Our Journey
 
-![Our Journey](Our_Journey.png)
+![Our Journey](./Data/Our_Journey.png)
 
 ---
 
