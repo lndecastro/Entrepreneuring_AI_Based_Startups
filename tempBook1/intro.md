@@ -72,7 +72,7 @@ The traditional **Ten Entrepreneurial Competencies** describe the mindset and be
 
 ## Our Journey
 
-![OurJourney](./Data/OurJourney.png)
+![Our Journey](Data/OurJorney.png)
 
 ---
 
