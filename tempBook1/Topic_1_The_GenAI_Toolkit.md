@@ -90,6 +90,8 @@ English: Good morning → Portuguese: Bom dia
 English: Thank you → Portuguese: Obrigado
 English: I’m hungry → Portuguese:
 ```
+> Note: a prompt can be of more than one type simultaneously, e.g. Prompt 1 above is also a zero-shot prompt.
+
 ### 1.8 Prompt Comparison
 
 | Pattern           | Use Case                               | Example Role/Task                              |
@@ -168,11 +170,13 @@ Based on findings, advise whether Contoso should continue, adjust, or halt this 
 ### 1.11 Tips for Troubleshooting and Improving Prompts
 
 - If output is **too generic**: Add specific instructions or examples.
-- If output **hallucinates**: Ask the model to “only use provided information.”
+- If output **hallucinates**: Ask the model to “only use provided information” or to look for verifiable sources. You can also ask the model to cite the sources.
 - If output **misses important parts**: Reframe the prompt with clearer structure.
 - If output is **inconsistent**: Use role and format specifications.
 
-**Hallucination** is when a model confidently outputs incorrect or invented information.
+**Hallucination** is when a model (confidently) outputs incorrect or invented information.
+
+> Note: Once you understand how the LLM generates its output, hallucinations become a natural outcome and our role as moderators becomes evident.
   
 ### 1.12 Assessing Prompt Quality
 
@@ -180,11 +184,11 @@ Five criteria to judge the effectiveness of a prompt-output pair:
 
 | Criterion         | Description                                                                 |
 |------------------|-----------------------------------------------------------------------------|
-| **Relevance**     | Is the response aligned with the prompt's intent?                          |
-| **Completeness**  | Does the answer cover all requested aspects?                               |
-| **Clarity**       | Is the response easy to understand and well-structured?                    |
-| **Factual Accuracy** | Are the claims and data points correct and verifiable?                 |
-| **Format**        | Does the output follow the requested format or style?                      |
+| **1. Relevance**     | Is the response aligned with the prompt's intent?                          |
+| **2. Completeness**  | Does the answer cover all requested aspects?                               |
+| **3. Clarity**       | Is the response easy to understand and well-structured?                    |
+| **4. Factual Accuracy** | Are the claims and data points correct and verifiable?                 |
+| **5. Format**        | Does the output follow the requested format or style?                      |
 
 **Techniques to Reduce or Identify Hallucinations**
 - Ask the model to **cite its sources** or say "Only use the provided text/file."
@@ -282,7 +286,7 @@ Generative AI (GenAI) opens new opportunities for startups by lowering costs, sp
 
 **Instructions for Teams:**  
 1. Form your startup teams (2–3 members).  
-2. Choose one application area from the list above.  
+2. Choose one application area from the list above or another area of your interest.  
 3. Research **existing GenAI tools** in each area (e.g., Jasper for text, MidJourney for images, Runway for video, Soundraw for music, GitHub Copilot for code).  
 4. Prepare a short presentation (5–7 minutes) that includes:  
    - The **type of application** (e.g., video generation).  
