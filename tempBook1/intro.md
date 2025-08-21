@@ -51,9 +51,7 @@ Welcome to **CEN 4930 – Entrepreneuring AI-Based Startups**. This course is de
 4. **Business Strategy**: Model generation, scenario planning, risk assessment
 5. **Communication**: Pitch development, content creation, presentation optimization
 
-## Entrepreneurial Behavior Characteristics in the AI Era
-
-# Ten Entrepreneurial Competencies: Traditional vs AI-Enhanced
+## Ten Entrepreneurial Competencies: Traditional vs AI-Enhanced
 
 The traditional **Ten Entrepreneurial Competencies** describe the mindset and behaviors that have guided entrepreneurs for decades. However, with the rise of AI, these competencies are being reshaped. Entrepreneurs today not only rely on the competencies, but also on their ability to leverage AI tools for opportunity detection, decision-making, efficiency, and collaboration. The table below presents a side-by-side view of the **traditional competencies** and their **AI-enhanced counterparts**, highlighting how entrepreneurial skills evolve in an AI-driven economy.
 
@@ -69,6 +67,8 @@ The traditional **Ten Entrepreneurial Competencies** describe the mindset and be
 | 8  | **Systematic Planning and Monitoring**<br>Entrepreneurs develop detailed plans and regularly monitor progress. | **Systematic Planning and Monitoring with AI Agents**<br>Entrepreneurs deploy AI agents for agile management, scenario simulation, and adaptive monitoring. |
 | 9  | **Persuasion and Networking**<br>They persuade others and build strong networks for growth. | **AI-Powered Persuasion and Networking**<br>Entrepreneurs use AI to personalize pitches, analyze investor profiles, optimize engagement, and find high-value connections. |
 | 10 | **Independence and Self-Confidence**<br>Entrepreneurs are confident, autonomous, and take responsibility for decisions. | **Augmented Independence and Self-Confidence**<br>Entrepreneurs maintain autonomy while leveraging AI copilots for decision support, gaining confidence from mastering human-AI collaboration. |
+
+## CW 1: Ten Entrepreneurial Competencies (TEC)
 
 ## Our Journey
 
