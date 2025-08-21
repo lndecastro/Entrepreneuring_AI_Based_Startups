@@ -52,14 +52,23 @@ Welcome to **CEN 4930 – Entrepreneuring AI-Based Startups**. This course is de
 5. **Communication**: Pitch development, content creation, presentation optimization
 
 ## Entrepreneurial Behavior Characteristics in the AI Era
-**Traditional Characteristics:**
-- Risk tolerance, opportunity recognition, innovation drive
 
-**Enhanced by AI:**
-- **Rapid Experimentation**: Test 10x more ideas in same timeframe
-- **Data-Driven Decisions**: Real-time analysis of market signals
-- **Scalable Creativity**: Generate numerous solutions, then apply human judgment
-- **Global Perspective**: Instant access to worldwide market intelligence
+# Ten Entrepreneurial Competencies: Traditional vs AI-Enhanced
+
+The traditional **Ten Entrepreneurial Competencies** describe the mindset and behaviors that have guided entrepreneurs for decades. However, with the rise of AI, these competencies are being reshaped. Entrepreneurs today not only rely on the competencies, but also on their ability to leverage AI tools for opportunity detection, decision-making, efficiency, and collaboration. The table below presents a side-by-side view of the **traditional competencies** and their **AI-enhanced counterparts**, highlighting how entrepreneurial skills evolve in an AI-driven economy.
+
+| #  | Traditional Competency | AI-Enhanced Competency |
+|----|-------------------------|-------------------------|
+| 1  | **Opportunity Seeking and Initiative**<br>Entrepreneurs actively look for opportunities and take initiative to turn them into viable businesses. | **AI-Augmented Opportunity Seeking and Initiative**<br>Entrepreneurs leverage AI for market scanning, trend analysis, and opportunity detection (e.g., NLP on social media, predictive analytics). They use AI copilots to generate and validate new ideas rapidly. |
+| 2  | **Persistence**<br>Successful entrepreneurs don't give up easily. They persist in overcoming obstacles and are determined to achieve their goals despite challenges. | **AI-Driven Persistence**<br>Entrepreneurs use AI simulations, reinforcement learning, and iterative prototyping to persist through failures—treating setbacks as data points to improve algorithms, products, and strategies. |
+| 3  | **Commitment**<br>They demonstrate a high level of commitment to their business, going above and beyond to ensure its success. | **Commitment with Human-AI Synergy**<br>Entrepreneurs show commitment not only through personal effort but also by designing AI-human workflows that maximize productivity and long-term trust. |
+| 4  | **Demand for Efficiency and Quality**<br>Entrepreneurs strive to improve processes, products, and services. | **Demand for AI-Optimized Efficiency and Quality**<br>Entrepreneurs apply AI tools (automation, generative design, predictive monitoring) to optimize operations and maintain high-quality standards. |
+| 5  | **Risk-Taking**<br>They are willing to take calculated risks and make decisions under uncertainty. | **AI-Assisted Risk-Taking**<br>Entrepreneurs combine human judgment with AI-powered risk assessment models (scenario analysis, simulations, fraud detection) to make smarter decisions under uncertainty. |
+| 6  | **Goal Setting**<br>Entrepreneurs set clear, challenging, and achievable goals. | **Goal Setting with AI Metrics**<br>Entrepreneurs use AI dashboards and predictive KPIs to set SMART goals and adjust them dynamically based on real-time data. |
+| 7  | **Information Seeking**<br>They constantly seek out relevant information through research, feedback, and trends. | **AI-Enhanced Information Seeking**<br>Entrepreneurs integrate AI research assistants, scrapers, and domain-specific LLMs to gather and synthesize information at scale. |
+| 8  | **Systematic Planning and Monitoring**<br>Entrepreneurs develop detailed plans and regularly monitor progress. | **Systematic Planning and Monitoring with AI Agents**<br>Entrepreneurs deploy AI agents for agile management, scenario simulation, and adaptive monitoring. |
+| 9  | **Persuasion and Networking**<br>They persuade others and build strong networks for growth. | **AI-Powered Persuasion and Networking**<br>Entrepreneurs use AI to personalize pitches, analyze investor profiles, optimize engagement, and find high-value connections. |
+| 10 | **Independence and Self-Confidence**<br>Entrepreneurs are confident, autonomous, and take responsibility for decisions. | **Augmented Independence and Self-Confidence**<br>Entrepreneurs maintain autonomy while leveraging AI copilots for decision support, gaining confidence from mastering human-AI collaboration. |
 
 ## Our Journey
 
