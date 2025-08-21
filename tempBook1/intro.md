@@ -12,10 +12,10 @@ Welcome to **CEN 4930 – Entrepreneuring AI-Based Startups**. This course is de
 - Active mentor and collaborator with international academic and industry partners. 
 
 ## Course Goal and Class Focus
-- Course Goal: Build an AI-powered MVP and deliver a compelling pitch
-- Your Journey: From idea to functioning prototype in 16 weeks
-- Key Question: How is AI changing the entrepreneurial landscape?
-- Today's Focus:
+- **Course Goal**: Build an AI-powered MVP and deliver a compelling pitch
+- **Your Journey**: From idea to functioning prototype in 16 weeks
+- **Key Question**: How is AI changing the entrepreneurial landscape?
+- **Today's Focus (08/22)**:
   - Understanding the AI-entrepreneurship intersection
   - Meetup
   - Team Formation
