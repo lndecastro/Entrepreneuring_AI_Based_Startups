@@ -172,7 +172,7 @@ To promote interaction among students, foster networking, and facilitate the cre
 
 ### Expected Outcome  
 - Students build initial connections and identify peers they want to work with.  
-- **Up to 7 startup teams** are formed, each with up to 3 students.  
+- **Up to 12 startup teams** are formed, each with up to 3 students.  
 - The activity mirrors a real-world networking event, preparing students for collaboration in entrepreneurial environments.  
 
 
