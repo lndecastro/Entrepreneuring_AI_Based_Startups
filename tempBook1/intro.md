@@ -68,7 +68,7 @@ The traditional **Ten Entrepreneurial Competencies** describe the mindset and be
 | 9  | **Persuasion and Networking**<br>They persuade others and build strong networks for growth. | **AI-Powered Persuasion and Networking**<br>Entrepreneurs use AI to personalize pitches, analyze investor profiles, optimize engagement, and find high-value connections. |
 | 10 | **Independence and Self-Confidence**<br>Entrepreneurs are confident, autonomous, and take responsibility for decisions. | **Augmented Independence and Self-Confidence**<br>Entrepreneurs maintain autonomy while leveraging AI copilots for decision support, gaining confidence from mastering human-AI collaboration. |
 
-## CW 1: Ten Entrepreneurial Competencies (TEC)
+### CW 1: Ten Entrepreneurial Competencies (TEC)
 
 ## Our Journey
 
