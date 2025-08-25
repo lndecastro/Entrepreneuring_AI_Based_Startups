@@ -1,19 +1,14 @@
 # Topic 2: AI Literacy
-## Slide Deck & Interactive Exercises
 
----
-
-## Slide Deck
-
-### Slide 1: Why AI Literacy Matters for Entrepreneurs
-**Title: Your AI Fluency = Your Competitive Advantage**
+## Why AI Literacy Matters for Entrepreneurs
+👉 **Tip:** *Your AI Fluency = Your Competitive Advantage*
 
 - **The New Baseline**: AI literacy is becoming as essential as digital literacy was in the 1990s
 - **Entrepreneurial Edge**: Understanding AI capabilities enables better strategic decisions
 - **Risk Mitigation**: Knowing AI limitations prevents costly mistakes
 - **Today's Goal**: Build practical AI skills that directly impact your startup success
 
-### Slide 2: The AI Literacy Framework for Entrepreneurs
+## The AI Literacy Framework for Entrepreneurs
 **Four Core Competencies:**
 
 1. **Recognition**: Identifying where AI can add value
@@ -23,21 +18,69 @@
 
 **Success Metric**: Can you leverage AI to solve real business problems while maintaining quality and ethical standards?
 
-### Slide 3: Overview of AI and Machine Learning
-**AI Hierarchy:**
+## Overview of AI and Machine Learning
+**AI Hierarchy (an incomplete list):**
+
 ```
-Artificial Intelligence (Broad concept)
+Artificial Intelligence (Broad concept: simulating human intelligence in machines)
+├── Symbolic AI (Rule-based reasoning)
+│   ├── Expert Systems (If-then rules)
+│   ├── Knowledge Graphs & Ontologies (Structured knowledge representation)
+│   └── Planning & Reasoning (Logic-based decision making)
+│
+├── Computational Intelligence (Nature-inspired methods)
+│   ├── Evolutionary Algorithms (Optimization via selection & mutation)
+│   ├── Artificial Neural Networks (Neurally-inspired networks of processing units)
+│   ├── Swarm Intelligence (Collective behavior of agents, e.g., ants, bees)
+│   ├── Fuzzy Logic (Reasoning under uncertainty)
+│   └── Artificial Immune Systems (Adaptive immuno-inspired models)
+│
 ├── Machine Learning (Learning from data)
-│   ├── Supervised Learning (Labeled examples)
+│   ├── Supervised Learning (Labeled examples → classification/regression)
+│   │   ├── Regression (e.g. Linear/Logistic)
+│   │   ├── Decision Trees & Random Forests
+│   │   ├── Support Vector Machines (SVM)
+│   │   └── Naive Bayes and KNN
+│   │
 │   ├── Unsupervised Learning (Pattern discovery)
-│   └── Reinforcement Learning (Trial and error)
-└── Deep Learning (Neural networks)
-    └── Large Language Models (Text understanding)
+│   │   ├── Clustering (k-Means, Hierarchical, DBSCAN)
+│   │   ├── Dimensionality Reduction (PCA, t-SNE, UMAP)
+│   │   └── Association Rule Mining (Apriori, etc.)
+│   │
+│   ├── Semi-Supervised Learning (Few labels + unlabeled data)
+│   └── Reinforcement Learning (Trial and error with rewards)
+│       ├── Q-Learning
+│       ├── Policy Gradient Methods
+│       └── Deep Reinforcement Learning (Deep Q-Networks, AlphaGo)
+│
+├── Deep Learning (Subfield of ML using multi-layer neural networks)
+│   ├── Feedforward Neural Networks (Basic perceptrons, MLPs)
+│   ├── Convolutional Neural Networks (CNNs → vision & images)
+│   ├── Recurrent Neural Networks (RNNs, LSTMs, GRUs → sequences)
+│   ├── Graph Neural Networks (GNNs → relational data)
+│   └── Transformers (Attention-based models, foundation of modern GenAI)
+│
+├── Generative AI (Models that create new content)
+│   ├── Generative Adversarial Networks (GANs)
+│   ├── Variational Autoencoders (VAEs)
+│   ├── Diffusion Models (Stable Diffusion, Imagen, DALL·E)
+│   └── Autoregressive Models (Predict next token, pixel, etc.)
+│
+└── Large Language Models (LLMs → specialized Generative AI for text)
+    ├── Architecture: Transformer-based (self-attention)
+    ├── Training: Pretraining + Fine-tuning + RLHF
+    ├── Capabilities
+    │   ├── Text Generation & Summarization
+    │   ├── Question Answering
+    │   ├── Translation & Multilingual Understanding
+    │   ├── Code Generation
+    │   └── Reasoning & Knowledge Extraction
+    └── Examples: GPT, Claude, Gemini, LLaMA, Mistral, etc.
 ```
 
-**Key Insight**: You don't need to code to leverage these technologies effectively
+💡 **Key Insight**: *You don't need to code to leverage these technologies effectively.*
 
-### Slide 4: AI Technologies Entrepreneurs Should Know
+## Sample AI Technologies and Applications Entrepreneurs Should Know
 **Natural Language Processing (NLP):**
 - Customer service chatbots
 - Content generation and editing
@@ -56,23 +99,6 @@ Artificial Intelligence (Broad concept)
 - Supply chain optimization
 - Financial risk assessment
 
-### Slide 5: Principles of Exploratory Data Analysis (EDA)
-**The Entrepreneur's Data Mindset:**
-
-1. **Question Everything**: What story does this data tell?
-2. **Look for Patterns**: Trends, outliers, relationships
-3. **Validate Assumptions**: Test your business hypotheses
-4. **Find Actionable Insights**: Data that drives decisions
-
-**EDA Process:**
-- Data collection → Cleaning → Visualization → Pattern identification → Hypothesis testing
-
-### Slide 6: Data Analytics Applications for Startups
-**Customer Analytics:**
-- User acquisition costs and lifetime value
-- Feature usage patterns and engagement metrics
-- Customer segmentation and personalization opportunities
-
 **Market Analytics:**
 - Competitor pricing and positioning analysis
 - Market size estimation and growth projections
@@ -83,7 +109,36 @@ Artificial Intelligence (Broad concept)
 - Process efficiency measurements
 - Cost reduction opportunities
 
-### Slide 7: Principles of GenAI for Entrepreneurs
+## Principles of Exploratory Data Analysis (EDA)
+**The Entrepreneur's Data Visualization and Storytelling Mindset:**
+
+1. **Question Everything**: What story does this data tell?
+2. **Look for Patterns**: Trends, outliers, relationships
+3. **Validate Assumptions**: Test your business hypotheses
+4. **Find Actionable Insights**: Data that drives decisions
+
+**EDA Process:**
+- Data collection → Cleaning → Descriptive Analysis → Visualization → Data Storytelling and Dashboard Design
+
+## Principles of Data Analytics
+**The Entrepreneur's Inference and Decision-Making Mindset:**
+
+1. **Generalize from Data**: Move from samples to broader conclusions
+2. **Test Hypotheses**: Apply inference to validate ideas
+3. **Predict and Extrapolate**: Use models to forecast future outcomes
+4. **Guide Strategic Choices**: Turn analysis into data-driven decisions
+
+# Data Analysis vs. Data Analytics
+
+| Aspect | **Exploratory Data Analysis (EDA)** | **Data Analytics** |
+|--------|--------------------------------------|---------------------|
+| **Mindset** | The Entrepreneur's **Data Visualization and Storytelling** Mindset | The Entrepreneur's **Inference and Decision-Making** Mindset |
+| **Focus** | Understanding, visualizing, and communicating data | Generalizing, predicting, and guiding strategic decisions |
+| **Principles** | 1. Question Everything: What story does this data tell?<br>2. Look for Patterns: Trends, outliers, relationships<br>3. Validate Assumptions: Test your business hypotheses<br>4. Find Actionable Insights: Data that drives decisions | 1. Generalize from Data: Move from samples to broader conclusions<br>2. Test Hypotheses: Apply statistical inference to validate ideas<br>3. Predict and Extrapolate: Use models to forecast future outcomes<br>4. Guide Strategic Choices: Turn analysis into data-driven decisions |
+| **Outputs** | Dashboards, reports, visual stories | Predictions, forecasts, recommendations |
+| **Tools** | Visualization tools (Tableau, Power BI, matplotlib) | Statistical & ML tools (R, Python, SAS, scikit-learn) |
+
+## Principles of GenAI for Entrepreneurs
 **Understanding Generative AI Capabilities:**
 
 **Text Generation**: Content creation, code writing, analysis
@@ -93,22 +148,7 @@ Artificial Intelligence (Broad concept)
 
 **Business Applications**: Marketing content, product documentation, customer communications, internal processes
 
-### Slide 8: Prompt Engineering Fundamentals
-**The CLEAR Framework:**
-
-- **C**ontext: Provide relevant background information
-- **L**ength: Specify desired output length
-- **E**xamples: Include sample inputs/outputs when helpful
-- **A**udience: Define who the output is for
-- **R**ole: Tell the AI what role to play
-
-**Example:**
-```
-Poor: "Write about marketing"
-Better: "As a marketing consultant for B2B SaaS startups, write a 300-word email sequence for nurturing trial users. Include 3 emails with specific subject lines and calls-to-action. Target audience: IT managers at mid-size companies."
-```
-
-### Slide 9: AI Limitations and Bias Recognition
+## AI Limitations and Bias Recognition
 **Critical Limitations:**
 
 **Hallucination**: AI can confidently state incorrect information
@@ -119,7 +159,7 @@ Better: "As a marketing consultant for B2B SaaS startups, write a 300-word email
 
 **Mitigation Strategies**: Verification, multiple sources, critical evaluation, human oversight
 
-### Slide 10: Building Your AI Toolkit
+## Building Your AI Toolkit
 **Essential Categories:**
 
 1. **Research & Analysis**: Perplexity, Claude, ChatGPT
@@ -139,7 +179,7 @@ Better: "As a marketing consultant for B2B SaaS startups, write a 300-word email
 **Setup:** Individual work followed by team comparison
 
 **Part A: Business Challenge Analysis (10 minutes)**
-Each student receives a different business scenario:
+Each team receives a different business scenario:
 
 **Scenario Examples:**
 - E-commerce startup needs to reduce customer service costs
@@ -170,20 +210,29 @@ Compare solutions and discuss trade-offs between different approaches
 **Challenge:** Get AI to help with market research for a sustainable fashion startup
 
 **Progression:**
-1. **Weak Prompt**: "Tell me about sustainable fashion"
-2. **Better Prompt**: "Analyze the sustainable fashion market including size, trends, and key players"
-3. **Strong Prompt**: "As a market research analyst, provide a comprehensive analysis of the sustainable fashion market for a startup targeting Gen Z consumers. Include market size, growth projections, major competitors, consumer behavior trends, and key success factors. Format as an executive summary with bullet points."
+1. **Weak Prompt**
+```
+Tell me about sustainable fashion
+```
+2. **Better Prompt**:
+```
+Analyze the sustainable fashion market including size, trends, and key players
+```
+3. **Strong Prompt**:
+```
+As a market research analyst, provide a comprehensive analysis of the sustainable fashion market for a startup targeting Gen Z consumers. Include market size, growth projections, major competitors, consumer behavior trends, and key success factors. Format as an executive summary with bullet points.
+```
 
 **Round 2: Advanced Techniques (10 minutes)**
 
 **Chain-of-Thought Prompting:**
 ```
-"Walk me through the step-by-step process to validate a business idea for an AI-powered meal planning app. Consider market research, customer validation, technical feasibility, and competitive analysis. Explain your reasoning for each step."
+Walk me through the step-by-step process to validate a business idea for an AI-powered meal planning app. Consider market research, customer validation, technical feasibility, and competitive analysis. Explain your reasoning for each step.
 ```
 
 **Role-Playing Prompts:**
 ```
-"Act as a potential customer for a productivity app designed for remote workers. I'm going to pitch you my idea, and I want you to ask tough questions and raise objections that a real customer might have."
+Act as a potential customer for a productivity app designed for remote workers. I'm going to pitch you my idea, and I want you to ask tough questions and raise objections that a real customer might have.
 ```
 
 **Round 3: Business Application (10 minutes)**
@@ -211,7 +260,7 @@ Compare solutions and discuss trade-offs between different approaches
    - How would you prioritize improvement areas?
    - What additional data would be valuable?
 
-**Tools:** Use Julius AI or upload data to ChatGPT for analysis
+**Tools:** Upload data to ChatGPT for analysis
 
 **Deliverable:** 3 key insights with supporting evidence and recommended actions
 
