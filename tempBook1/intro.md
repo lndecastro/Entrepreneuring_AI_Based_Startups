@@ -51,6 +51,33 @@ Welcome to **CEN 4930 – Entrepreneuring AI-Based Startups**. This course is de
 4. **Business Strategy**: Model generation, scenario planning, risk assessment
 5. **Communication**: Pitch development, content creation, presentation optimization
 
+## The Startup Ecosystem Today
+**Key Players:**
+- **Incubators**: Y Combinator, Techstars (AI-first programs), etc
+- **Investors**: Andreessen Horowitz, Sequoia (AI-focused funds), etc.
+- **Infrastructure**: OpenAI, Anthropic, Google (API providers), etc.
+- **Talent**: AI researchers transitioning to entrepreneurship and entrepreneurs embracing AI
+
+**Market Dynamics**: Customer expectation of AI integration, competitive necessity, regulatory considerations
+
+## Your AI Entrepreneurship Framework
+**The 4-Layer Approach:**
+
+1. **Foundation Layer**: AI literacy and prompt engineering
+2. **Application Layer**: Using AI for specific business functions
+3. **Integration Layer**: Building AI into your product/service
+4. **Innovation Layer**: Creating novel AI-powered solutions
+
+## Course Project Overview
+**Your Challenge:**
+- Identify a real problem worth solving
+- Design an AI-enhanced solution
+- Build a functional MVP
+- Validate with real customers
+- Present to panel
+
+**Success Metrics:** Problem-solution fit, technical feasibility, market validation, business viability
+
 ## Ten Entrepreneurial Competencies: Traditional vs AI-Enhanced
 
 The traditional **Ten Entrepreneurial Competencies** describe the mindset and behaviors that have guided entrepreneurs for decades. However, with the rise of AI, these competencies are being reshaped. Entrepreneurs today not only rely on the competencies, but also on their ability to leverage AI tools for opportunity detection, decision-making, efficiency, and collaboration. The table below presents a side-by-side view of the **traditional competencies** and their **AI-enhanced counterparts**, highlighting how entrepreneurial skills evolve in an AI-driven economy.
