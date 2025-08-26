@@ -1,6 +1,6 @@
 # Topic 2: AI Literacy
 
-## Why AI Literacy Matters for Entrepreneurs
+## 2.1 Why AI Literacy Matters for Entrepreneurs
 👉 **Tip:** *Your AI Fluency = Your Competitive Advantage*
 
 - **The New Baseline**: AI literacy is becoming as essential as digital literacy was in the 1990s
@@ -8,7 +8,7 @@
 - **Risk Mitigation**: Knowing AI limitations prevents costly mistakes
 - **Today's Goal**: Build practical AI skills that directly impact your startup success
 
-## The AI Literacy Framework for Entrepreneurs
+## 2.2 The AI Literacy Framework for Entrepreneurs
 **Four Core Competencies:**
 
 1. **Recognition**: Identifying where AI can add value
@@ -18,7 +18,7 @@
 
 **Success Metric**: Can you leverage AI to solve real business problems while maintaining quality and ethical standards?
 
-## Overview of AI and Machine Learning
+## 2.3 Overview of AI and Machine Learning
 **AI Hierarchy (an incomplete list):**
 
 ```
@@ -80,7 +80,7 @@ Artificial Intelligence (Broad concept: simulating human intelligence in machine
 
 💡 **Key Insight**: *You don't need to code to leverage these technologies effectively.*
 
-## Sample AI Technologies and Applications Entrepreneurs Should Know
+## 2.4 Sample AI Technologies and Applications Entrepreneurs Should Know
 **Natural Language Processing (NLP):**
 - Customer service chatbots
 - Content generation and editing
@@ -109,7 +109,7 @@ Artificial Intelligence (Broad concept: simulating human intelligence in machine
 - Process efficiency measurements
 - Cost reduction opportunities
 
-## Principles of Exploratory Data Analysis (EDA)
+## 2.5 Principles of Exploratory Data Analysis (EDA)
 **The Entrepreneur's Data Visualization and Storytelling Mindset:**
 
 1. **Question Everything**: What story does this data tell?
@@ -118,9 +118,9 @@ Artificial Intelligence (Broad concept: simulating human intelligence in machine
 4. **Find Actionable Insights**: Data that drives decisions
 
 **EDA Process:**
-- Data collection → Cleaning → Descriptive Analysis → Visualization → Data Storytelling and Dashboard Design
+- Data collection → Preparation → Descriptive Analysis → Visualization → Data Storytelling and Dashboard Design
 
-## Principles of Data Analytics
+## 2.6 Principles of Data Analytics
 **The Entrepreneur's Inference and Decision-Making Mindset:**
 
 1. **Generalize from Data**: Move from samples to broader conclusions
@@ -128,7 +128,10 @@ Artificial Intelligence (Broad concept: simulating human intelligence in machine
 3. **Predict and Extrapolate**: Use models to forecast future outcomes
 4. **Guide Strategic Choices**: Turn analysis into data-driven decisions
 
-# Data Analysis vs. Data Analytics
+**Data Analytics Process:**
+- Data collection → Preparation → Model Training → Model Validation → Inference
+
+## 2.7 Data Analysis vs. Data Analytics
 
 | Aspect | **Exploratory Data Analysis (EDA)** | **Data Analytics** |
 |--------|--------------------------------------|---------------------|
@@ -138,7 +141,7 @@ Artificial Intelligence (Broad concept: simulating human intelligence in machine
 | **Outputs** | Dashboards, reports, visual stories | Predictions, forecasts, recommendations |
 | **Tools** | Visualization tools (Tableau, Power BI, matplotlib) | Statistical & ML tools (R, Python, SAS, scikit-learn) |
 
-## Principles of GenAI for Entrepreneurs
+## 2.8 Principles of GenAI for Entrepreneurs
 **Understanding Generative AI Capabilities:**
 
 **Text Generation**: Content creation, code writing, analysis
@@ -148,7 +151,7 @@ Artificial Intelligence (Broad concept: simulating human intelligence in machine
 
 **Business Applications**: Marketing content, product documentation, customer communications, internal processes
 
-## AI Limitations and Bias Recognition
+## 2.9 AI Limitations and Bias Recognition
 **Critical Limitations:**
 
 **Hallucination**: AI can confidently state incorrect information
@@ -159,7 +162,7 @@ Artificial Intelligence (Broad concept: simulating human intelligence in machine
 
 **Mitigation Strategies**: Verification, multiple sources, critical evaluation, human oversight
 
-## Building Your AI Toolkit
+## 2.10 Building Your AI Toolkit
 **Essential Categories:**
 
 1. **Research & Analysis**: Perplexity, Claude, ChatGPT
@@ -172,127 +175,17 @@ Artificial Intelligence (Broad concept: simulating human intelligence in machine
 
 ---
 
-## Interactive Exercises
-
-### Exercise 1: AI Capability Assessment Workshop (25 minutes)
-
-**Setup:** Individual work followed by team comparison
-
-**Part A: Business Challenge Analysis (10 minutes)**
-Each team receives a different business scenario:
-
-**Scenario Examples:**
-- E-commerce startup needs to reduce customer service costs
-- Food delivery app wants to optimize driver routes
-- EdTech company needs personalized learning recommendations
-- Healthcare startup requires medical image analysis
-- FinTech app needs fraud detection capabilities
-
-**Task:** Identify which AI technologies could address each challenge and explain why
-
-**Part B: Technology Matching (10 minutes)**
-Match AI capabilities to business needs:
-- **Computer Vision** ↔ Quality control in manufacturing
-- **NLP** ↔ Customer sentiment analysis
-- **Predictive Analytics** ↔ Inventory forecasting
-- **Recommendation Systems** ↔ Content personalization
-- **Speech Recognition** ↔ Voice-activated interfaces
-
-**Part C: Team Discussion (5 minutes)**
-Compare solutions and discuss trade-offs between different approaches
-
-**AI Integration:** Use Claude or ChatGPT to validate your technology selections and explore implementation considerations
-
-### Exercise 2: Prompt Engineering Bootcamp (30 minutes)
-
-**Round 1: Basic Prompting (10 minutes)**
-
-**Challenge:** Get AI to help with market research for a sustainable fashion startup
-
-**Progression:**
-1. **Weak Prompt**
-```
-Tell me about sustainable fashion
-```
-2. **Better Prompt**:
-```
-Analyze the sustainable fashion market including size, trends, and key players
-```
-3. **Strong Prompt**:
-```
-As a market research analyst, provide a comprehensive analysis of the sustainable fashion market for a startup targeting Gen Z consumers. Include market size, growth projections, major competitors, consumer behavior trends, and key success factors. Format as an executive summary with bullet points.
-```
-
-**Round 2: Advanced Techniques (10 minutes)**
-
-**Chain-of-Thought Prompting:**
-```
-Walk me through the step-by-step process to validate a business idea for an AI-powered meal planning app. Consider market research, customer validation, technical feasibility, and competitive analysis. Explain your reasoning for each step.
-```
-
-**Role-Playing Prompts:**
-```
-Act as a potential customer for a productivity app designed for remote workers. I'm going to pitch you my idea, and I want you to ask tough questions and raise objections that a real customer might have.
-```
-
-**Round 3: Business Application (10 minutes)**
-
-**Real Challenge**: Students work on their actual course projects
-- Create prompts for their specific business problems
-- Test different approaches
-- Refine based on output quality
-
-### Exercise 3: Data Analysis Simulation (20 minutes)
-
-**Scenario:** You're analyzing customer data for a subscription box service
-
-**Provided Dataset** (simulated):
-- Customer demographics, subscription duration, churn rates, product preferences, engagement metrics
-
-**Analysis Tasks:**
-1. **Exploratory Questions:**
-   - What patterns do you see in customer behavior?
-   - Which customer segments are most valuable?
-   - What factors predict churn?
-
-2. **Business Insights:**
-   - What actionable recommendations emerge?
-   - How would you prioritize improvement areas?
-   - What additional data would be valuable?
-
-**Tools:** Upload data to ChatGPT for analysis
-
-**Deliverable:** 3 key insights with supporting evidence and recommended actions
-
-### Exercise 4: AI Bias Detection Challenge (15 minutes)
-
-**Setup:** Teams analyze AI outputs for potential bias
-
-**Test Cases:**
-1. **Hiring Assistant**: AI recommendations for software engineer candidates
-2. **Loan Approval**: AI assessment of creditworthiness applications
-3. **Healthcare Diagnosis**: AI analysis of patient symptoms
-4. **Marketing Content**: AI-generated advertisements for different demographics
-
-**Analysis Framework:**
-- What assumptions might the AI be making?
-- Are there demographic or cultural biases present?
-- What data limitations could cause problems?
-- How would you test for bias in real implementation?
-
-**Discussion:** Each team presents one bias they identified and suggests mitigation strategies
-
-### Exercise 5: GenAI Business Application Lab (25 minutes)
+## CW 2.1: GenAI Business Application Lab (25 minutes)
 
 **Station Rotation** (5 minutes per station):
 
 **Station 1: Content Marketing**
-- Generate social media content for a B2B SaaS startup
+- Generate social media content for your startup
 - Test different tones and audiences
 - Compare outputs across different AI tools
 
 **Station 2: Product Development**
-- Create user stories for a mobile app feature
+- Create user stories for your solution
 - Generate technical specifications
 - Develop testing scenarios
 
@@ -316,28 +209,7 @@ Act as a potential customer for a productivity app designed for remote workers. 
 - Where did AI excel versus where did you need significant human input?
 - What quality control measures would you implement?
 
-### Exercise 6: AI Limitation Reality Check (10 minutes)
-
-**Critical Thinking Exercise:**
-
-**Part A: Fact vs. Fiction** (5 minutes)
-Students evaluate AI-generated "facts" about their industry:
-- Some are accurate, some are outdated, some are completely false
-- Task: Identify which statements require verification and explain how you'd check them
-
-**Part B: Business Decision Simulation** (5 minutes)
-AI provides three different strategic recommendations for the same business scenario:
-- Students must identify contradictions
-- Determine what additional information is needed
-- Decide which recommendation to trust and why
-
-**Key Learning**: AI outputs require human judgment and verification, especially for critical business decisions
-
----
-
-## Homework Assignment
-
-### Project: AI-Powered Market Analysis
+## HW 2.1: AI-Powered Market Analysis
 
 **Objective:** Conduct comprehensive market analysis for your startup idea using AI tools, with critical evaluation of outputs
 
@@ -380,7 +252,7 @@ For each major finding, include:
 - **Appendix**: Prompt library and verification sources
 
 **Submission Requirements:**
-- Google Doc with clear section headers
+- Document with clear section headers
 - Include screenshots of key AI interactions
 - Cite all sources used for verification
 - Due: Before next class session
@@ -390,25 +262,6 @@ For each major finding, include:
 - **Effective use of AI tools** (25%)
 - **Critical evaluation of AI outputs** (25%)
 - **Strategic insights and recommendations** (20%)
-
----
-
-## Advanced Challenge (Optional)
-
-### AI Tool Comparison Study
-
-**For students seeking extra credit:**
-
-Choose one business function (market research, content creation, customer analysis, or financial planning) and compare 3 different AI tools:
-
-**Comparison Framework:**
-1. **Capability Assessment**: What can each tool do well/poorly?
-2. **Output Quality**: Accuracy, depth, usefulness for business decisions
-3. **Ease of Use**: Learning curve, interface design, integration options
-4. **Cost-Benefit Analysis**: Pricing vs. value delivered
-5. **Use Case Recommendations**: When to use each tool
-
-**Deliverable**: 1,000-word comparative analysis with tool recommendation matrix
 
 ---
 
@@ -467,7 +320,7 @@ Choose one business function (market research, content creation, customer analys
 
 ---
 
-## Next Week Preview
+## Next Topic Preview
 
 **Topic 3: Customer Development**
 - Customer Discovery methodologies
@@ -476,33 +329,19 @@ Choose one business function (market research, content creation, customer analys
 - Building customer creation strategies
 
 **Preparation:**
-- Install interview transcription app (Otter.ai or Rev)
+- Install interview/meeting transcription app (e.g. Otter.ai or Rev)
 - Identify 5 potential customers you could interview
 - Review your market analysis for customer insight gaps
 - Practice using AI for role-playing difficult conversations
 
 **Required Materials:**
-- Customer interview template (will be provided)
+- Customer interview template
 - Access to customer simulation AI tools
 - Notebook for field observations
 
 **Pre-Class Assignment:**
-Draft 10 customer discovery questions for your startup idea using AI assistance, then refine based on best practices we'll cover in class.
+Draft 10 customer discovery questions for your startup idea using AI assistance, then refine based on best practices we will cover in class.
 
-
-# Topic 2: Introduction to AI-Based Entrepreneurship
----
-
-## Real AI Startup Success Stories
-**Case Study 1: Jasper (AI Content)**
-- Founded: 2021 | Valuation: $1.5B (2022)
-- Problem: Marketing content creation bottleneck
-- AI Solution: GPT-powered content generation platform
-
-**Case Study 2: Runway ML (AI Video)**
-- Founded: 2018 | Valuation: $1.5B (2023)
-- Problem: Video editing complexity and cost
-- AI Solution: AI-powered video creation and editing
 
 
 
