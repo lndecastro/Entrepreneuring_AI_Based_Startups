@@ -280,7 +280,7 @@ Generative AI (GenAI) opens new opportunities for startups by lowering costs, sp
 
 ---
 
-## 4. Homework Assignment – Exploring GenAI Tools  
+## HW 1.1: Exploring GenAI Tools  
 
 **Objective:** Discover real-world GenAI tools and their entrepreneurial applications.  
 
