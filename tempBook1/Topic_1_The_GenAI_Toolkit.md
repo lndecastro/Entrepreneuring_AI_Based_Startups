@@ -280,6 +280,18 @@ Generative AI (GenAI) opens new opportunities for startups by lowering costs, sp
 
 ---
 
+## 3. Ethical Considerations and Wrap-Up Reflections
+
+- Responsible use: data privacy, bias, hallucinations, transparency
+- Examples of misuse and how to avoid them
+- When *not* to use AI or when to rely on human judgment
+- What did you learn about AI tools that surprised you?
+- Which AI tasks are you most comfortable with?
+- What task in your work would you most like to streamline with AI?
+- What did you learn about prompt engineering?
+
+---
+
 ## HW 1.1: Exploring GenAI Tools  
 
 **Objective:** Discover real-world GenAI tools and their entrepreneurial applications.  
@@ -295,16 +307,4 @@ Generative AI (GenAI) opens new opportunities for startups by lowering costs, sp
    - A reflection: *How could your startup use this tool?*  
 
 **Deliverable:** In-class presentation next session, with slides or a live demo if possible.  
-
----
-
-## 3. Ethical Considerations and Wrap-Up Reflections
-
-- Responsible use: data privacy, bias, hallucinations, transparency
-- Examples of misuse and how to avoid them
-- When *not* to use AI or when to rely on human judgment
-- What did you learn about AI tools that surprised you?
-- Which AI tasks are you most comfortable with?
-- What task in your work would you most like to streamline with AI?
-- What did you learn about prompt engineering?
 
