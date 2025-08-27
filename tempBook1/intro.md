@@ -150,7 +150,7 @@ When forming your startup team, it is important to have **complementary skills**
 
 ---
 
-## 2. Startup Meetup  
+## 2. Startup Speed Dating  
 
 ### Objective  
 To promote interaction among students, foster networking, and facilitate the creation of startup teams.  
