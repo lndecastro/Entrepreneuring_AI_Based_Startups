@@ -165,7 +165,7 @@ Artificial Intelligence (Broad concept: simulating human intelligence in machine
 ## 2.10 Building Your AI Toolkit
 **Essential Categories:**
 
-1. **Research & Analysis**: Perplexity, Claude, ChatGPT
+1. **Research & Analysis**: Perplexity, Claude, ChatGPT, NotebookLM, Scispace
 2. **Content Creation**: Jasper, Copy.ai, Gamma
 3. **Data Analysis**: Julius AI, DataGPT, Rows
 4. **Development**: GitHub Copilot, Replit, Claude Code
@@ -175,7 +175,63 @@ Artificial Intelligence (Broad concept: simulating human intelligence in machine
 
 ---
 
-## CW 2.1: GenAI Business Application Lab (25 minutes)
+## CW 2.1: AI Literacy Content Generation and Presentation
+
+### Objective
+This activity will develop AI literacy among startup teams by exploring foundational concepts of Artificial Intelligence and connecting them to entrepreneurial applications. Students will research, curate, and present one key topic, applying AI tools responsibly while strengthening teamwork and communication skills.
+
+### Topics
+Each startup team will be assigned **one** of the following topics:
+
+1. AI History  
+2. What is AI and Its Branches (computational intelligence, natural computing, soft computing, machine learning, deep learning, generative AI, etc.)  
+3. How Do Machines Learn (learning paradigms, learning approaches, learning strategies)  
+4. Exploratory Data Analysis (descriptive analysis, data visualization, data storytelling, dashboard design)  
+5. Unsupervised Machine Learning  
+6. Supervised Machine Learning  
+7. Sample Tasks: recommender systems, anomaly detection, natural language processing, computer vision, content generation  
+
+### Instructions
+
+1. **Research Phase (40’)**  
+   - Each team researches their assigned topic using reliable sources.  
+   - Suggested AI research tools: *Perplexity, Claude*.  
+   - Curate the retrieved content: synthesize, organize, validate, and adapt for entrepreneurial relevance.  
+
+2. **Deliverables**  
+   Each team must produce and upload the following to Canvas:  
+   - **Paper (DOCX):** A structured summary of the research (5–7 pages recommended).  
+   - **Slide Deck (max 12 slides):**  
+     - Upload in two formats:  
+       i. **Plain text (TXT):** The raw text content of each slide.  
+       ii. **PPTX format:** A designed presentation. Consider using Gamma.app to generate the slide deck. 
+   - **AI Use Disclosure:** Include a short section explaining what AI tool(s) were used, how, and why (per course AI policy).  
+
+3. **Presentation (10’ per team)**  
+   - Present findings to the class (max 10 minutes).  
+   - Highlight entrepreneurial implications of the topic.  
+   - Be ready for a short Q&A.  
+
+### Evaluation Criteria
+- **Depth of Research & Curation** (30%) – Quality of sources, synthesis, and entrepreneurial framing.  
+- **Written Paper (DOCX)** (20%) – Clarity, structure, and completeness.  
+- **Slides (TXT + PPTX)** (20%) – Effective visual storytelling, accurate and concise content.  
+- **Presentation Delivery** (20%) – Clarity, timing, engagement, teamwork.  
+- **AI Use Transparency** (10%) – Clear disclosure and reflection on AI tools used.  
+
+### Time Allocation (~120’)
+- **40’** – Team research, curation, and preparation.  
+- **70’** – Team presentations (10’ per team).  
+- **10’** – Wrap-up discussion, key takeaways, and feedback.  
+
+### Notes
+- All deliverables must be uploaded to **Canvas** before presenting.  
+- Use of AI tools is encouraged but must follow the course AI-use policy on **transparency, accountability, and fairness**.  
+- Keep presentations focused on **entrepreneurial insights** rather than purely technical details.  
+
+---
+
+## CW 2.2: GenAI Business Application Lab (25 minutes)
 
 **Station Rotation** (5 minutes per station):
 
