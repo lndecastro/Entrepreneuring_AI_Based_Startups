@@ -204,7 +204,7 @@ Each startup team will be assigned **one** of the following topics:
    - **Slide Deck (max 12 slides):**  
      - Upload in two formats:  
        i. **Plain text (TXT):** The raw text content of each slide.  
-       ii. **PPTX format:** A designed presentation. Consider using Gamma.app to generate the slide deck. 
+       ii. **PPTX format:** A designed presentation. Consider using Gamma.app or Scispace to generate the slide deck. NotebookLM can also be an alternative to generate the slides and narrative from the paper. 
    - **AI Use Disclosure:** Include a short section explaining what AI tool(s) were used, how, and why (per course AI policy).  
 
 3. **Presentation (10’ per team)**  
