@@ -5,7 +5,7 @@
 
 - **The New Baseline**: AI literacy is becoming as essential as digital literacy was in the 1990s
 - **Entrepreneurial Edge**: Understanding AI capabilities enables better strategic decisions
-- **Risk Mitigation**: Knowing AI limitations prevents costly mistakes
+- **Risk Mitigation**: Knowing AI uses and limitations prevents costly mistakes
 - **Today's Goal**: Build practical AI skills that directly impact your startup success
 
 ## 2.2 The AI Literacy Framework for Entrepreneurs
@@ -137,16 +137,16 @@ Artificial Intelligence (Broad concept: simulating human intelligence in machine
 |--------|--------------------------------------|---------------------|
 | **Mindset** | The Entrepreneur's **Data Visualization and Storytelling** Mindset | The Entrepreneur's **Inference and Decision-Making** Mindset |
 | **Focus** | Understanding, visualizing, and communicating data | Generalizing, predicting, and guiding strategic decisions |
-| **Principles** | 1. Question Everything: What story does this data tell?<br>2. Look for Patterns: Trends, outliers, relationships<br>3. Validate Assumptions: Test your business hypotheses<br>4. Find Actionable Insights: Data that drives decisions | 1. Generalize from Data: Move from samples to broader conclusions<br>2. Test Hypotheses: Apply statistical inference to validate ideas<br>3. Predict and Extrapolate: Use models to forecast future outcomes<br>4. Guide Strategic Choices: Turn analysis into data-driven decisions |
+| **Principles** | 1. Question Everything: What story does this data tell?<br>2. Look for Patterns: Trends, outliers, relationships<br>3. Validate Assumptions: Test your business hypotheses<br>4. Find Actionable Insights: Data that drives decisions | 1. Generalize from Data: Move from samples to broader conclusions<br>2. Test Hypotheses: Apply inference to validate ideas<br>3. Predict and Extrapolate: Use models to forecast future outcomes<br>4. Guide Strategic Choices: Turn analysis into data-driven decisions |
 | **Outputs** | Dashboards, reports, visual stories | Predictions, forecasts, recommendations |
-| **Tools** | Visualization tools (Tableau, Power BI, matplotlib) | Statistical & ML tools (R, Python, SAS, scikit-learn) |
+| **Tools** | Visualization tools (e.g. Tableau, Power BI, matplotlib) | Statistical, AI & ML tools (e.g. R, Python, SAS, scikit-learn) |
 
 ## 2.8 Principles of GenAI for Entrepreneurs
 **Understanding Generative AI Capabilities:**
 
-**Text Generation**: Content creation, code writing, analysis
-**Image Generation**: Marketing materials, prototypes, concepts
-**Audio Generation**: Voiceovers, music, podcasts
+**Text Generation**: Content creation, code writing, analysis <br>
+**Image Generation**: Marketing materials, prototypes, concepts <br>
+**Audio Generation**: Voiceovers, music, podcasts <br>
 **Video Generation**: Presentations, demos, marketing content
 
 **Business Applications**: Marketing content, product documentation, customer communications, internal processes
