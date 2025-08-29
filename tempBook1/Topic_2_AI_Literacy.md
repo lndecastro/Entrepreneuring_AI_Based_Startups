@@ -154,11 +154,11 @@ Artificial Intelligence (Broad concept: simulating human intelligence in machine
 ## 2.9 AI Limitations and Bias Recognition
 **Critical Limitations:**
 
-**Hallucination**: AI can confidently state incorrect information
-**Bias**: Reflects biases present in training data
-**Context Limitations**: Limited understanding of nuance and context
-**Temporal Limits**: Training data cutoffs create knowledge gaps
-**Lack of Real-World Experience**: No practical business experience
+**Hallucination**: AI can confidently state incorrect information <br>
+**Bias**: Reflects biases present in training data <br>
+**Context Limitations**: Limited understanding of nuance and context <br>
+**Temporal Limits**: Training data cutoffs create knowledge gaps <br>
+**Lack of Real-World Experience**: No practical business experience <br>
 
 **Mitigation Strategies**: Verification, multiple sources, critical evaluation, human oversight
 
@@ -188,8 +188,9 @@ Each startup team will be assigned **one** of the following topics:
 3. How Do Machines Learn (learning paradigms, learning approaches, learning strategies)  
 4. Exploratory Data Analysis (descriptive analysis, data visualization, data storytelling, dashboard design)  
 5. Unsupervised Machine Learning  
-6. Supervised Machine Learning  
-7. Sample Tasks: recommender systems, anomaly detection, natural language processing, computer vision, content generation  
+6. Supervised Machine Learning
+7. GenAI and LLMs
+8. Sample Tasks: recommender systems, anomaly detection, natural language processing, computer vision, content generation  
 
 ### Instructions
 
@@ -219,9 +220,9 @@ Each startup team will be assigned **one** of the following topics:
 - **Presentation Delivery** (20%) – Clarity, timing, engagement, teamwork.  
 - **AI Use Transparency** (10%) – Clear disclosure and reflection on AI tools used.  
 
-### Time Allocation (~120’)
+### Time Allocation (~130’)
 - **40’** – Team research, curation, and preparation.  
-- **70’** – Team presentations (10’ per team).  
+- **80’** – Team presentations (10’ per team).  
 - **10’** – Wrap-up discussion, key takeaways, and feedback.  
 
 ### Notes
