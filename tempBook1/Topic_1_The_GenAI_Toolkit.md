@@ -167,7 +167,80 @@ Step 3 – Prediction:
 Based on findings, advise whether Contoso should continue, adjust, or halt this Discount Band.
 ```
 
-### 1.11 Tips for Troubleshooting and Improving Prompts
+### 1.11 Reverse Prompting: A Prompt Analysis Technique
+
+Beyond writing prompts, there are methods to **analyze and understand** how prompts work. These techniques help you learn, debug, and improve your prompting skills.
+Reverse prompting means starting from an **output** and asking: 
+```
+What kind of prompt would generate this result?
+```
+
+It is useful for:
+
+- Understanding how specific outputs were created  
+- Reverse-engineering effective prompt patterns  
+- Teaching and learning prompt design by working backwards  
+
+> Reverse prompting is not a prompt type itself — it is an **analytical method** for understanding model behavior and improving your own prompt engineering skills.
+
+To reverse-prompting you can use a technique called **meta-prompt**, which asks the LLM to reverse prompt an output. Here is a general-purpose structure you can adapt to your context and use:
+```
+Here is an AI-generated output:
+
+[PASTE OUTPUT HERE]
+
+Your task is to reverse prompt this output. 
+That means: propose one or more possible prompts that could have generated it. 
+Explain your reasoning and show how different phrasings might affect the response.
+```
+
+### Reverse Prompting Example (Entrepreneurship Context)
+
+**Output (from the AI):**  
+```
+1. Conduct customer discovery interviews to validate your startup idea.
+2. Build a minimum viable product (MVP) to test with early adopters.
+3. Use the Lean Startup methodology to iterate quickly based on feedback.
+```
+
+**Reversed Prompt:**  
+```
+What are three key steps a student entrepreneur should follow when launching an AI-based startup?
+```
+
+This shows how reverse prompting can help:  
+
+- **Understand AI outputs in their domain** (if you see a list of steps, you can practice inferring what kind of question led to it).  
+- **Learn effective prompt patterns** (e.g., phrasing requests around “three key steps” often yields structured, actionable advice).  
+- **Apply to your startup projects** by practicing both sides: writing prompts and analyzing outputs to refine your own strategy.  
+
+### Exercise 5: Reverse Prompting in Startup Context
+
+Below is an AI-generated output. Your task is to **work backwards** and write the possible prompt(s) that might have generated it, and then **use a reverse prompt method** to do the same and compare with your proposed prompts.  
+
+**AI Output:**  
+```
+1. Identify a clear market pain point that your AI solution can address.
+2. Build a prototype (MVP) to demonstrate feasibility.
+3. Prepare a pitch deck that communicates your value proposition and business model.
+```
+
+**Your Task:**  
+- Propose at least **two different prompts** that could have led to this output.  
+- Compare how each proposed prompt would shape the AI’s response.  
+- **Use a meta-prompt to reverse prompt this output** and compare with your proposed prompts.
+```
+Here is an AI-generated output:
+
+1.	Identify a clear market pain point that your AI solution can address.
+2.	Build a prototype (MVP) to demonstrate feasibility.
+3.	Prepare a pitch deck that communicates your value proposition and business model.
+
+Reverse prompt this output: propose at least two different prompts that might have produced it.
+For each proposed prompt, explain why it would likely generate this output and how changing its phrasing might alter the answer.
+```
+
+### 1.12 Tips for Troubleshooting and Improving Prompts
 
 - If output is **too generic**: Add specific instructions or examples.
 - If output **hallucinates**: Ask the model to “only use provided information” or to look for verifiable sources. You can also ask the model to cite the sources.
@@ -178,7 +251,7 @@ Based on findings, advise whether Contoso should continue, adjust, or halt this 
 
 > Note: Once you understand how the LLM generates its output, hallucinations become a natural outcome and our role as moderators becomes evident.
   
-### 1.12 Assessing Prompt Quality
+### 1.13 Assessing Prompt Quality
 
 Five criteria to judge the effectiveness of a prompt-output pair:
 
