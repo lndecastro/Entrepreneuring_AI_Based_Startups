@@ -269,8 +269,105 @@ Five criteria to judge the effectiveness of a prompt-output pair:
 - Specify that the answer should be based **only on the uploaded file** or context.
 
 ---
+## 2. Context Engineering: Advanced AI Communication
 
-## 2. Useful GenAI Tools 
+### 2.1 What is Context Engineering?
+
+Context engineering is the practice of **designing, structuring, and managing the broader environment** in which a large language model (LLM) processes information, not just the direct prompt.
+
+While prompt engineering focuses on *how you phrase the instruction*, context engineering focuses on *what additional information surrounds and informs that instruction*.
+
+It is sometimes called *“prompt engineering on steroids”* because it moves beyond single instructions into **systematic control of the model’s cognitive environment**.
+
+### 2.2 Why Context Matters
+
+LLMs generate answers based purely on the **input context window**: the prompt plus any surrounding data you provide.  
+By carefully shaping this context, you can:
+- **Bias the model toward desired outcomes**  
+- **Reduce hallucination** by grounding responses in authoritative sources  
+- **Adapt the model to specific roles**  
+- **Create repeatable workflows** for consistency  
+
+### 2.3 Key Techniques in Context Engineering
+
+1. **System Role Design** – Define the AI’s persona or purpose.  
+2. **Instruction Layering** – Combine multiple prompt patterns.  
+3. **Contextual Priming** – Provide reference materials or examples.  
+4. **Retrieval-Augmented Generation (RAG)** – Dynamically inject external data.  
+5. **Chained Prompts** – Break complex tasks into stages.  
+6. **Output Shaping** – Specify desired tone, style, or format.
+7. **Negative Context Engineering** – Explicitly define what should be avoided or excluded.
+8. **Multi-Modal Context Orchestration** – Combine text, structured data, and other input types when available. 
+
+### 2.4 Context vs. Prompt Engineering
+
+| Aspect        | Prompt Engineering              | Context Engineering                             |
+|---------------|---------------------------------|------------------------------------------------|
+| Focus         | Wording of instruction          | Full environment around the instruction         |
+| Scope         | Single prompt                   | Multi-layered input, documents, workflows       |
+| Goal          | Better single response          | Consistent, domain-specific high-quality outputs|
+| Analogy       | Writing a recipe                | Designing the entire kitchen and pantry setup   |
+
+### 2.5 Example in AI-Based Startups
+
+**Prompt Engineering Example:**  
+```
+Summarize this business model canvas in three bullet points.
+```
+
+**Context Engineering Example:**  
+```
+System Role: You are a venture capital analyst specializing in AI startups.
+
+Reference Context: Here are three sample pitch decks from last year’s FGCU projects [INSERT OR UPLOAD CONTENT].
+
+Task: Evaluate the following business model canvas. Compare it to the reference cases and summarize in three bullet points.
+
+Output: Provide a structured table with Strengths, Weaknesses, and Funding Potential.
+```
+
+By embedding **role, reference materials, task, and output format**, the model produces more reliable and actionable results.
+
+### Exercise 6: From Prompt Engineering to Context Engineering
+
+**Part A – Prompt Engineering (Baseline)**  
+Use a simple prompt to complete the task below:
+```
+Summarize the following startup idea in three bullet points:
+
+Startup Idea: An AI-powered platform that helps local farmers predict crop diseases using satellite images and weather data.
+```
+
+**Part B – Context Engineering (Enhanced)**  
+Expand the same task into a **context-engineered input** by adding (if desired, add other techniques from Section 2.3):  
+1. **System Role**  
+2. **Reference Material**  
+3. **Instruction Layering**  
+4. **Output Shaping**  
+
+*Example:*  
+```
+System Role: You are a venture capital analyst specializing in AgriTech startups.
+
+Reference Context: Farmers face billions in losses annually due to crop diseases. Satellite-based solutions are an emerging trend in precision agriculture.
+
+Task: Summarize the following startup idea. Compare it to typical AgriTech innovations and highlight market potential.
+
+Startup Idea: An AI-powered platform that helps local farmers predict crop diseases using satellite images and weather data.
+
+Output: Provide three bullet points under the headings:
+- Value Proposition
+- Market Fit
+- Investment Potential
+```
+
+**Your Task:**  
+1. Write your own **context-engineered version** of the baseline prompt.  
+2. Compare the two outputs (baseline vs. context-engineered).  
+3. Reflect: *What improvements did context engineering bring to the AI’s response?*
+
+---
+## 3. Useful GenAI Tools 
 
 ### ChatGPT
 ChatGPT is a versatile AI language model developed by OpenAI, capable of interpreting natural language, performing various statistical analyses, coding in Python, and generating data visualizations such as bar charts, pie charts, scatter plots, and histograms. It supports data uploads in formats like CSV, XLSX, PDF, and JSON (up to 50MB) and can integrate with cloud storage like Google Drive and OneDrive. ChatGPT excels in broad AI capabilities including data analysis, summarization, and storytelling. It requires web browsing for real-time data updates.
