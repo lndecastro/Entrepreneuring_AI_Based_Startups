@@ -279,7 +279,7 @@ While prompt engineering focuses on *how you phrase the instruction*, context en
 
 It is sometimes called *“prompt engineering on steroids”* because it moves beyond single instructions into **systematic control of the model’s cognitive environment**.
 
-### 2.2 Why Context Matters
+### 2.2 Why Context Matters?
 
 LLMs generate answers based purely on the **input context window**: the prompt plus any surrounding data you provide.  
 By carefully shaping this context, you can:
