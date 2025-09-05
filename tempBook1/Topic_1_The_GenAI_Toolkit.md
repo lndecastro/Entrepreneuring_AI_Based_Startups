@@ -382,15 +382,15 @@ Personalized assistants, such as *Custom GPTs* are personalized versions of foun
   - Acting as a *single-purpose agent* — a specialized helper for a narrow domain.  
   - Rapid prototyping of ideas (MVPs that require direct user interaction).  
 
-**Strengths**: Always available, consistent tone/persona, easy to scale to many users.  
-
-**Limitations**: Narrow focus, less suitable for managing complex or evolving datasets.  
-
 **How to create one:**  
 1. **Define the role**: What is your model supposed to do (e.g., answer customer questions, analyze investor reports, support product design)?  
 2. **Set instructions**: Craft clear system messages and prompt templates.  
 3. **Add knowledge**: Upload files, FAQs, or curated datasets to ground the model in your domain.  
 4. **Integrate tools**: Connect APIs, code interpreters, or plugins when needed.  
+
+**Strengths**: Always available, consistent tone/persona, easy to scale to many users.  
+
+**Limitations**: Narrow focus, less suitable for managing complex or evolving datasets.  
 
 **Sample Entrepreneurial Applications:**  
 - Customer support assistant tailored to your product.  
@@ -408,14 +408,14 @@ Projects are collaborative **AI workspaces** that allow teams to combine **LLM i
   - Managing multi-step workflows (e.g., lean canvas, due diligence, product roadmap).  
   - Supporting team collaboration where everyone contributes and refines knowledge.  
 
-**Strengths**: Structured, persistent, collaborative, source-grounded.
-
-**Limitations**: Less dynamic for real-time interaction with external users; requires careful data curation.
-
 **Core Components:**  
 - **Knowledge base**: Upload business plans, reports, datasets.  
 - **Model interactions**: Ask questions, generate summaries, or perform analysis on the shared material.  
 - **Collaboration**: Teams can contribute, track, and refine insights in one place.  
+
+**Strengths**: Structured, persistent, collaborative, source-grounded.
+
+**Limitations**: Less dynamic for real-time interaction with external users; requires careful data curation.
 
 **Sample Entrepreneurial Applications:**  
 - Organizing all research for a startup idea (market trends, competitors, regulations).  
