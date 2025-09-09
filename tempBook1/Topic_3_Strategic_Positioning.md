@@ -77,3 +77,5 @@ At Berkshire Hathaway Life we do business with integrity, strength and stability
 3. Keep each section concise—1–3 sentences.
 4. Share with another team for feedback.
 5. Refine and submit — this will serve as the foundation for your Business Model Canvas and pitch deck.
+6. The Strategic Positioning of your startup must be implemented as a **Personalized Assistant**, which can be created using a **Custom GPT** in ChatGPT, an **Artifact** in Claude.ai, or a **Gems** in Gemini. 
+The final upload is a link sharing the Personalized Assistant.
