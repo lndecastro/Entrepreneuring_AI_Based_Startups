@@ -1,33 +1,51 @@
 # Topic 4: Customer Development
 
-Customer Development is a methodology proposed by Steve Blank in The Four Steps to the Epiphany. It challenges the traditional product development model by placing the customer at the center of the process. Instead of assuming that entrepreneurs know what customers want, Customer Development emphasizes discovery, validation, creation, and scaling through constant learning and iteration.
+Customer Development is a methodology proposed by Steve Blank in **The Four Steps to the Epiphany**. It challenges the traditional product development model by placing the customer at the center of the process. Instead of assuming that entrepreneurs know what customers want, Customer Development emphasizes discovery, validation, creation, and scaling through constant learning and iteration.
 
 ---
 
-## Slide Deck
-
-### Slide 1: The Customer Development Revolution
-**Title: Your Customers Are Your Co-Founders**
-
-- **Core Principle**: Build what customers actually want, not what you think they want
-- **The Problem**: 70% of startups fail due to lack of market need
+## 4.1 The Customer Development Revolution Using AI
+**Your Customers Are Your Co-Founders:** Build what customers actually want, not what you think they want.
+- **The Problem**: Many startups fail due to lack of market need
 - **The Solution**: Systematic customer discovery, validation, and creation
 - **AI Advantage**: Simulate thousands of customer interactions before talking to real people
 
 **Quote**: *"Get out of the building!"* - Steve Blank
 
-### Slide 2: The Customer Development Framework
-**Three Sequential Phases:**
+## 4.2 The Customer Development Framework
+**Four Phases** <p>
+The customer development framework is composed of four phases:
+1. **Customer Discovery**: Identify who your customers are and whether the problem you are solving matters to them.
+2. **Customer Validation**: Prove customers will pay for your solution and test if your business model is repeatable and scalable by creating a reproducible sales process.
+3. **Customer Creation**: Generate demand and position your startup for market entry.
+4. **Company Building**: Transition from a startup into a structured, mission-driven company.
 
-1. **Customer Discovery**: Understanding the problem and customer
-2. **Customer Validation**: Proving customers will pay for your solution
-3. **Customer Creation**: Building scalable demand generation
+> **Key Insight**: Each phase has specific hypotheses to test and metrics to track.
+> **AI Enhancement**: Use AI to accelerate hypothesis generation, interview preparation, and pattern analysis.
 
-**Key Insight**: Each phase has specific hypotheses to test and metrics to track
+**Epiphany** <p> 
+A sudden realization or discovery, often marking the turning point in understanding customer needs:
+- Only a small amount of products that enter the market are profitable.
+- Winning products are co-created with customers.
+- Losing products are built in isolation and only handed off to sales/marketing.
 
-**AI Enhancement**: Use AI to accelerate hypothesis generation, interview preparation, and pattern analysis
+**The Road to Disaster** <p>
+Traditional product development often fails because:
+- Customers are not included in early stages.
+- Focus is on launch instead of learning.
+- Metrics confuse sales/marketing outcomes with product development.
+- Companies scale prematurely without validated demand.
 
-### Slide 3: Customer Discovery - Finding the Real Problem
+## 4.3 Startup Categories
+Understanding the type of market your product enters is essential:
+- **Existing Market (Sustaining)**: Improve on what exists (e.g., smartphones).
+- **New Market (Disruptive)**: Create something entirely new (e.g., VR headsets).
+- **Low-Cost Market**: Offer cheaper alternatives (e.g., budget airlines).
+- **Resegmented Market (Niche)** Create a new segment or redefine competition (e.g., Tesla’s luxury EVs).
+
+## 4.4 Customer Discovery - Finding the Real Problem
+**Goal**: Test whether the problem is real, significant, and solvable.
+
 **Core Questions:**
 - Who has this problem?
 - How acute is the pain?
@@ -35,8 +53,27 @@ Customer Development is a methodology proposed by Steve Blank in The Four Steps 
 - Why existing solutions fail them?
 - What would make them switch?
 
+**Process**:
+1. Define Hypotheses (customers, problems, product, channels, competitors).
+2. Test Problem Hypotheses (early customer interviews, understanding pain points).
+3. Test Product Hypotheses (present concepts, gather reactions, iterate).
+4. Check & Iterate (validate business model, restart if necessary).
+
+**Key Customers**: Early adopters and “earlyvangelists” (those passionate enough to advocate for your solution).
+
 **Traditional Approach**: Surveys, interviews, observation
 **AI-Enhanced Approach**: Persona simulation, interview preparation, rapid hypothesis testing, pattern identification in feedback
+
+**CW 4.1: Customer Discovery Summary**
+Fill the table below for your startup:
+
+| Hypothesis Area  | Key Assumptions | Validation Method | Findings |
+|------------------|-----------------|-------------------|----------|
+| Customers        | Who they are, segments | Interviews, surveys | |
+| Problems         | Top 3 pains | Observation, interviews | |
+| Product Concept  | Features, benefits | Mock-ups, feedback | |
+| Competitors      | Existing alternatives | Market scan | |
+| Channels/Price   | How to reach them, pricing ideas | Test channels | |
 
 ### Slide 4: The Art of Customer Interviews
 **Before AI**: Spend weeks preparing interview guides, recruiting participants, scheduling
