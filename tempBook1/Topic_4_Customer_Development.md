@@ -13,8 +13,7 @@ Customer Development is a methodology proposed by Steve Blank in **The Four Step
 ## 4.1 The Customer Development Revolution Using AI
 In a **product development model**, customers are only sought after a product has been fully developed and launched, while the **customer development model** seeks them out from the very beginning to validate assumptions.
 
-<img src="Data/ProductDevelopmentModel.png" width="85%">
-<img src="Data/CustomerDevelopmentModel.png" width="85%">
+<img src="Data/ProductDevelopmentModel1.png" width="85%">
 
 **Your Customers Are Your Co-Founders:** Build what customers actually want, not what you think they want.
 - **The Problem**: Many startups fail due to lack of market need
@@ -30,6 +29,8 @@ The customer development framework is composed of four phases:
 2. **Customer Validation**: Prove customers will pay for your solution and test if your business model is repeatable and scalable by creating a reproducible sales process.
 3. **Customer Creation**: Generate demand and position your startup for market entry.
 4. **Company Building**: Transition from a startup into a structured, mission-driven company.
+
+<img src="Data/CustomerDevelopmentModel.png" width="85%">
 
 > **Key Insight**: Each phase has specific hypotheses to test and metrics to track.
 > **AI Enhancement**: Use AI to accelerate hypothesis generation, interview preparation, and pattern analysis.
@@ -53,6 +54,8 @@ Understanding the type of market your product enters is essential:
 - **New Market (Disruptive)**: Create something entirely new (e.g., VR headsets).
 - **Low-Cost Market**: Offer cheaper alternatives (e.g., budget airlines).
 - **Resegmented Market (Niche)** Create a new segment or redefine competition (e.g., Tesla’s luxury EVs).
+
+<img src="Data/StartupCategories.png" width="85%">
 
 ## 4.4 Customer Discovery - Finding the Real Problem
 **Goal**: Test whether the problem is real, significant, and solvable.
