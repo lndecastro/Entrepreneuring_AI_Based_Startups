@@ -13,7 +13,7 @@ Customer Development is a methodology proposed by Steve Blank in **The Four Step
 ## 4.1 The Customer Development Revolution Using AI
 In a **product development model**, customers are only sought after a product has been fully developed and launched, while the **customer development model** seeks them out from the very beginning to validate assumptions.
 
-<img src="Data/ProductDevelopmentModel1.png" width="85%">
+<!-- <img src="Data/ProductDevelopmentModel1.png" width="85%"> -->
 
 ![Product Development Model](./Data/ProductDevelopmentModel1.png)
 
@@ -32,7 +32,7 @@ The customer development framework is composed of four phases:
 3. **Customer Creation**: Generate demand and position your startup for market entry.
 4. **Company Building**: Transition from a startup into a structured, mission-driven company.
 
-<img src="Data/CustomerDevelopmentModel.png" width="85%">
+![Customer Development Model](./Data/CustomerDevelopmentModel.png)
 
 > **Key Insight**: Each phase has specific hypotheses to test and metrics to track.
 > **AI Enhancement**: Use AI to accelerate hypothesis generation, interview preparation, and pattern analysis.
@@ -57,7 +57,7 @@ Understanding the type of market your product enters is essential:
 - **Low-Cost Market**: Offer cheaper alternatives (e.g., budget airlines).
 - **Resegmented Market (Niche)** Create a new segment or redefine competition (e.g., Tesla’s luxury EVs).
 
-<img src="Data/StartupCategories1.png" width="30%">
+![Startup Categories](./Data/StartupCategories1.png)
 
 ## 4.4 Customer Discovery - Finding the Real Problem
 **Goal**: Test whether the problem is real, significant, and solvable.
@@ -75,7 +75,7 @@ Understanding the type of market your product enters is essential:
 3. **Test Product Hypotheses** (present concepts, gather reactions, iterate).
 4. **Check & Iterate** (validate business model, restart if necessary).
 
-<img src="Data/CustomerDiscoveryProcess.png" width="60%">
+![Customer Discovery Process](./Data/CustomerDiscoveryProcess.png)
 
 **Key Customers**: Early adopters and “earlyvangelists” (those passionate enough to advocate for your solution).
 
@@ -230,7 +230,7 @@ Each team should complete this table with validated evidence:
 3. Develop positioning vs. competitors.  
 4. Verify or restart.  
 
-<img src="Data/CustomerValidationProcess.png" width="60%">
+![Customer Validation Process](./Data/CustomerValidationProcess.png)
 
 ### The Value Proposition Canvas
 The **Value Proposition Canvas** is a strategic tool developed by *Strategyzer* (Osterwalder et al. https://www.strategyzer.com/) to help startups and businesses design products and services that truly meet customer needs.  
@@ -259,7 +259,7 @@ The aim of the VPC is to achieve **fit** between the **Value Map** and the **Cus
 **When to Use**
 The VPC is especially powerful during the **Customer Validation stage** of the Customer Development process, where startups test whether their assumptions about value actually resonate with customers.
 
-<img src="Data/ValuePropositionCanvas.png" width="80%">
+![Value Proposition Canvas](./Data/ValuePropositionCanvas.png)
 
 **Validation Hierarchy:**
 1. **Problem Validation**: Do customers agree the problem exists?
@@ -431,7 +431,7 @@ Each team should complete this table with validated evidence:
 3. Launch the company and product (PR, campaigns, early customers).
 4. Create demand (educate market, drive adoption, measure KPIs).
 
-<img src="Data/CustomerCreationProcess.png" width="60%">
+![Customer Creation Process](./Data/CustomerCreationProcess.png)
 
 **Demand Generation Strategy:**
 - **Earned Media**: Word-of-mouth, PR, thought leadership
