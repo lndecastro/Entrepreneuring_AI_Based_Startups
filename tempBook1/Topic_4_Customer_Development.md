@@ -29,7 +29,6 @@ The customer development framework is composed of four phases:
 2. **Customer Validation**: Prove customers will pay for your solution and test if your business model is repeatable and scalable by creating a reproducible sales process.
 3. **Customer Creation**: Generate demand and position your startup for market entry.
 4. **Company Building**: Transition from a startup into a structured, mission-driven company.
-
 <img src="Data/CustomerDevelopmentModel.png" width="85%">
 
 > **Key Insight**: Each phase has specific hypotheses to test and metrics to track.
@@ -55,7 +54,7 @@ Understanding the type of market your product enters is essential:
 - **Low-Cost Market**: Offer cheaper alternatives (e.g., budget airlines).
 - **Resegmented Market (Niche)** Create a new segment or redefine competition (e.g., Tesla’s luxury EVs).
 
-<img src="Data/StartupCategories.png" width="85%">
+<img src="Data/StartupCategories1.png" width="85%">
 
 ## 4.4 Customer Discovery - Finding the Real Problem
 **Goal**: Test whether the problem is real, significant, and solvable.
