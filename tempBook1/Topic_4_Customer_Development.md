@@ -429,6 +429,8 @@ Each team should complete this table with validated evidence:
 3. Launch the company and product (PR, campaigns, early customers).
 4. Create demand (educate market, drive adoption, measure KPIs).
 
+<img src="Data/CustomerCreationProcess.png" width="60%">
+
 **Demand Generation Strategy:**
 - **Earned Media**: Word-of-mouth, PR, thought leadership
 - **Owned Media**: Content marketing, email, community building
@@ -446,6 +448,7 @@ Each team should complete this table with validated evidence:
 **AI Mitigation**: Objective analysis of feedback, diverse persona simulation, bias detection in interview data
 
 ---
+
 ## CW 4.3: Customer Creation with AI Support
 
 This guide walks you through the **four steps of Customer Creation** using AI prompts.  
