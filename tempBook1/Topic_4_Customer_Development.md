@@ -2,6 +2,12 @@
 
 Customer Development is a methodology proposed by Steve Blank in **The Four Steps to the Epiphany**. It challenges the traditional product development model by placing the customer at the center of the process. Instead of assuming that entrepreneurs know what customers want, Customer Development emphasizes discovery, validation, creation, and scaling through constant learning and iteration.
 
+## References
+- Blank, S. (2007). *The Four Steps to the Epiphany*, Wiley.  
+- Blank, S., & Dorf, B. (2012). *The Startup Owner’s Manual*, Wiley.  
+- Osterwalder, A., & Pigneur, Y. (2010). *Business Model Generation*, John Wiley & Sons.  
+- Ries, E. (2011). *The Lean Startup*, Crown Business.
+
 ---
 
 ## 4.1 The Customer Development Revolution Using AI
@@ -224,11 +230,11 @@ Each team should complete this table with validated evidence:
 **AI Applications**: Analyze feedback patterns, predict customer lifetime value, simulate pricing scenarios, generate A/B testing frameworks
 
 ### The Five Customer Discovery Archetypes
-**The Enthusiast**: Loves new solutions, early adopter, provides great feedback
-**The Skeptic**: Questions everything, valuable for stress-testing ideas
-**The Pragmatist**: Needs proven ROI, represents mainstream market
-**The Traditionalist**: Resistant to change, helps understand adoption barriers
-**The Champion**: Becomes your internal advocate, drives organizational adoption
+- **The Enthusiast**: Loves new solutions, early adopter, provides great feedback
+- **The Skeptic**: Questions everything, valuable for stress-testing ideas
+- **The Pragmatist**: Needs proven ROI, represents mainstream market
+- **The Traditionalist**: Resistant to change, helps understand adoption barriers
+- **The Champion**: Becomes your internal advocate, drives organizational adoption
 
 **AI Strategy**: Create detailed simulations of each archetype to practice tailored approaches
 
@@ -242,14 +248,14 @@ Each team should complete this table with validated evidence:
 
 ---
 
-# CW 4.2: Customer Validation with AI Support
+## CW 4.2: Customer Validation with AI Support
 
 This guide walks you through the **four steps of Customer Validation** using AI prompts.  
 Use these prompts in any LLM to simulate, prepare, and analyze before you validate with **real customers**.
 
-## Step 1. Prepare for Sales
+### Step 1. Prepare for Sales
 
-**Goal:** Clarify your value proposition, channels, and MARCOM before approaching visionary customers.
+**Goal:** Clarify your value proposition, channels, and MARCOM before approaching visionary customers. Build your Value Proposition Canvas (use [Strategyzer’s template](https://www.strategyzer.com/library/the-value-proposition-canvas)).  
 
 **Prompt 1 – Drafting the Value Proposition Canvas (VPC)**
 ```
@@ -277,7 +283,7 @@ suggest the top 3 marketing channels to reach early adopters.
 For each channel, propose 2 MARCOM messages (short value-driven statements) aligned with pains and gains.
 ```
 
-## Step 2. Sell to Visionary Customers
+### Step 2. Sell to Visionary Customers
 
 **Goal:** Simulate conversations with early adopters who are willing to take risks and provide feedback.
 
@@ -298,7 +304,7 @@ List the 5 most common objections a visionary customer might raise when consider
 For each objection, suggest a strong, evidence-based response that builds credibility.
 ```
 
-## Step 3. Develop Positioning vs. Competitors
+### Step 3. Develop Positioning vs. Competitors
 
 **Goal:** Ensure your startup is clearly differentiated.
 
@@ -327,7 +333,7 @@ Rate each statement (1–5) for clarity, credibility, and differentiation.
 Suggest improved wording that resonates better with each archetype.
 ```
 
-## Step 4. Verify or Restart
+### Step 4. Verify or Restart
 
 **Goal:** Check if the business model is viable and scalable — or pivot if needed.
 
@@ -353,7 +359,7 @@ Help me complete this Customer Validation Summary table:
 Conclude with a recommendation: Should I persevere, pivot, or restart?
 ```
 
-## Deliverable: Customer Validation Summary
+### Deliverable: Customer Validation Summary
 
 Each team should complete this table with validated evidence:
 
@@ -372,7 +378,19 @@ Each team should complete this table with validated evidence:
 
 ---
 
-### Slide 9: Customer Creation - Building Sustainable Demand
+## 4.6 Customer Creation - Building Sustainable Demand
+**Goal**: Generate demand and scale customer acquisition.  
+
+**Philosophy:**
+- Marketing depends on market type (existing, new, resegmented, or low-cost).  
+- Goal is to become **#1 in something important** to your customers.    
+
+**Process**:
+1. Prepare for launch (define market, objectives, year 1 targets).
+2. Position the company and product (internal and external positioning).
+3. Launch the company and product (PR, campaigns, early customers).
+4. Create demand (educate market, drive adoption, measure KPIs).
+
 **Demand Generation Strategy:**
 - **Earned Media**: Word-of-mouth, PR, thought leadership
 - **Owned Media**: Content marketing, email, community building
@@ -380,14 +398,136 @@ Each team should complete this table with validated evidence:
 
 **AI Applications**: Content generation, audience targeting, campaign optimization, customer journey mapping
 
-### Slide 10: Common Customer Development Pitfalls
-**The False Positive**: Customer says they love it but won't pay
-**The Wrong Customer**: Talking to users instead of buyers
-**The Leading Question**: Biasing responses toward desired answers
-**The Feature Trap**: Focusing on features instead of problems
-**The Sample Bias**: Only talking to similar types of people
+### Common Customer Development Pitfalls
+- **The False Positive**: Customer says they love it but won't pay
+- **The Wrong Customer**: Talking to users instead of buyers
+- **The Leading Question**: Biasing responses toward desired answers
+- **The Feature Trap**: Focusing on features instead of problems
+- **The Sample Bias**: Only talking to similar types of people
 
 **AI Mitigation**: Objective analysis of feedback, diverse persona simulation, bias detection in interview data
+
+---
+## CW 4.3: Customer Creation with AI Support
+
+This guide walks you through the **four steps of Customer Creation** using AI prompts.  
+Use these prompts in any LLM to simulate, prepare, and analyze before you launch with **real customers**.
+
+### Step 1. Prepare for Launch
+
+**Goal:** Define market type, positioning objectives, and Year 1 customer creation targets.
+
+**Prompt 1 – Market Type & Objectives**
+```
+I am working on a startup in [insert industry/problem area].
+Help me define the market type (existing, new, low-cost, resegmented).
+For this market type, propose:
+- Year 1 customer creation objectives (adoption goals, target market share).
+- Key risks and assumptions.
+- Success metrics to monitor.
+Return the results in a table with columns: Market Type, Objectives, Risks, Metrics.
+```
+
+**Prompt 2 – Year 1 Target Planning**
+```
+Based on my market type [insert], suggest 3 realistic Year 1 targets for:
+1. Customer acquisition
+2. Revenue
+3. Awareness (media mentions, followers, newsletter sign-ups)
+Provide benchmarks or comparables from similar startups if possible.
+```
+
+### Step 2. Position the Company and Product
+
+**Goal:** Craft clear internal and external positioning that differentiates the startup.
+
+**Prompt 3 – Positioning Draft**
+```
+Help me write internal and external positioning statements for my startup.
+
+Internal positioning: how the team sees the company’s mission, values, and unique advantage.
+External positioning: how customers, partners, and the press should perceive us.
+
+Ensure both are aligned but distinct. Provide 3 versions for each.
+```
+
+**Prompt 4 – Messaging Variants**
+```
+Based on our Value Proposition Canvas and positioning,
+generate 5 short MARCOM messages that highlight:
+- 2 pains relieved
+- 2 gains created
+- 1 differentiator vs competitors
+Make each message under 20 words and suitable for ads, landing pages, or social posts.
+```
+
+### Step 3. Launch the Company and Product
+
+**Goal:** Design and simulate campaigns for launch (PR, content, channels, early adopters).
+
+**Prompt 5 – Launch Campaign Plan**
+```
+Design a 90-day launch campaign for my startup.
+Include:
+- Earned media (PR, thought leadership, community buzz)
+- Owned media (website, blog, newsletter, LinkedIn posts)
+- Paid media (ads, influencers, sponsored content)
+Provide a timeline (week by week) with 2–3 key activities each week.
+```
+
+**Prompt 6 – Early Adopter Engagement**
+```
+Suggest 3 strategies to involve early adopters in the launch of my product.
+Focus on co-creation, advocacy, and word-of-mouth.
+Provide sample tactics and example messages to use.
+```
+
+### Step 4. Create Demand
+
+**Goal:** Educate the market, sustain adoption, and measure results with KPIs.
+
+**Prompt 7 – Demand Creation Strategy**
+```
+For my startup in [insert industry],
+design a demand creation strategy that includes:
+1. Educational content themes for my market type
+2. Channels to reach and convert early adopters
+3. Referral or viral loops to encourage growth
+4. KPIs for each activity (weekly and quarterly)
+```
+
+**Prompt 8 – KPI Dashboard Simulation**
+```
+Design a KPI dashboard for monitoring customer creation in Year 1.
+Metrics should cover:
+- Customer acquisition
+- Activation (first use/engagement)
+- Retention (repeat use or subscription renewal)
+- Referral (customer advocacy)
+- Revenue
+Provide suggested targets and leading indicators for each metric.
+```
+
+### Deliverable: Customer Creation Summary
+
+Each team should complete this table with validated evidence and targets:
+
+| Area                  | Evidence/Plan                          | Year 1 Target | KPIs to Track            | Next Action |
+|-----------------------|----------------------------------------|---------------|--------------------------|-------------|
+| Market Type & Goals   | Existing / New / Low-cost / Resegmented|               | Adoption, Share, Revenue |             |
+| Positioning           | Internal + External statements         |               | Message clarity metrics  |             |
+| Launch Campaign       | PR, Owned, Paid activities             |               | Leads, Trials, Sign-ups  |             |
+| Early Adopter Plan    | Engagement & advocacy tactics          |               | Referrals, Testimonials  |             |
+| Demand Creation       | Education + Growth loops               |               | Activation, Retention    |             |
+| KPI Dashboard         | Suggested tracking framework           |               | All metrics above        |             |
+
+---
+
+**Notes**:
+- Use AI to **simulate launch campaigns and positioning** before you run them.  
+- Always test messages with **real customers and channels** after AI drafting.  
+- Focus on **measurable adoption, not just activity**.  
+
 
 ---
 
