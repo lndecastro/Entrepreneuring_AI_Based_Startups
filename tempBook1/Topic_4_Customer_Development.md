@@ -55,7 +55,7 @@ Understanding the type of market your product enters is essential:
 - **Low-Cost Market**: Offer cheaper alternatives (e.g., budget airlines).
 - **Resegmented Market (Niche)** Create a new segment or redefine competition (e.g., Tesla’s luxury EVs).
 
-<img src="Data/StartupCategories1.png" width="40%">
+<img src="Data/StartupCategories1.png" width="30%">
 
 ## 4.4 Customer Discovery - Finding the Real Problem
 **Goal**: Test whether the problem is real, significant, and solvable.
@@ -73,7 +73,7 @@ Understanding the type of market your product enters is essential:
 3. **Test Product Hypotheses** (present concepts, gather reactions, iterate).
 4. **Check & Iterate** (validate business model, restart if necessary).
 
-<img src="Data/CustomerDiscoveryProcess.png" width="80%">
+<img src="Data/CustomerDiscoveryProcess.png" width="60%">
 
 **Key Customers**: Early adopters and “earlyvangelists” (those passionate enough to advocate for your solution).
 
@@ -227,6 +227,8 @@ Each team should complete this table with validated evidence:
 2. Sell to **visionary customers**.  
 3. Develop positioning vs. competitors.  
 4. Verify or restart.  
+
+<img src="Data/CustomerValidationProcess.png" width="60%">
 
 **Tools**:
 - **Value Proposition Canvas (VPC)**: Jobs, Pains, Gains ↔ Products, Pain Relievers, Gain Creators.  
