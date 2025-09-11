@@ -11,6 +11,11 @@ Customer Development is a methodology proposed by Steve Blank in **The Four Step
 ---
 
 ## 4.1 The Customer Development Revolution Using AI
+In a **product development model**, customers are only sought after a product has been fully developed and launched, while the **customer development model** seeks them out from the very beginning to validate assumptions.
+
+<img src="Data/ProductDevelopmentModel.png" width="85%">
+<img src="Data/CustomerDevelopmentModel.png" width="85%">
+
 **Your Customers Are Your Co-Founders:** Build what customers actually want, not what you think they want.
 - **The Problem**: Many startups fail due to lack of market need
 - **The Solution**: Systematic customer discovery, validation, and creation
