@@ -231,7 +231,7 @@ Each team should complete this table with validated evidence:
 <img src="Data/CustomerValidationProcess.png" width="60%">
 
 ### The Value Proposition Canvas
-The **Value Proposition Canvas** is a strategic tool developed by *Strategyzer* (Osterwalder et al.) to help startups and businesses design products and services that truly meet customer needs.  
+The **Value Proposition Canvas** is a strategic tool developed by *Strategyzer* (Osterwalder et al. https://www.strategyzer.com/) to help startups and businesses design products and services that truly meet customer needs.  
 It ensures **fit** between what you offer and what your customers actually want.
 
 **Two Main Parts**
