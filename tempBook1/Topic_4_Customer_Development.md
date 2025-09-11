@@ -54,18 +54,18 @@ Understanding the type of market your product enters is essential:
 - What would make them switch?
 
 **Process**:
-1. Define Hypotheses (customers, problems, product, channels, competitors).
-2. Test Problem Hypotheses (early customer interviews, understanding pain points).
-3. Test Product Hypotheses (present concepts, gather reactions, iterate).
-4. Check & Iterate (validate business model, restart if necessary).
+1. **Define Hypotheses** (customers, problems, product, channels, competitors).
+2. **Test Problem Hypotheses** (early customer interviews, understanding pain points).
+3. **Test Product Hypotheses** (present concepts, gather reactions, iterate).
+4. **Check & Iterate** (validate business model, restart if necessary).
 
 **Key Customers**: Early adopters and “earlyvangelists” (those passionate enough to advocate for your solution).
 
 **Traditional Approach**: Surveys, interviews, observation
 **AI-Enhanced Approach**: Persona simulation, interview preparation, rapid hypothesis testing, pattern identification in feedback
 
-**CW 4.1: Customer Discovery Summary**
-Fill the table below for your startup:
+## Customer Discovery Summary
+Your goal is to fill the table below for your startup:
 
 | Hypothesis Area  | Key Assumptions | Validation Method | Findings |
 |------------------|-----------------|-------------------|----------|
@@ -74,6 +74,111 @@ Fill the table below for your startup:
 | Product Concept  | Features, benefits | Mock-ups, feedback | |
 | Competitors      | Existing alternatives | Market scan | |
 | Channels/Price   | How to reach them, pricing ideas | Test channels | |
+
+## CW 4.1: Customer Discovery with AI Support
+
+This guide walks you through the **four steps of Customer Discovery** using AI prompts.  
+Use these prompts in any LLM to simulate, prepare, and analyze before you validate with **real customers**.
+
+### Step 1. Define Hypotheses
+
+**Goal:** Identify initial assumptions about customers, their problems, product concept, channels, and competitors.
+
+**Prompt 1 – Hypothesis Definition**
+```
+I am working on a startup idea in [insert your industry/problem area].
+Help me define clear hypotheses in the following areas:
+Customers – who are the potential segments and early adopters?
+Problems – what top 3 pains might these customers face?
+Product Concept – what features/benefits could solve these pains?
+Channels/Price – what ways could we reach them, and possible pricing approaches?
+Competitors – what existing alternatives are out there?
+Return the result as a table with these columns: Hypothesis Area, Key Assumptions.
+```
+
+### Step 2. Test Problem Hypotheses
+
+**Goal:** Use interviews or simulations to confirm whether the problem is real and painful.
+
+**Prompt 2 – Problem Interview Preparation**
+```
+Act as a startup mentor.
+Create 10 open-ended customer interview questions that test whether [problem area] is painful enough to solve.
+Questions must focus on behavior and experience (not hypotheticals) and avoid leading the customer.
+Organize them into an interview flow.
+```
+
+**Prompt 3 – Simulated Customer Responses**
+```
+Act as a potential customer in [target segment].
+Answer the following interview questions as if you were experiencing this problem in real life.
+Be specific about your frustrations, current workarounds, and what makes the situation painful.
+```
+
+### Step 3. Test Product Hypotheses
+
+**Goal:** Present early product concepts and collect reactions.
+
+**Prompt 4 – Product Concept Testing**
+```
+Here is my product concept: [insert short description of features/benefits].
+Act as an early adopter customer.
+React to this concept:
+What excites you?
+What confuses you?
+What would make you hesitant to use it?
+What missing feature would you expect?
+Provide feedback in bullet points.
+```
+
+**Prompt 5 – Iteration Guidance**
+```
+Here are the customer reactions to my product concept: [paste summaries].
+Suggest how I should refine my product concept to better address real pains and increase adoption.
+Highlight which features are "must-haves" vs "nice-to-haves".
+```
+
+### Step 4. Check & Iterate
+
+**Goal:** Review whether the problem, product, and business model hold together — or whether to pivot.
+
+**Prompt 6 – Validation Summary**
+```
+Based on the findings from my customer discovery process:
+Hypotheses defined (customers, problems, product, competitors, channels)
+Interview insights (main pains, gains, objections)
+Product feedback (reactions, must-have features)
+Help me fill in this Customer Discovery Summary table:
+| Hypothesis Area | Key Assumptions | Validation Method | Findings |
+| --------------- | --------------- | ----------------- | -------- |
+| Customers       |                 |                   |          |
+| Problems        |                 |                   |          |
+| Product Concept |                 |                   |          |
+| Competitors     |                 |                   |          |
+| Channels/Price  |                 |                   |          |
+Also, provide a recommendation: should I persevere, pivot, or restart?
+```
+
+**Deliverable: Customer Discovery Summary**
+
+Each team should complete this table with validated evidence:
+
+| Hypothesis Area  | Key Assumptions | Validation Method | Findings |
+|------------------|-----------------|-------------------|----------|
+| Customers        | Who they are, segments | Interviews, surveys | |
+| Problems         | Top 3 pains | Observation, interviews | |
+| Product Concept  | Features, benefits | Mock-ups, feedback | |
+| Competitors      | Existing alternatives | Market scan | |
+| Channels/Price   | How to reach them, pricing ideas | Test channels | |
+
+# Notes
+- Use AI to **simulate** before you **validate with real customers**.  
+- Always document the prompts you used and how AI shaped your process.  
+- Early adopters and “earlyvangelists” are your most valuable discovery partners.  
+
+
+
+
 
 ### Slide 4: The Art of Customer Interviews
 **Before AI**: Spend weeks preparing interview guides, recruiting participants, scheduling
