@@ -276,6 +276,8 @@ The VPC is especially powerful during the **Customer Validation stage** of the C
 - **The Traditionalist**: Resistant to change, helps understand adoption barriers
 - **The Champion**: Becomes your internal advocate, drives organizational adoption
 
+![The Five Customer Discovery Archetypes](./Data/FiveCustomerDiscoveryArchetypes.png)
+
 **AI Strategy**: Create detailed simulations of each archetype to practice tailored approaches
 
 ### Customer Validation Methodologies
