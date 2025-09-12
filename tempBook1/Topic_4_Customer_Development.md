@@ -34,7 +34,7 @@ The customer development framework is composed of four phases:
 
 ![Customer Development Model](./Data/CustomerDevelopmentModel.png)
 
-> **Key Insight**: Each phase has specific hypotheses to test and metrics to track.
+> **Key Insight**: Each phase has specific hypotheses to test and metrics to track. <p>
 > **AI Enhancement**: Use AI to accelerate hypothesis generation, interview preparation, and pattern analysis.
 
 **Epiphany** <p> 
@@ -79,8 +79,8 @@ Understanding the type of market your product enters is essential:
 
 **Key Customers**: Early adopters and “earlyvangelists” (those passionate enough to advocate for your solution).
 
-**Traditional Approach**: Surveys, interviews, observation
-**AI-Enhanced Approach**: Persona simulation, interview preparation, rapid hypothesis testing, pattern identification in feedback
+**Traditional Approach**: Surveys, interviews, observation. <p>
+**AI-Enhanced Approach**: Persona simulation, interview preparation, rapid hypothesis testing, pattern identification in feedback.
 
 ## Customer Discovery Summary
 Your goal is to fill the table below for your startup:
@@ -184,7 +184,7 @@ Also, provide a recommendation: should I persevere, pivot, or restart?
 
 **Deliverable: Customer Discovery Summary**
 
-Each team should complete this table with validated evidence:
+Each team should complete this table with validated evidence and add the results to your startup's personalized assistant:
 
 | Hypothesis Area  | Key Assumptions | Validation Method | Findings |
 |------------------|-----------------|-------------------|----------|
@@ -202,8 +202,8 @@ Each team should complete this table with validated evidence:
 ---
 
 ### The Art of Customer Interviews
-**Before AI**: Spend weeks preparing interview guides, recruiting participants, scheduling <p>
-**With AI**: Simulate dozens of interviews first, refine questions, practice difficult scenarios
+**Before AI**: Spend weeks preparing interview guides, recruiting participants, scheduling. <p>
+**With AI**: Simulate dozens of interviews first, refine questions, practice difficult scenarios.
 
 ### AI-Powered Customer Persona Development
 **Traditional Personas** (Static documents):
@@ -238,25 +238,25 @@ It ensures **fit** between what you offer and what your customers actually want.
 
 **Two Main Parts**
 
-**1. Customer Profile (right side)**
+**1. Customer Profile (right side)** <p>
 Describes the customer’s world:
 - **Jobs**: What customers are trying to get done (functional, emotional, social).  
 - **Pains**: Problems, obstacles, or negative experiences they face while trying to do these jobs.  
 - **Gains**: Desired outcomes, benefits, or positive results customers want.  
 
-**2. Value Map (left side)**
+**2. Value Map (left side)** <p>
 Describes how your startup creates value:
 - **Products & Services**: What you are offering to customers.  
 - **Pain Relievers**: How your product reduces or eliminates key pains.  
 - **Gain Creators**: How your product delivers benefits and exceeds expectations.  
 
-**The Goal: Achieve Fit**
+**The Goal: Achieve Fit** <p>
 The aim of the VPC is to achieve **fit** between the **Value Map** and the **Customer Profile**:
 - Your **pain relievers** must address the customer’s real **pains**.  
 - Your **gain creators** must align with the customer’s desired **gains**.  
 - Your **products/services** must help customers complete their **jobs** better than alternatives.  
 
-**When to Use**
+**When to Use** <p>
 The VPC is especially powerful during the **Customer Validation stage** of the Customer Development process, where startups test whether their assumptions about value actually resonate with customers.
 
 ![Value Proposition Canvas](./Data/ValuePropositionCanvas.png)
@@ -291,7 +291,8 @@ The VPC is especially powerful during the **Customer Validation stage** of the C
 ## CW 4.2: Customer Validation with AI Support
 
 This guide walks you through the **four steps of Customer Validation** using AI prompts.  
-Use these prompts in any LLM to simulate, prepare, and analyze before you validate with **real customers**.
+Use these prompts in any LLM to simulate, prepare, and analyze before you validate with **real customers**. <p>
+Before you start, search the web for the VPC of two companies and study their structure following the framework presented previously.
 
 ### Step 1. Prepare for Sales
 
@@ -401,7 +402,7 @@ Conclude with a recommendation: Should I persevere, pivot, or restart?
 
 ### Deliverable: Customer Validation Summary
 
-Each team should complete this table with validated evidence:
+Each team should complete this table with validated evidence and add the results to your startup's personalized assistant:
 
 | Area               | Evidence Collected | Strength (S/M/W) | Next Action |
 |--------------------|--------------------|------------------|-------------|
@@ -553,7 +554,7 @@ Provide suggested targets and leading indicators for each metric.
 
 ### Deliverable: Customer Creation Summary
 
-Each team should complete this table with validated evidence and targets:
+Each team should complete this table with validated evidence and targets, and add the results to your startup's personalized assistant:
 
 | Area                  | Evidence/Plan                          | Year 1 Target | KPIs to Track            | Next Action |
 |-----------------------|----------------------------------------|---------------|--------------------------|-------------|
