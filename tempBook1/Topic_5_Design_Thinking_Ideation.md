@@ -35,10 +35,14 @@ The principles of design thinking provide a structured, human-centered approach 
 - Collect user feedback to refine solutions.  
 - Methods: usability testing, A/B testing, feedback loops.  
 
+![Design Thinking Principles](./Data/DesignThinking.png)
+
 ## 5.3 Tools and Applications
 
 ### 5.3.1 Empathy Maps
 A **visual tool** to capture what users **say, think, do, and feel**. Helps teams gain deeper insights into the user’s perspective.
+
+![Empathy Maps](./Data/EmpathyMap.png)
 
 **When to Use**:  
 - Early product/service development.  
@@ -88,6 +92,8 @@ A structured method for ideation by modifying existing solutions:
 5. **Put to Another Use**  
 6. **Eliminate**  
 7. **Reverse**  
+
+![SCAMPER](./Data/SCAMPERTechnique.png)
 
 > Search the web for examples of the SCAMPER method.
 
