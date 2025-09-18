@@ -1,5 +1,5 @@
 # Topic 5: Design Thinking and Ideation
-Design Thinking and Ideation are complementary approaches to innovation. **Design Thinking** is a human-centered problem-solving methodology that emphasizes empathy, creativity, and experimentation to ensure solutions truly address user needs. It follows iterative stages—empathize, define, ideate, prototype, and test—to reduce risks and align products with real-world demands. Ideation, as a core stage in this process, focuses on generating a wide range of creative ideas without judgment, using techniques like brainstorming, mind mapping, and SCAMPER. Together, they help entrepreneurs build innovative, user-centric, and impactful solutions.
+Design Thinking and Ideation are complementary approaches to innovation. **Design Thinking** is a human-centered problem-solving methodology that emphasizes empathy, creativity, and experimentation to ensure solutions truly address user needs. It follows iterative stages (empathize, define, ideate, prototype, and test) to reduce risks and align products with real-world demands. Ideation, as a core stage in this process, focuses on generating a wide range of creative ideas without judgment, using techniques like brainstorming, mind mapping, and SCAMPER. Together, they help entrepreneurs build innovative, user-centric, and impactful solutions.
 
 ## Suggested Readings
 - Brown, T. (2009). *Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation.* HarperBusiness.  
@@ -45,6 +45,8 @@ A **visual tool** to capture what users **say, think, do, and feel**. Helps team
 - Designing new features.  
 - Evaluating existing products.  
 
+> Search the web for Emphaty Maps of two situations or products and study their structure following the framework presented previously.
+
 **AI Prompt Example:**
 ```
 I am designing an AI-based startup in [industry/problem area].  
@@ -57,8 +59,6 @@ Structure it into the four quadrants:
 Return the result in a table with columns: Quadrant | Insights.
 ```
 
----
-
 ### 5.3.2 Mind Mapping
 **Definition**: A visual brainstorming tool for organizing ideas around a central concept.  
 
@@ -66,6 +66,8 @@ Return the result in a table with columns: Quadrant | Insights.
 - Encourages creativity.  
 - Highlights relationships among ideas.  
 - Supports non-linear thinking.  
+
+> Search the web for Mind Maps of two products or solutions and study their structure following the framework presented previously.
 
 **AI Prompt Example:**
 ```
@@ -77,8 +79,6 @@ Create a hierarchical structure with:
 Return the mind map as a nested bullet list.
 ```
 
----
-
 ### 5.3.3 SCAMPER Technique
 A structured method for ideation by modifying existing solutions:  
 1. **Substitute**  
@@ -88,6 +88,8 @@ A structured method for ideation by modifying existing solutions:
 5. **Put to Another Use**  
 6. **Eliminate**  
 7. **Reverse**  
+
+> Search the web for examples of the SCAMPER method.
 
 **AI Prompt Example:**
 ```
@@ -102,8 +104,6 @@ For each of the 7 steps, suggest at least 2 new ideas or variations:
 7. Reverse  
 Return the results in a table with columns: Step | New Ideas.
 ```
-
----
 
 ## 5.4 The Role of Design Thinking in AI-Based Startups
 - Encourages **user-centric AI solutions**.  
