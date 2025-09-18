@@ -6,13 +6,14 @@ Design Thinking and Ideation are complementary approaches to innovation. **Desig
 - Knapp, J. (2016). *Sprint: Solving Big Problems and Testing New Ideas in Just Five Days.* GV Press.  
 
 ## 5.1 Introduction to Design Thinking
-Design Thinking is a **user-centric problem-solving methodology** that focuses on emphatize, define, ideate, prototype, and test.  
+Design Thinking is a **user-centric problem-solving methodology** that emphasizes empathy, creativity, collaboration, ideation, and experimentation.  
 
 **Relevance for AI-Based Startups**:  
 - Ensures that AI solutions address real human needs.  
 - Balances technological feasibility with user desirability and business viability.  
 
 ## 5.2 Principles of Design Thinking
+The principles of design thinking provide a structured, human-centered approach to innovation, guiding entrepreneurs through the stages of empathizing with users, defining problems, ideating solutions, prototyping, and testing to create impactful outcomes:
 
 ### Empathize
 - Understand users’ needs, emotions, and behaviors.  
@@ -33,8 +34,6 @@ Design Thinking is a **user-centric problem-solving methodology** that focuses o
 ### Test
 - Collect user feedback to refine solutions.  
 - Methods: usability testing, A/B testing, feedback loops.  
-
----
 
 ## 5.3 Tools and Applications
 
