@@ -26,6 +26,8 @@ At Berkshire Hathaway Life we do business with integrity, strength and stability
 - **Definition**: A clear articulation of the pain point being addressed.
 - **Example**: **Deekit (startup)** — Founders identified inadequacies in remote collaboration; many tools stifle interaction, especially under poor internet connectivity. Deekit’s mission: *“to connect the world visually”* by enabling transparent, simple, and interactive visual collaboration. :contentReference[oaicite:5]{index=5}
 
+> **Note**: Sections 4 to 8 will be discussed extensively using the Customer Development framework described in Topic 4 of the course. 
+
 ## 5. Target Market & Customer Segments
 - **Definition**: Specific groups who benefit most from the solution.
 - **Example**: **WeWork** tailored its service to millennials and flexible workers craving community, going beyond just office space into experience-driven work environments. :contentReference[oaicite:6]{index=6}
