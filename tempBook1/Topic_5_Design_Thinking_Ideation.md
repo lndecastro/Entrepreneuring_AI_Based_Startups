@@ -42,7 +42,7 @@ The principles of design thinking provide a structured, human-centered approach 
 ### 5.3.1 Empathy Maps
 A **visual tool** to capture what users **say, think, do, and feel**. Helps teams gain deeper insights into the user’s perspective.
 
-![Empathy Maps](./Data/EmpathyMap.png)
+![Empathy Maps](./Data/EmpathyMapv2.png)
 
 **When to Use**:  
 - Early product/service development.  
@@ -98,6 +98,16 @@ Return the result in a table with columns: Quadrant | Insights.
 - Encourages creativity.  
 - Highlights relationships among ideas.  
 - Supports non-linear thinking.  
+
+### Mind Map Examples for AI-Based Startups
+
+**Mind Map 1: AI Personal Health Companion**
+
+![AI Personal Health Companion Mind Map](./Data/MindMap_AI_Health_Companion.png)
+
+**Mind Map 2: AI-Powered Language Tutor for Immigrants**
+
+![AI-Powered Language Tutor Mind Map](./Data/MindMap_AI_Language_Tutor.png)
 
 > Search the web for Mind Maps of two products or solutions and study their structure following the framework presented previously.
 
