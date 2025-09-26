@@ -209,27 +209,65 @@ Return the results in a table with columns: Step | New Ideas.
 - Fosters **creativity and innovation**.  
 - Aligns technology with **real-world needs**.  
 
----
+### CW 5.1: Startup Analysis and Creativity Tools
 
-## Classwork Activities
+**Objective**
+To integrate strategic and creative tools — **SWOT**, **Empathy Map**, **Mind Mapping**, and **SCAMPER** — into a single workflow for analyzing and innovating your AI-based startup. The final deliverable is a **Word file** containing all prompts used with your personalized assistant (or other LLMs), and the corresponding outputs generated.
 
-### CW 5.1: Empathy Map Examples
-- Search online for examples of empathy maps.  
-- Present one in class and discuss its benefits for product design.  
+**1. SWOT Analysis of Your Startup**
+**Sample Prompt:**  
+```
+Formulate a SWOT matrix for [Startup Name]. Identify at least three points for each quadrant. Suggest how to leverage strengths and opportunities while mitigating weaknesses and threats.
 
-### CW 5.2: Mind Mapping
-- Create a **mind map** for your startup, including:  
-  - Target audience  
-  - Problem hypothesis  
-  - Product hypothesis  
-  - AI features  
-  - Competitors  
-  - Business model  
+Deliverable:  
+- A SWOT table (Strengths, Weaknesses, Opportunities, Threats) with three items per quadrant.  
+- A short discussion on strategies.
+```
 
-### CW 5.3: Applying SCAMPER
-- Use your mind map and apply SCAMPER prompts to explore alternative solutions.  
+**2. Empathy Map**
+**Sample Prompt:**  
+```
+Create an Empathy Map for [Startup Name], considering:  
+- What does the customer see?  
+- What do they hear?  
+- What do they think & feel?  
+- What do they say & do?  
+- What are their pains?  
+- What are their gains?”
 
-### CW 5.4: Case Studies in Design Thinking
-- Research a startup that successfully applied design thinking.  
-- Present a short case study in class.  
+Deliverable:
+- A completed empathy map with each section filled in.
+```
 
+**3. Mind Mapping**
+**Sample Prompt:**  
+```
+Build a Mind Map for [Startup Name] including:  
+- Target Audience  
+- Problem Hypothesis  
+- Product Hypothesis  
+- AI Features  
+- Competitors  
+- Business Model”
+
+Deliverable:
+- A structured mind map diagram (can be text-based or visual).
+```
+
+
+**4. SCAMPER**
+**Sample Prompt:**  
+```
+Using the mind map of [Startup Name], apply SCAMPER (Substitute, Combine, Adapt, Modify, Put to another use, Eliminate, Reverse) to explore alternative solutions.”
+
+Deliverable: 
+- A SCAMPER table showing how each technique could generate new or improved ideas for the startup.
+```
+
+## Final Deliverable
+A **Word file** that includes:  
+1. Each prompt used.  
+2. The result/output generated for each tool.  
+3. Organized sections: SWOT, Empathy Map, Mind Map, SCAMPER.  
+
+✅ Add these items to the knowledge base of your Personalized Assistant.
