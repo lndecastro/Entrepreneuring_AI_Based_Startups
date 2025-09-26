@@ -1,5 +1,5 @@
 # Topic 5: Design Thinking and Ideation
-Design Thinking and Ideation are complementary approaches to innovation. **Design Thinking** is a human-centered problem-solving methodology that emphasizes empathy, creativity, and experimentation to ensure solutions truly address user needs. It follows iterative stages (empathize, define, ideate, prototype, and test) to reduce risks and align products with real-world demands. **Ideation**, as a core stage in this process, focuses on generating a wide range of creative ideas without judgment, using techniques like brainstorming, mind mapping, and SCAMPER. Together, they help entrepreneurs build innovative, user-centric, and impactful solutions.
+Design Thinking and Ideation are complementary approaches to innovation. **Design Thinking** is a human-centered problem-solving methodology that emphasizes empathy, creativity, and experimentation to ensure solutions truly address user needs. It follows iterative stages (empathize, define, ideate, prototype, and test) to reduce risks and align products with real-world demands. **Ideation**, as a core stage in this process, focuses on generating a wide range of creative ideas without judgment, using techniques like **brainstorming**, **mind mapping**, and **SCAMPER**. Together, they help entrepreneurs build innovative, user-centric, and impactful solutions.
 
 ## Suggested Readings
 - Brown, T. (2009). *Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation.* HarperBusiness.  
@@ -48,6 +48,34 @@ A **visual tool** to capture what users **say, think, do, and feel**. Helps team
 - Early product/service development.  
 - Designing new features.  
 - Evaluating existing products.  
+
+### Empathy Map Examples for AI-Based Startups
+
+**Empathy Map 1: AI Personal Health Companion**
+
+| **Says** | **Thinks** |
+|----------|------------|
+| “I don’t have time to constantly track my health data.” | “If I don’t stay on top of this, my condition will worsen.” |
+| “Doctors give me advice, but I forget to follow it.” | “I wish I had personalized insights, not just generic advice.” |
+
+| **Does** | **Feels** |
+|----------|-----------|
+| Uses a smartwatch sporadically. | Guilty for not being more disciplined. |
+| Googles symptoms late at night. | Anxious about long-term health outcomes. |
+| Misses doctor appointments due to schedule conflicts. | Relieved when someone explains data in simple terms. |
+
+**Empathy Map 2: AI-Powered Language Tutor for Immigrants**
+
+| **Says** | **Thinks** |
+|----------|------------|
+| “I want to practice English, but I’m embarrassed to make mistakes.” | “If I improve my English, I’ll find a better job.” |
+| “Language schools are expensive and not flexible with my job schedule.” | “AI apps are helpful, but they don’t understand my cultural context.” |
+
+| **Does** | **Feels** |
+|----------|-----------|
+| Practices with YouTube or Duolingo at night. | Isolated in the community. |
+| Avoids conversations with native speakers. | Hopeful about building a better future. |
+| Relies on family to translate official documents. | Motivated when small progress is recognized. |
 
 > Search the web for Emphaty Maps of two situations or products and study their structure following the framework presented previously.
 
