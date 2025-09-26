@@ -49,6 +49,8 @@ A **visual tool** to capture what users **say, think, do, and feel**. Helps team
 - Designing new features.  
 - Evaluating existing products.  
 
+---
+
 ### Empathy Map Examples for AI-Based Startups
 
 **Empathy Map 1: AI Personal Health Companion**
@@ -133,6 +135,8 @@ A structured method for ideation by modifying existing solutions:
 
 ![SCAMPER](./Data/SCAMPERTechnique.png)
 
+---
+
 ### SCAMPER Examples for AI-Based Startup Solutions
 
 **Case 1: AI Personal Health Companion**
@@ -157,6 +161,8 @@ A structured method for ideation by modifying existing solutions:
 
 **R – Reverse**  
 - Instead of only tracking what’s wrong, **start by celebrating health improvements** (reverse the focus from risk to progress).  
+
+---
 
 **Case 2: AI-Powered Language Tutor for Immigrants**
 
