@@ -1,30 +1,35 @@
 # Topic 6: Lean Startup
-The **Lean Startup** is a scientific approach to building new products and services under conditions of **extreme uncertainty**. Grounded in **Lean Thinking** (eliminating waste and maximizing value), it replaces lengthy planning with rapid **Build–Measure–Learn** cycles that validate hypotheses with real customers. The goal is to **discover what to build**—something customers want and will pay for—in the **shortest possible time and using the smallest amount of resources**.
+The **Lean Startup** is a scientific approach to building new products and services under conditions of **extreme uncertainty**. Grounded in **Lean Thinking** (eliminating waste and maximizing value), it replaces lengthy planning with rapid **Build–Measure–Learn** cycles that validate hypotheses with real customers. The goal is to **discover what to build**, something customers want and will pay for, in the **shortest possible time and using the smallest amount of resources**.
 
 ## Suggested Readings
-- Ries, E. (2011). *The Lean Startup*. Crown Business.  
+- Ries, E. (2011). *The Lean Startup*. Crown Currency.  
 - Womack, J. P., & Jones, D. T. (2003). *Lean Thinking: Banish Waste and Create Wealth in Your Corporation*. Free Press.  
 - Blank, S., & Dorf, B. (2012). *The Startup Owner’s Manual*. K & S Ranch.  
 
 ---
 
 ## 6.1 Lean Thinking & Startups
-**Lean Thinking** aims to do **more with less**—less time, space, budget, and effort—while delivering **exactly** what customers want. Five guiding principles: 
+**Lean Thinking** aims to do **more with less** (less time, space, budget, and effort) while delivering **exactly** what customers want. Five guiding principles: 
 1) Define Value → from the **customer’s perspective**  
 2) Map the Value Stream  
 3) Create Flow  
 4) Establish Pull  
 5) Pursue Perfection  
+
 In startups, this translates into learning fast which activities create value and eliminating everything else (*muda*, waste).
 
 ![Lean Thinking Principles](./Data/LeanThinkingPrinciples.png)
 
 **What is a Startup?**  
 > “A human institution designed to create a new product or service under **extreme uncertainty**.”  
-**Primary goal:** discover **what to build** that customers want and will buy, **as fast as possible**.
+**Primary goal:** discover, as fast as possible, **what to build** that customers want and will buy.
 
 **Core principles for startups:**  
-1) Entrepreneurs are everywhere · 2) Entrepreneurship is management · 3) **Validated learning** · 4) **Build–Measure–Learn** · 5) **Innovation accounting**.
+1) Entrepreneurs are everywhere
+2) Entrepreneurship is management
+3) Validated learning
+4) Build–Measure–Learn
+5) Innovation accounting
 
 ## 6.2 The Build–Measure–Learn (B–M–L) Loop
 The Lean method is an iterative loop:
@@ -37,14 +42,16 @@ The Lean method is an iterative loop:
 *Use B–M–L to validate both the **Value hypothesis** (“do users get value?”) and the **Growth hypothesis** (“how do new users find it?”).*
 
 ## 6.3 Minimum Viable Product (MVP)
-An **MVP** is the smallest product experiment that enables a **full B–M–L cycle** with **minimal cost and time**. Forms include **demo videos**, **concierge/Wizard-of-Oz** services, clickable prototypes, spreadsheets, or landing pages. Classic examples (e.g., early Dropbox video) show how to validate demand **before** investing in full builds.
+An **MVP** is the smallest product experiment that enables a **full B–M–L cycle** with **minimal cost and time**. Forms include **demo videos**, **concierge/Wizard-of-Oz** services, clickable prototypes, spreadsheets, landing pages, etc. Classic examples (e.g., early Dropbox video) show how to validate demand **before** investing in full builds.
+
+![Minimal Viable Product](./Data/MVP.png)  
 
 ## 6.4 Innovation Accounting & Metrics (AARRR)
 To know if you are making real progress, use **innovation accounting**:
 
 - **AARRR funnel:** **Acquisition → Activation → Retention → Referral → Revenue**  
 - Metric properties: **Actionable** (clear cause–effect), **Accessible** (simple, concrete), **Auditable** (verifiable)  
-- Prefer **cohort analysis** (behavior over time by signup batch) to vanity metrics.
+- Prefer **cohort analysis** (behavior over time by signup batch) to vanity metrics
 
 ![AARRR Funnel](./Data/AARRR.png)
 
@@ -56,7 +63,7 @@ To know if you are making real progress, use **innovation accounting**:
 | W2 | … | … | … | … | … |
 
 ## 6.5 Learn: Persevere or Pivot
-**Validated learning** is the empirical proof you have learned something true about customers. When learning plateaus or usage declines, consider a **pivot**—a **structured course correction** to test a new hypothesis (product, strategy, or growth engine). Reassess on a cadence (e.g., every **2–4 months**).
+**Validated learning** is the empirical proof you have learned something true about customers. When learning plateaus or usage declines, consider a **pivot** (a **structured course correction**) to test a new hypothesis (product, strategy, or growth engine). Reassess on a cadence (e.g., every **2–4 months**).
 
 **Pivot catalog:** 
 - Zoom-in/Zoom-out
