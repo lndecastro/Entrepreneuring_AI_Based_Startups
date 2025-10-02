@@ -338,7 +338,7 @@ Create a 2-week Lean Kanban with 8–12 items across Backlog / In Progress / Don
 ---
 
 ## HW 6.1 Homework
-> **For your STARTUP, prepare one complete MVP:** define the hypotheses, MVP, evaluation metrics, and discuss **pivot vs persevere** conditions. Deliver as a **2–3 page brief** with one figure per MVP.
+> **For your STARTUP, prepare one complete MVP:** define the hypotheses, MVP, evaluation metrics, and discuss **pivot vs persevere** conditions. Deliver as a **2–3 page brief**.
 
 **Rubric (10 pts)**  
 - Clear LoF & hypotheses (2)
