@@ -196,24 +196,9 @@ Each case includes: Lean Principles Cycle → B-M-L Loop → AARRR & Cohorts →
 
 #### A.6 Kanban (2-Week Sprint)
 
-**Backlog**  
-- Personalize send-time model  
-- Single-tap “Save & Share”  
-- LP value-prop rewrite (doctor-approved phrasing)  
-- D+7 retention dashboard
-
-**In Progress (WIP 3)**  
-- Event logging for “save/share”  
-- SMS template tone A/B  
-- Clinic pilot one-pager
-
-**Done**  
-- Cohort pipeline v1  
-- Invite attribution links
-
-**Validated**  
-- Activation metric definition (auditable)  
-- W1/W2 cohort retention stable within ±2pp
+| **Backlog** | **In Progress (WIP ≤ 3)** | **Done** | **Validated** |
+|---|---|---|---|
+| - Personalize send-time model<br>- Single-tap “Save & Share”<br>- LP value-prop rewrite (doctor-approved phrasing)<br>- D+7 retention dashboard | - Event logging for “save/share”<br>- SMS template tone A/B<br>- Clinic pilot one-pager | - Cohort pipeline v1<br>- Invite attribution links | - Activation metric definition (auditable)<br>- W1/W2 cohort retention stable within ±2pp |
 
 Daily stand-up script: *Yesterday/Today/Blockers*, confirm WIP limits, review single “learning goal” for the day.
 
@@ -293,24 +278,9 @@ Daily stand-up script: *Yesterday/Today/Blockers*, confirm WIP limits, review si
 
 #### B.6 Kanban (2-Week Sprint)
 
-**Backlog**  
-- “Practice now” single-tap entry  
-- Interview-coach preset flows  
-- Invite-a-partner experiment  
-- Latency reducer for ASR feedback
-
-**In Progress (WIP 3)**  
-- Partner invite links + attribution  
-- Preset flows for healthcare & hospitality  
-- Weekly progress email prototype
-
-**Done**  
-- Onboarding text rewrite  
-- Cohort dashboard v1
-
-**Validated**  
-- Activation metric (auditable)  
-- W1/W2 cohorts show +3pp WAU after preset flows
+| **Backlog** | **In Progress (WIP ≤ 3)** | **Done** | **Validated** |
+|---|---|---|---|
+| - “Practice now” single-tap entry<br>- Interview-coach preset flows<br>- Invite-a-partner experiment<br>- Latency reducer for ASR feedback | - Partner invite links + attribution<br>- Preset flows for healthcare & hospitality<br>- Weekly progress email prototype | - Onboarding text rewrite<br>- Cohort dashboard v1 | - Activation metric (auditable)<br>- W1/W2 cohorts show +3pp WAU after preset flows |
 
 Daily stand-up script: confirm *one* learning objective per day, check experiment health (exposure, power), unblock critical path tasks.
 
