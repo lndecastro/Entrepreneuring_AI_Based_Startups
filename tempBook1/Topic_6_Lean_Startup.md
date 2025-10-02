@@ -348,4 +348,4 @@ Create a 2-week Lean Kanban with 8–12 items across Backlog / In Progress / Don
 - Clarity & formatting (1)
 
 ## Final Deliverables (Upload to Canvas)
-- **HW 6.1:** One MVPs brief (PDF, 2–3 pages).  
+- **HW 6.1:** One MVP brief (PDF, 2–3 pages).  
