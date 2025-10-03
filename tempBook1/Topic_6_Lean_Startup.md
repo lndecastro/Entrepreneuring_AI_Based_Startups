@@ -77,6 +77,50 @@ To know if you are making real progress, use **innovation accounting**:
 
 ![Pivot Types](./Data/PivotCatalog.png)
 
+#### Pivot Catalog — Real-World Examples
+
+Below are eight classic pivot types from Lean Startup, each paired with a concrete company example.
+
+**1) Zoom-In Pivot**
+**Definition:** A single feature becomes the whole product.  
+**Example:** **Instagram** — Focused Burbn down to photo capture + filters + social sharing.  
+**What changed:** Narrowed the scope to the one feature users loved; killed the rest.
+
+**2) Zoom-Out Pivot**
+**Definition:** The original product becomes one feature of a larger suite.  
+**Example:** **HubSpot** — Expanded from a marketing tool into a full CRM and RevOps platform.  
+**What changed:** Broadened scope to include sales, service, and ops around the core marketing feature.
+
+**3) Customer Segment Pivot**
+**Definition:** Same product core, different primary users.  
+**Example:** **Slack** — Repurposed an internal team chat tool (from a failed game project) for organizations.  
+**What changed:** Target customer moved from a game studio’s internal use to teams and enterprises.
+
+**4) Customer Need Pivot**
+**Definition:** Address a different problem for (often) similar users.  
+**Example:** **YouTube** — Shifted from video dating (“Tune In, Hook Up”) to open video sharing for everyone.  
+**What changed:** The core job-to-be-done changed from dating to broad media hosting/sharing.
+
+**5) Platform Pivot**
+**Definition:** Move from an application to a platform (or vice-versa).  
+**Example:** **Shopify** — From a snowboard e-shop (Snowdevil) to a platform enabling any merchant to sell online.  
+**What changed:** Built tools + APIs for others, not just a single storefront.
+
+**6) Business Model Pivot**
+**Definition:** Change how value is captured (pricing, packaging, revenue model).  
+**Example:** **Adobe** — From perpetual licenses (Creative Suite) to subscriptions (Creative Cloud).  
+**What changed:** Revenue shifted to recurring; lowered upfront price, increased LTV and update cadence.
+
+**7) Channel Pivot**
+**Definition:** Switch the main distribution/sales channel.  
+**Example:** **Nike** — Tilted from wholesale-heavy to direct-to-consumer (DTC), then evolved to a blended channel strategy with select retail partners.  
+**What changed:** Go-to-market emphasis and partner mix; invested in owned stores/apps.
+
+**8) Technology Pivot**
+**Definition:** Solve the same problem with a different technology engine.  
+**Example:** **PayPal** — From PalmPilot “beaming” payments to email/web-based payments.  
+**What changed:** Core delivery tech moved to the web, unlocking scale and adoption.
+
 ## 6.3 Engines of Growth
 Choose and instrument **one primary engine** at a time:
 
