@@ -130,6 +130,45 @@ Choose and instrument **one primary engine** at a time:
 
 ![Engines of Growth](./Data/GrowthEngines.png)
 
+### Engines of Growth — Examples (Sticky, Viral, Paid)
+
+**1) Sticky Growth (Retention-Led)**
+**Idea:** Grow by keeping users coming back; new users accumulate faster than churn.
+**Key metrics:** Retention (D1/D7/D30), churn, (Weekly Active Users/Monthly Active Users) WAU/MAU ratio, cohort curves.
+
+- **Spotify / Apple Music** — Playlists, recommendations, and daily mixes create habits; family plans reduce churn.
+- **Slack** — Daily team workflows (messages, integrations) make it “sticky”; expansion seats compound within accounts.
+- **Notion** — Docs, wikis, and databases become embedded in team processes; switching costs rise over time.
+
+**When to prioritize:** You solve recurring problems and can build habits or switching costs.
+
+**2) Viral Growth (Network-Led)**
+**Idea:** Existing users recruit new users through product-inherent sharing or collaboration.
+**Key metrics:** Viral coefficient (k), invite-to-install rate, time-to-invite, activation of invited users.
+
+- **Zoom** — Every meeting link is an invitation to a prospective user; guests experience the product instantly.
+- **Dropbox** — Extra storage for inviting friends; shared folders expose non-users to the product.
+- **WhatsApp / Telegram** — Utility rises with each contact that joins; address-book invites and group chats drive spread.
+
+**When to prioritize:** Collaboration or content-sharing is core; marginal cost to add a user is near zero.
+
+**3) Paid Growth (Unit-Economics-Led)**
+**Idea:** Spend on acquisition profitably (ads, affiliates, outbound); grow as long as **LTV > CAC**.
+**Key metrics:** CAC, LTV, payback period, ROAS (Revenue Over Advertisement Spent), contribution margin, blended vs. incremental CAC.
+
+- **HelloFresh** — Performance marketing + promos; track cohort payback through repeat meal kits.
+- **Amazon Prime acquisition** — Paid placements, cross-sell, and device bundling to drive Prime signups (recurring LTV).
+- **B2B SaaS (e.g., HubSpot)** — Content + paid search + SDRs; CAC payback driven by subscription retention and expansion.
+
+**When to prioritize:** You have clear pricing, solid retention, and can measure/pay back acquisition spend.
+
+#### Quick Selector
+- Strong **habit** or high switching costs → choose **Sticky** first.  
+- Built-in **network effects** or sharing loops → prioritize **Viral**.  
+- Clear **unit economics** and scalable channels → lean into **Paid**.
+
+> Tip: Focus on **one primary engine** at a time; instrument it deeply. Add secondary engines only after the first is working and measurable.
+
 ## 6.4 Tools & Templates
 
 ### 6.4.1 MVP Experiment Card
