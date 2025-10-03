@@ -41,12 +41,12 @@ The Lean method is an iterative loop:
 ![Build–Measure–Learn Loop](./Data/BMLLoop.png)  
 *Use B–M–L to validate both the **Value hypothesis** (“do users get value?”) and the **Growth hypothesis** (“how do new users find it?”).*
 
-## 6.3 Minimum Viable Product (MVP)
+### 6.2.1 Build: Minimum Viable Product (MVP)
 An **MVP** is the smallest product experiment that enables a **full B–M–L cycle** with **minimal cost and time**. Forms include **demo videos**, **concierge/Wizard-of-Oz** services, clickable prototypes, spreadsheets, landing pages, etc. Classic examples (e.g., early Dropbox video) show how to validate demand **before** investing in full builds.
 
 ![Minimal Viable Product](./Data/MVP.png)  
 
-## 6.4 Innovation Accounting & Metrics (AARRR)
+### 6.2.2 Measure: Innovation Accounting & Metrics (AARRR)
 To know if you are making real progress, use **innovation accounting**:
 
 - **AARRR funnel:** **Acquisition → Activation → Retention → Referral → Revenue**  
@@ -62,7 +62,7 @@ To know if you are making real progress, use **innovation accounting**:
 | W1 | 120 | 42% | 25% | 17% | 10% |
 | W2 | … | … | … | … | … |
 
-## 6.5 Learn: Persevere or Pivot
+### 6.2.3 Learn: Persevere or Pivot
 **Validated learning** is the empirical proof you have learned something true about customers. When learning plateaus or usage declines, consider a **pivot** (a **structured course correction**) to test a new hypothesis (product, strategy, or growth engine). Reassess on a cadence (e.g., every **2–4 months**).
 
 **Pivot catalog:** 
@@ -77,7 +77,7 @@ To know if you are making real progress, use **innovation accounting**:
 
 ![Pivot Types](./Data/PivotCatalog.png)
 
-## 6.6 Engines of Growth
+## 6.3 Engines of Growth
 Choose and instrument **one primary engine** at a time:
 
 - **Sticky:** focus on retention/return use (minimize churn).  
@@ -86,9 +86,9 @@ Choose and instrument **one primary engine** at a time:
 
 ![Engines of Growth](./Data/GrowthEngines.png)
 
-## 6.7 Tools & Templates
+## 6.4 Tools & Templates
 
-### 6.7.1 MVP Experiment Card
+### 6.4.1 MVP Experiment Card
 - **Hypothesis (Value/Growth):**  
 - **MVP type:** (landing page / clickable prototype / concierge / demo video / email test)  
 - **Who (segment):**  
@@ -97,21 +97,21 @@ Choose and instrument **one primary engine** at a time:
 - **Time window:**  
 - **Decision rule:** persevere / pivot candidate / follow-up test
 
-### 6.7.2 AARRR Plan (one line each)
+### 6.4.2 AARRR Plan (one line each)
 - **Acquisition:** channel + qualifying event  
 - **Activation:** “good first experience” definition  
 - **Retention:** return criterion & window  
 - **Referral:** built-in invite or incentive  
 - **Revenue:** pricing unit & leading indicator
 
-### 6.7.3 Kanban for Validated Learning
+### 6.4.3 Kanban for Validated Learning
 Columns: **Backlog → In Progress → Done → Validated** with **Work in Progrsss (WIP) limits**. Prioritize items that maximize **learning per unit time**.
 
 ![Kanban](./Data/Kanban.png)
 
 ---
 
-## 6.8 Worked Examples (Topic 5 Cases)
+## 6.5 Worked Examples (Topic 5 Cases)
 
 Below are end-to-end Lean Startup examples for the two Topic 5 cases:
 1) **AI Personal Health Companion**  
@@ -297,7 +297,7 @@ Daily stand-up script: confirm *one* learning objective per day, check experimen
 
 ---
 
-## 6.9 AI-Assisted Practice Prompts
+## 6.6 AI-Assisted Practice Prompts
 
 **Prompt — LoF & MVP Design**  
 ```
