@@ -46,6 +46,79 @@ An **MVP** is the smallest product experiment that enables a **full B–M–L cy
 
 ![Minimal Viable Product](./Data/MVP.png)  
 
+#### Real-World MVP Examples
+
+Below are concise examples of Minimum Viable Products (MVPs) that validated core hypotheses with minimal time and cost. Each entry highlights the **MVP type**, **what was tested**, and the **signal** that justified further investment.
+
+**1) Dropbox — Explainer Video MVP**
+**Type:** Video demo (no full product)  
+**Tested:** Do people want seamless file sync across devices?  
+**Signal:** Waitlist spikes and qualitative feedback from a short screencast validated demand before building complex sync tech.
+
+**2) Airbnb — Concierge MVP**
+**Type:** Manual service behind a simple website  
+**Tested:** Will travelers pay to stay in someone’s home, and will hosts list?  
+**Signal:** Founders personally photographed listings and messaged early guests/hosts; paid bookings validated the marketplace concept.
+
+**3) Zappos — Wizard-of-Oz MVP**
+**Type:** Fake-automation; manual order fulfillment  
+**Tested:** Will customers buy shoes online without trying them?  
+**Signal:** Founder posted local store photos online; when an order arrived, he bought at retail and shipped—real purchases proved demand.
+
+**4) Buffer — Landing Page + Pricing Smoke Test**
+**Type:** Landing pages with “plans” and an email capture  
+**Tested:** Will users pay for scheduled social posts, and at what price points?  
+**Signal:** Click-throughs on pricing tiers and email signups quantified willingness to pay before building.
+
+**5) Uber (UberCab) — Single-Neighborhood Pilot**
+**Type:** Tiny, geo-fenced launch with a handful of cars  
+**Tested:** Will people tap a phone to hail a black car and accept dynamic ETAs?  
+**Signal:** Repeat rides and word-of-mouth within San Francisco validated the core experience.
+
+**6) Groupon — Blog + PDF Coupons**
+**Type:** WordPress site; manually generated coupons (PDFs)  
+**Tested:** Will collective discounts drive enough buyer interest to close deals?  
+**Signal:** Daily redemptions and merchant signups demonstrated traction without a full platform.
+
+**7) DoorDash (PaloAltoDelivery) — Scrappy Local Delivery**
+**Type:** Simple site listing menus; founders doing deliveries  
+**Tested:** Do local restaurants and customers want third-party delivery?  
+**Signal:** Orders via a basic form and phone calls showed real demand; operational pain points informed the product.
+
+**8) Pebble — Crowdfunding Pre-Orders**
+**Type:** Kickstarter campaign with prototype visuals/specs  
+**Tested:** Will customers pre-pay for a customizable smartwatch?  
+**Signal:** Massive pre-orders derisked manufacturing and validated early adopter demand.
+
+**9) Morning Brew — Email Newsletter MVP**
+**Type:** Daily email curated by founders (no app)  
+**Tested:** Will busy readers subscribe and engage with concise business news?  
+**Signal:** Rapid list growth and open rates validated product–market fit for content and tone.
+
+**10) Spotify (early US launch) — Limited-Access Beta**
+**Type:** Invite-only desktop app with core streaming working  
+**Tested:** Does near-instant playback change music habits and retention?  
+**Signal:** High session time, playlist creation, and referrals inside a small cohort justified licensing and scale-up.
+
+**11) Figma — Private Beta with Browser Tech**
+**Type:** Restricted-access design editor in the browser  
+**Tested:** Can a web-first collaborative editor meet performance/UX needs of designers?  
+**Signal:** Power-user feedback on multi-cursor editing and low-latency interactions validated the technical bet.
+
+**12) Amazon Prime — Offer & Cohort MVP**
+**Type:** Soft launch of membership benefits to a subset of users  
+**Tested:** Will flat-fee fast shipping drive higher frequency and basket size?  
+**Signal:** Cohort lifts in repeat purchase and annual value validated the subscription economics.
+
+#### How to Choose Your MVP Type
+- **Explainer/landing page** when the core risk is **demand**.  
+- **Concierge/Wizard-of-Oz** when the core risk is **experience** or **workflow fit**.  
+- **Geo-fenced/pilot** when the core risk is **operations** or **supply**.  
+- **Pre-orders/crowdfunding** when the core risk is **willingness to pay** and **unit economics**.  
+- **Private beta** when the core risk is **technical feasibility** and **usability**.
+
+> Aim for the smallest experiment that lets you run a full **Build–Measure–Learn** cycle in days or weeks—not months.
+
 ### 6.2.2 Measure: Innovation Accounting & Metrics (AARRR)
 To know if you are making real progress, use **innovation accounting**:
 
