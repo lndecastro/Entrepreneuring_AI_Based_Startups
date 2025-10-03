@@ -132,8 +132,8 @@ Choose and instrument **one primary engine** at a time:
 
 ### Engines of Growth — Examples (Sticky, Viral, Paid)
 
-**1) Sticky Growth (Retention-Led)**
-**Idea:** Grow by keeping users coming back; new users accumulate faster than churn.
+**1) Sticky Growth (Retention-Led)** <p>
+**Idea:** Grow by keeping users coming back; new users accumulate faster than churn.  <p>
 **Key metrics:** Retention (D1/D7/D30), churn, (Weekly Active Users/Monthly Active Users) WAU/MAU ratio, cohort curves.
 
 - **Spotify / Apple Music** — Playlists, recommendations, and daily mixes create habits; family plans reduce churn.
@@ -142,8 +142,8 @@ Choose and instrument **one primary engine** at a time:
 
 **When to prioritize:** You solve recurring problems and can build habits or switching costs.
 
-**2) Viral Growth (Network-Led)**
-**Idea:** Existing users recruit new users through product-inherent sharing or collaboration.
+**2) Viral Growth (Network-Led)** <p>
+**Idea:** Existing users recruit new users through product-inherent sharing or collaboration. <p>
 **Key metrics:** Viral coefficient (k), invite-to-install rate, time-to-invite, activation of invited users.
 
 - **Zoom** — Every meeting link is an invitation to a prospective user; guests experience the product instantly.
@@ -152,8 +152,8 @@ Choose and instrument **one primary engine** at a time:
 
 **When to prioritize:** Collaboration or content-sharing is core; marginal cost to add a user is near zero.
 
-**3) Paid Growth (Unit-Economics-Led)**
-**Idea:** Spend on acquisition profitably (ads, affiliates, outbound); grow as long as **LTV > CAC**.
+**3) Paid Growth (Unit-Economics-Led)** <p>
+**Idea:** Spend on acquisition profitably (ads, affiliates, outbound); grow as long as **LTV > CAC**. <p>
 **Key metrics:** CAC, LTV, payback period, ROAS (Revenue Over Advertisement Spent), contribution margin, blended vs. incremental CAC.
 
 - **HelloFresh** — Performance marketing + promos; track cohort payback through repeat meal kits.
