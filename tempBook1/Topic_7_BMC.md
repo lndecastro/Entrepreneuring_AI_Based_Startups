@@ -101,6 +101,36 @@ and list 5 pricing experiments. Return a 12-month simple forecast table.
 
 **Deliverable:** Model choice, pricing ladder, 12-month forecast (base/bear/bull).
 
+### 7.5.4.1 Common Revenue Models for Startups
+
+**Revenue models** define *how* value is captured once it is created and delivered. AI-based startups can combine multiple models depending on the market segment, data strategy, and scalability potential.  
+
+| **Model** | **Description** | **AI-Relevant Examples** | **When to Use** |
+|------------|-----------------|--------------------------|----------------|
+| **Subscription** | Recurring fee for continued access (monthly/annual). | SaaS platforms (e.g., ChatGPT Plus, Jasper AI). | Predictable revenue, sticky user base. |
+| **Freemium** | Free basic tier; users pay for advanced features or limits. | Grammarly, Notion AI. | Easy adoption, viral growth, upsell path. |
+| **Pay-per-Use / Usage-Based** | Users pay proportionally to consumption (API calls, minutes, tokens). | OpenAI API, AWS AI services. | Variable usage patterns, scalable cloud models. |
+| **Commission / Marketplace** | Platform takes a % of each transaction between two parties. | Fiverr, Upwork, Airbnb. | Multi-sided platforms connecting providers and consumers. |
+| **Licensing** | Sell or lease the right to use technology or IP. | Enterprise AI model licensing. | B2B deals, proprietary algorithms, data/IP leverage. |
+| **Advertising / Data Monetization** | Free service monetized through ads or anonymized data insights. | Google, Meta, data-analytics dashboards. | High user volume, low willingness to pay directly. |
+| **Affiliate / Referral** | Earn a share for promoting or referring third-party products. | Influencer or AI-content recommendation engines. | Complementary product ecosystems. |
+| **Transactional / One-Time Sales** | Direct purchase of a digital or physical product. | AI-powered devices, e-books, datasets. | Simple offerings, low maintenance. |
+| **Hybrid** | Combination (e.g., subscription + usage + ads). | Spotify Premium, many SaaS bundles. | Multiple revenue streams or user types. |
+
+> **Tip:** Start with one **dominant revenue model** to validate product–market fit and add complementary ones only after clear evidence of traction and unit-economic health.
+
+**AI Prompt (Revenue Model Design)**
+```
+For this startup [describe briefly], recommend 2–3 viable revenue models.
+For each, outline:
+- Customer value logic (why they would pay)
+- Pricing unit (seat, API call, minute, outcome, etc.)
+- Key pros and cons
+- Required data or infrastructure
+- Short validation test (≤2 weeks)
+Return as a table.
+```
+
 ---
 
 ### 7.5.5 Cost Structure (C$) & Unit Economics
