@@ -6,8 +6,6 @@ The **Business Model Canvas** is a strategic tool that visually describes how a 
 - Osterwalder, A., Pigneur, Y., Bernarda, G., & Smith, A. (2014). *Value Proposition Design: How to Create Products and Services Customers Want*. Wiley.  
 - Maurya, A. (2012). *Running Lean: Iterate from Plan A to a Plan That Works*. O’Reilly.  
 
----
-
 ## 7.1 What Is a Business Model? (for AI Startups)
 A **business model** explains the logic of **value creation** (what and for whom), **value delivery** (how it reaches users), and **value capture** (how money is made).  
 **Relevance for AI-based startups**:  
@@ -16,8 +14,6 @@ A **business model** explains the logic of **value creation** (what and for whom
 - Connects **MVP learning** (Topic 6) to **pricing, margins, and scale**.
 
 ## 7.2 The Business Model Canvas — Nine Blocks
-![Business Model Canvas](./Data/business_model_canvas_poster.pdf)
-
 **Value Creation**
 - **Key Partners (KP)** — external organizations that help you operate (suppliers, platforms, distribution, co-innovation).  
 - **Key Activities (KA)** — core tasks that deliver the value (data ops, model dev, sales, support).  
@@ -29,11 +25,17 @@ A **business model** explains the logic of **value creation** (what and for whom
 **Value Delivery**
 - **Customer Relationships (CR)** — how you acquire, onboard, engage, and retain users (self-serve, assisted, communities).  
 - **Channels (CH)** — how users discover, evaluate, purchase, receive, and are supported (web, partners, app stores).  
-- **Customer Segments (CS)** — groups you serve (ICP, micro-segments, early adopters).
+- **Customer Segments (CS)** — groups you serve (Ideal Customer Profile (ICP), micro-segments, early adopters).
 
 **Value Capture**
 - **Cost Structure (C$)** — fixed vs. variable costs (compute, data, talent, GTM, support).  
 - **Revenue Streams (R$)** — how you earn (one-time, subscription, usage-based, licensing, marketplace, ads).
+
+Download the BMC: [Business Model Canvas](./Data/business_model_canvas_poster.pdf).
+
+Online services that allow you to create your BMC: 
+- **Strategizer**: https://www.strategyzer.com/library/the-business-model-canvas.
+- **Canvanizer**: https://canvanizer.com/.
 
 ## 7.3 Linking BMC to Lean Startup & Customer Development
 - **Discovery → Validation (Topic 6)** informs **CS & VP**.  
@@ -74,8 +76,6 @@ Given this VPC summary [jobs, pains, gains], produce 5 VP statements:
 
 **Deliverable:** Shortlist of VP statements + test plan.
 
----
-
 ### 7.5.3 Channels (CH) & Customer Relationships (CR)
 **Goal:** Map awareness → evaluation → purchase → delivery → support.
 
@@ -87,15 +87,13 @@ Design a simple multi-touch journey (5 stages) with one KPI per stage and a 2-we
 
 **Deliverable:** Journey diagram + KPI table (AARRR alignment).
 
----
-
 ### 7.5.4 Revenue Streams (R$) & Pricing
 **Goal:** Choose model(s) and estimate revenue under scenarios.
 
 **AI Prompt (Pricing & Forecast)**
 ```
 Recommend revenue model(s) for [startup]. Propose price points/tiers,
-estimate ARPU and revenue under conservative/base/optimistic scenarios,
+estimate Average Revenue Per User (ARPU) and revenue under conservative/base/optimistic scenarios,
 and list 5 pricing experiments. Return a 12-month simple forecast table.
 ```
 
@@ -131,20 +129,16 @@ For each, outline:
 Return as a table.
 ```
 
----
-
 ### 7.5.5 Cost Structure (C$) & Unit Economics
 **Goal:** Compute CLV, CAC, CLV:CAC, and payback; highlight sensitivities.
 
 **AI Prompt (Unit Economics)**
 ```
-Using these assumptions [retention, ARPU, COGS, CAC], compute CLV, CLV:CAC, payback period.
+Using these assumptions [retention, ARPU, Cost of Goods Sold (COGS), CAC], compute CLV, CLV:CAC, payback period.
 Identify top 3 sensitivity drivers and propose changes to improve each metric.
 ```
 
 **Deliverable:** Unit economics sheet + sensitivity notes.
-
----
 
 ### 7.5.6 KR/KA/KP & Partnership Mapping
 **Goal:** Secure the capabilities and leverage the ecosystem.
@@ -156,8 +150,6 @@ value they add, risks, and a 3-step activation plan. Prioritize by impact vs. ef
 ```
 
 **Deliverable:** Prioritized partner pipeline.
-
----
 
 ### 7.5.7 Full-Canvas Consistency Check
 **AI Prompt (Consistency & Risks)**
@@ -175,47 +167,67 @@ Return a 30-60-90 day action sequence.
 
 ### Case A — AI Personal Health Companion
 
-**BMC Snapshot**
-- **CS:** Adults with chronic conditions; caregivers; clinic programs (B2B2C).  
-- **VP:** *Plain-language, timely “insight cards”* that reduce anxiety and improve adherence.  
-- **CH:** Organic content, clinician referrals, app stores; B2B2C pilots.  
-- **CR:** Onboarding tips, weekly progress emails, caregiver sharing.  
-- **R$:** Subscription (consumer/family); B2B2C per-member-per-month; clinician dashboard upsell.  
-- **KR:** Medical NLP/LLM, data connectors (EHR/wearables), clinician advisory.  
-- **KA:** Data ingestion, inference, QA, compliance, GTM experiments.  
-- **KP:** Wearable vendors, clinics, cloud/PHI-compliant infra.  
-- **C$:** Compute, data pipelines, support, GTM, compliance.
+| **Building Block** | **Description** |
+|---------------------|-----------------|
+| **Customer Segments (CS)** | Adults with chronic conditions; caregivers; clinic programs (B2B2C). |
+| **Value Proposition (VP)** | Plain-language, timely “insight cards” that reduce anxiety and improve adherence. |
+| **Channels (CH)** | Organic content, clinician referrals, app stores; B2B2C pilots. |
+| **Customer Relationships (CR)** | Onboarding tips, weekly progress emails, caregiver sharing. |
+| **Revenue Streams (R$)** | Subscription (consumer/family); B2B2C per-member-per-month; clinician dashboard upsell. |
+| **Key Resources (KR)** | Medical NLP/LLM, data connectors (EHR/wearables), clinician advisory. |
+| **Key Activities (KA)** | Data ingestion, inference, QA, compliance, go-to-market experiments. |
+| **Key Partners (KP)** | Wearable vendors, clinics, cloud/PHI-compliant infrastructure providers. |
+| **Cost Structure (C$)** | Computing, data pipelines, customer support, go-to-market, compliance. |
 
-**Unit Economics (illustrative)**
-- **ARPU (consumer):** $12/mo   **Gross margin:** 70%  
-- **CAC (consumer):** $24   **Payback:** ≈3 months (at 70% GM)  
-- **CLV (12 mo @ net retention 80%):** ≈ $115   **CLV:CAC:** ≈ 4.8  
+### Unit Economics (Illustrative)
 
-**Primary Engine:** **Sticky** (timely insights build habit).  
-**Pivot Watch:** If D+28 retention < 10% → **Customer Need** pivot (content vs. timing) or **Zoom-In** on “trend cards”.
+| **Metric** | **Value** |
+|-------------|-----------|
+| **ARPU (consumer)** | \$12/month |
+| **Gross Margin** | 70% |
+| **CAC (consumer)** | \$24 |
+| **Payback Period** | ≈ 3 months (at 70% GM) |
+| **CLV (12 mo @ 80% retention)** | ≈ \$115 |
+| **CLV : CAC Ratio** | ≈ 4.8 × |
+
+### Strategic Insights
+
+| **Primary Engine of Growth** | **Pivot Watch** |
+|-------------------------------|-----------------|
+| **Sticky** — timely insights build user habit and long-term retention. | If D+28 retention < 10% → consider a **Customer Need** pivot (content vs. timing) or a **Zoom-In** pivot on “trend cards.” |
 
 ---
 
 ### Case B — AI-Powered Language Tutor for Immigrants
 
-**BMC Snapshot**
-- **CS:** Newcomers, job seekers, community-college students, NGOs (site licenses).  
-- **VP:** *Low-anxiety, job-relevant role-plays* with real-time corrections and progress badges.  
-- **CH:** SEO/YouTube, partner NGOs/colleges, WhatsApp communities.  
-- **CR:** Streaks, weekly reviews, peer practice invites.  
-- **R$:** Freemium minutes; paid “coach review” packs; school/NGO licenses.  
-- **KR:** ASR/NLU models, conversation flows, teacher community.  
-- **KA:** Content scripting, evaluation, cohort growth experiments.  
-- **KP:** NGOs, colleges, employer groups, cloud/ASR vendors.  
-- **C$:** Compute, content ops, support, partner rev-share.
+| **Building Block** | **Description** |
+|---------------------|-----------------|
+| **Customer Segments (CS)** | Newcomers, job seekers, community-college students, NGOs (site licenses). |
+| **Value Proposition (VP)** | Low-anxiety, job-relevant role-plays with real-time corrections and progress badges. |
+| **Channels (CH)** | SEO/YouTube, partner NGOs/colleges, WhatsApp communities. |
+| **Customer Relationships (CR)** | Streaks, weekly reviews, peer practice invites. |
+| **Revenue Streams (R$)** | Freemium minutes; paid “coach review” packs; school/NGO licenses. |
+| **Key Resources (KR)** | ASR/NLU models, conversation flows, teacher community. |
+| **Key Activities (KA)** | Content scripting, evaluation, cohort growth experiments. |
+| **Key Partners (KP)** | NGOs, colleges, employer groups, cloud/ASR vendors. |
+| **Cost Structure (C$)** | Compute, content operations, customer support, partner revenue share. |
 
-**Unit Economics (illustrative)**
-- **ARPU (mixed):** $6/mo   **Gross margin:** 60%  
-- **CAC (freemium → paid blended):** $9   **Payback:** ≈ 2.5–3 mo (with viral assists)  
-- **CLV (8 mo @ net retention 70%):** ≈ $34   **CLV:CAC:** ≈ 3.8  
+### Unit Economics (Illustrative)
 
-**Primary Engine:** **Viral** (peer/teacher invites).  
-**Pivot Watch:** If student cohorts outperform others → **Customer Segment** focus or **Zoom-In** on “Interview Coach”.
+| **Metric** | **Value** |
+|-------------|-----------|
+| **ARPU (mixed)** | \$6/month |
+| **Gross Margin** | 60% |
+| **CAC (freemium → paid blended)** | \$9 |
+| **Payback Period** | ≈ 2.5–3 months (with viral assists) |
+| **CLV (8 mo @ 70% retention)** | ≈ \$34 |
+| **CLV : CAC Ratio** | ≈ 3.8 × |
+
+### Strategic Insights
+
+| **Primary Engine of Growth** | **Pivot Watch** |
+|-------------------------------|-----------------|
+| **Viral** — peer and teacher invites drive organic adoption and engagement. | If student cohorts outperform others → pursue a **Customer Segment** focus or **Zoom-In** pivot on “Interview Coach.” |
 
 ---
 
@@ -231,8 +243,6 @@ Return a 30-60-90 day action sequence.
 - One-page BMC + one-page metrics & risks (PDF).  
 - Add 2 next experiments (what, metric, threshold, decision rule).
 
----
-
 ## 7.8 HW 7.1 Homework — BMC + Validation Plan (2–3 pages)
 **Deliverables:**
 1) **Finalized BMC** with top 5 assumptions & mitigations.  
@@ -246,8 +256,6 @@ Return a 30-60-90 day action sequence.
 - Unit economics (2)  
 - Experiments & decision rules (2)  
 - Formatting/clarity (1)
-
----
 
 ## Final Deliverables (Upload to Canvas)
 - **CW 7.1:** BMC + metrics & risks (PDF, 2 pages).  
