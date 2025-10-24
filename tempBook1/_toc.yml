@@ -16,4 +16,5 @@ chapters:
     title: "Topic 5: Design Thinking and Ideation"
   - file: Topic_6_Lean_Startup.md
     title: "Topic 6: Lean Startup"
-
+- file: Topic_7_BMC.md
+    title: "Topic 7: Business Model Canvas (BMC)"
