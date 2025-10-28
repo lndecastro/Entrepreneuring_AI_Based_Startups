@@ -308,6 +308,7 @@ Return a 30-60-90 day action sequence.
 |-------------------------------|-----------------|
 | **Viral** — peer and teacher invites drive organic adoption and engagement. | If student cohorts outperform others → pursue a **Customer Segment** focus or **Zoom-In** pivot on “Interview Coach.” |
 
+<!--
 ---
 
 ## 7.7 CW 7.1 In-Class Exercise — BMC Assembly & Stress Test
@@ -340,4 +341,4 @@ Return a 30-60-90 day action sequence.
 - **CW 7.1:** BMC + metrics & risks (PDF, 2 pages).  
 - **HW 7.1:** BMC + validation plan (PDF, 2–3 pages).  
 - (Optional) Screenshots of AI prompt outputs supporting decisions.
-
+-->
