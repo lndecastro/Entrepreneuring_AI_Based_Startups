@@ -24,11 +24,11 @@ jobs:
           pip install -r requirements.txt
 
       - name: Clean previous Book builds
-        run: jupyter-book clean tempBook1 --all || true
+        run: jupyter-book clean EAIBS --all || true
       
       - name: Build Jupyter Book
-        run: jupyter-book build tempBook1
+        run: jupyter-book build EAIBS
 
       - name: Deploy to GitHub Pages
         run: |
-          ghp-import -n -p -f tempBook1/_build/html
+          ghp-import -n -p -f EAIBS/_build/html
