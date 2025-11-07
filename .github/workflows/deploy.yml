@@ -3,7 +3,7 @@ name: Deploy Jupyter Book to GitHub Pages
 on:
   push:
     branches:
-      - main # Change if your default branch is different
+      - main 
 
 jobs:
   build-deploy:
@@ -30,5 +30,4 @@ jobs:
         run: jupyter-book build EAIBS
 
       - name: Deploy to GitHub Pages
-        run: |
-          ghp-import -n -p -f EAIBS/_build/html
+        run: ghp-import -n -p -f EAIBS/_build/html

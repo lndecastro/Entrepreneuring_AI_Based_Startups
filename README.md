@@ -1,3 +1,6 @@
-https://lndecastro.github.io/Entrepreneuring_AI_Based_Startups/
+# Entrepreneuring AI Based Startups
+*Jupyter-Book created for the AI Literacy program.*
 
-When going to change repo name you'll need to change the 'deploy.yml' and 'config.yml' file.
+**You can view the live book here:**
+
+👉 [**View the Published Book**](https://lndecastro.github.io/Entrepreneuring_AI_Based_Startups/)
