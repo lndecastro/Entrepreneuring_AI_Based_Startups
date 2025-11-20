@@ -1,6 +1,6 @@
-# Topic 9: Pitching Your Startup
+# Topic 10: Pitching Your Startup
 
-## 9.1: The Art of Entrepreneurial Storytelling
+## 10.1: The Art of Entrepreneurial Storytelling
 **Title: Your Pitch Is Your Product's First Sale**
 
 - **The Reality**: You have 3 minutes to capture investor attention, 10 minutes to make your case
@@ -10,7 +10,7 @@
 
 **Quote**: *"The goal is not to be perfect by the end. The goal is to be better today than you were yesterday."* - Andy Dunn, Bonobos Founder
 
-## 9.2: The Modern Pitch Landscape
+## 10.2: The Modern Pitch Landscape
 **Traditional Pitching**: Static presentations with limited personalization
 **AI-Enhanced Pitching**: Dynamic content, personalized messaging, real-time optimization
 
@@ -23,7 +23,7 @@
 
 **AI Applications**: Content generation, audience analysis, delivery coaching, objection preparation
 
-## 9.3: Crafting an Effective Pitch Deck
+## 10.3: Crafting an Effective Pitch Deck
 **The 10-Slide Formula for Startup Success:**
 
 1. **Problem**: The pain point you're addressing
@@ -39,7 +39,7 @@
 
 **AI Enhancement**: Each slide optimized for clarity, impact, and audience resonance
 
-## 9.4: Problem and Solution Storytelling
+## 10.4: Problem and Solution Storytelling
 **The Problem Slide Formula:**
 - Start with a relatable story or scenario
 - Quantify the pain (market size, frequency, cost)
@@ -54,7 +54,7 @@
 
 **AI Storytelling Enhancement**: Generate compelling narratives, test message resonance, optimize emotional impact
 
-## 9.5: Market and Traction Validation
+## 10.5: Market and Traction Validation
 **Market Slide Best Practices:**
 - **TAM/SAM/SOM**: Total, Serviceable, and Obtainable Market sizing
 - **Market Trends**: Growth drivers and timing factors
@@ -69,7 +69,7 @@
 
 **AI Applications**: Market research synthesis, competitive analysis, metric optimization
 
-## 9.6: Product Demo and Business Model
+## 10.6: Product Demo and Business Model
 **Effective Product Presentations:**
 - **Show, Don't Tell**: Live demos beat screenshots
 - **User Journey Focus**: Walk through actual customer experience
@@ -82,7 +82,7 @@
 - **Scalability Evidence**: How revenue grows with customers
 - **Multiple Revenue Streams**: Diversification and growth opportunities
 
-## 9.7: Competition and Team Positioning
+## 10.7: Competition and Team Positioning
 **Competitive Analysis Framework:**
 - **Direct Competitors**: Companies solving the same problem
 - **Indirect Competitors**: Alternative solutions customers use
@@ -97,7 +97,7 @@
 
 **AI Enhancement**: Competitive intelligence gathering, team positioning optimization
 
-## 9.8: Financial Projections and Investment Ask
+## 10.8: Financial Projections and Investment Ask
 **Financial Slide Essentials:**
 - **Revenue Projections**: Realistic growth based on market evidence
 - **Key Metrics**: Unit economics, customer acquisition cost, lifetime value
@@ -112,7 +112,7 @@
 
 **AI Applications**: Financial modeling, scenario planning, valuation analysis
 
-## 9.9: Presentation Skills and Public Speaking
+## 10.9: Presentation Skills and Public Speaking
 **Core Presentation Principles:**
 - **Confidence**: Project belief in your vision and capability
 - **Clarity**: Simple, understandable language and concepts
@@ -127,7 +127,7 @@
 
 **AI Coaching Applications**: Speech analysis, pacing optimization, confidence building
 
-## 9.10: Q&A Preparation and Handling
+## 10.10: Q&A Preparation and Handling
 **Common Investor Questions Categories:**
 - **Market Questions**: Size, competition, customer acquisition
 - **Product Questions**: Differentiation, development, scalability
@@ -507,9 +507,7 @@ Overall Investment Appeal:
 
 ---
 
-## Homework Assignment
-
-### Project: Master Pitch Development and Investor Presentation
+## HW 1: Master Pitch Development and Investor Presentation
 
 **Objective**: Create professional-quality investor pitch with supporting materials, comprehensive Q&A preparation, and polished delivery skills
 
@@ -750,27 +748,3 @@ Secure and deliver real investor pitch during the week using developed materials
 - Integration of AI coaching feedback with presentation skill improvement
 - Documentation of AI enhancement in pitch development process
 
----
-
-## Next Week Preview
-
-**Topic 11: Final Project Presentation (MVP + Pitch)**
-- Integration of all course elements into comprehensive startup presentation
-- Peer and expert evaluation with structured feedback
-- Investor panel presentation with real-world feedback
-- Course reflection and next steps for continued entrepreneurial development
-
-**Preparation:**
-- Complete all pitch materials and practice extensively
-- Prepare MVP demonstration or prototype for presentation
-- Review all previous weeks' work for comprehensive startup story
-- Plan post-course entrepreneurial development and action steps
-
-**Final Presentation Requirements**:
-- 15-minute comprehensive presentation including MVP demo
-- Professional investor-quality pitch deck and materials
-- Q&A readiness for business model, technical, and market questions
-- Reflection on learning journey and future entrepreneurial plans
-
-**Course Culmination**:
-This final session represents the capstone of your entrepreneurial learning journey, combining technical skills, business strategy, and presentation excellence into a complete startup presentation ready for real-world investor and customer engagement.
