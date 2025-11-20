@@ -1,4 +1,5 @@
 # Topic 9: Funding & Investment Readiness
+This module introduces the fundamentals of startup funding and investment readiness, guiding you through the stages of financing, the types of investors you may encounter, and the criteria they use to evaluate early-stage ventures. You will learn how capital flows into startups, what investors expect at each stage, how to interpret key financial concepts such as valuation, dilution, and unit economics, and how to assess whether your own startup is prepared to raise external funding. By the end of the module, you will understand both the strategic role of funding in accelerating growth and the practical steps required to become an investable AI-powered startup.
 
 ## 9.1 Why Funding Matters
 Building an AI-based startup involves navigating dynamic markets, managing technical complexity, and achieving rapid experimentation (validated through the Build–Measure–Learn loop from Lean Startup). Funding becomes essential to:
