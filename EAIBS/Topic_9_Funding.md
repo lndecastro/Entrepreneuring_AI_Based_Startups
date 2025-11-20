@@ -136,14 +136,14 @@ A **term sheet** is a non-binding document that outlines the key financial and l
 ## 9.5 Startup Financing Stages and Funding Sources
 Now that we understand the different startup financing stages, funding sources, and how investments work, it is possible to make an analysis of their interrelationships, typical check sizes (as of 2025-2026) and equity exchanges. This helps entrepreneurs to position themselves in their journey of seeking for funding.
 
-| **Stage** | **Primary Funding Sources** | **Typical Check Size** | **Typical Equity Exchanged** | **Focus** |
+| **Stage** | **Primary Funding Sources** | **Typical Check Size ($)** | **Typical Equity Exchanged** | **Focus** |
 |----------|------------------------------|---------------------------|-------------------------------|-----------|
-| **Pre-Seed** (Ideation & Validation) | - Founders (bootstrapping)  <br>- Friends & Family <br>- Small Grants & Awards <br>- Incubators (rarely) <br>- Pre-seed Angels | **$10k–$250k** | **0%** (bootstrapping, grants) <br>**5%–10%** (friends & family) <br>**0–2%** (incubators, uncommon) | Validate problem/solution fit, build prototype |
-| **Seed** (MVP & Early Traction) | - Angel Investors <br>- Angel Syndicates <br>- Seed Funds <br>- Accelerators | **$250k–$2M** | **10%–20%** (typical dilution) <br>**5%–10%** (accelerators) | Build MVP, gain first paying users |
-| **Series A** (Growth & Repeatable Revenue) | - Institutional Venture Capital | **$2M–$15M** | **15%–25%** | Scale product, grow users, build revenue engine |
-| **Series B** (Market Expansion) | - Growth VCs <br>- Corporate Venture Capital | **$15M–$40M+** | **10%–20%** | Expand into new markets, strengthen moat |
-| **Series C+** (Scale & Maturity) | - Late-Stage VCs <br>- Corporate VCs <br>- Private Equity | **$30M–$100M+** | **5%–15%** | Aggressive scaling, acquisitions, global expansion |
-| **Non-Dilutive (Multi-Stage)** | - Grants (I-Corps, SBIR/STTR) <br>- Competitions <br>- Corporate Innovation Grants <br>- Revenue-Based Financing | **$5k–$2M** | **0% equity** | Ideal for tech, scientific, and AI startups |
+| **Pre-Seed** (Ideation & Validation) | - Founders (bootstrapping)  <br>- Friends & Family <br>- Small Grants & Awards <br>- Incubators (rarely) <br>- Pre-seed Angels | **10k–250k** | **0%** (bootstrapping, grants) <br>**5%–10%** (friends & family) <br>**0–2%** (incubators, uncommon) | Validate problem/solution fit, build prototype |
+| **Seed** (MVP & Early Traction) | - Angel Investors <br>- Angel Syndicates <br>- Seed Funds <br>- Accelerators | **250k–2M** | **10%–20%** (typical dilution) <br>**5%–10%** (accelerators) | Build MVP, gain first paying users |
+| **Series A** (Growth & Repeatable Revenue) | - Institutional Venture Capital | **2M–15M** | **15%–25%** | Scale product, grow users, build revenue engine |
+| **Series B** (Market Expansion) | - Growth VCs <br>- Corporate Venture Capital | **15M–40M+** | **10%–20%** | Expand into new markets, strengthen moat |
+| **Series C+** (Scale & Maturity) | - Late-Stage VCs <br>- Corporate VCs <br>- Private Equity | **30M–100M+** | **5%–15%** | Aggressive scaling, acquisitions, global expansion |
+| **Non-Dilutive (Multi-Stage)** | - Grants (I-Corps, SBIR/STTR) <br>- Competitions <br>- Corporate Innovation Grants <br>- Revenue-Based Financing | **5k–2M** | **0% equity** | Ideal for tech, scientific, and AI startups |
 
 ## Example: How Investment, Valuation, Equity, and Dilution Work
 
