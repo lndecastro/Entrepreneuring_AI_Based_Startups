@@ -121,16 +121,16 @@ Investment involves exchanging equity for capital under mutually agreed terms.
 #### 2. Equity
 Portion of ownership investors receive in exchange for capital.
 
-#### **3. Dilution**
+#### 3. Dilution
 As new shares are issued, earlier owners hold a smaller percentage.
 
-#### **4. SAFEs and Convertible Notes**
+#### 4. SAFEs and Convertible Notes
 Common early-stage instruments. A **SAFE** is an agreement where an investor gives money now in exchange for the right to receive future equity at the next priced funding round, without accruing interest or having a maturity date. A **convertible note** is a short-term loan that converts into equity during a future priced round, typically including interest and a maturity date that impose financial obligations until conversion. In summary, a SAFE gives investors the right to receive future equity with no interest or repayment obligation, whereas a convertible note is a debt instrument that converts into equity but carries interest and a maturity date requiring repayment if conversion does not occur.
 
-#### **5. Term Sheets**
+#### 5. Term Sheets
 A **term sheet** is a non-binding document that outlines the key financial and legal terms of an investment, such as valuation, equity percentage, investor rights, governance provisions, and closing conditions, providing a clear framework for negotiation before drafting the final, legally binding investment agreements. It outlines key terms such as valuation, rights, and governance.
 
-#### **6. Vesting (Founder Equity Vesting)**
+#### 6. Vesting (Founder Equity Vesting)
 **Vesting** is the process by which founders earn their equity over time, typically across a 4-year schedule with a 1-year **cliff**, to ensure long-term commitment, reduce investor risk, and protect the company if a co-founder leaves early. Under vesting, a founder who departs prematurely keeps only the portion of equity already vested, and the remaining unvested shares return to the company for future hires or to rebalance ownership.
 
 ## 9.5 Startup Financing Stages and Funding Sources
