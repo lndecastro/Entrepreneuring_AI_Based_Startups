@@ -106,6 +106,8 @@ Strategic investments by industry giants (e.g., Google, OpenAI, Microsoft).
 ### H. Revenue-Based Financing
 Repayment linked to revenue rather than equity.
 
+![Funding Sources](Data/FundingSources.png)
+
 ## 9.4 How Investment Works (Valuation, Equity, Dilution)
 Investment involves exchanging equity for capital under mutually agreed terms.
 
