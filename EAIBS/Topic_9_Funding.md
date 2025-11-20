@@ -148,7 +148,7 @@ Now that we understand the different startup financing stages, funding sources, 
 ## Example: How Investment, Valuation, Equity, and Dilution Work
 
 Imagine a startup with **4 co-founders**, each owning **25%** of the company.  
-The company is valued at **$1,000,000 pre-money** and receives an investment of **$100,000** at a **$1,100,000 post-money valuation**.
+The company is valued at $**1,000,000 pre-money** and receives an investment of $**100,000** at a $**1,100,000 post-money valuation**.
 
 ### 1. Pre-Investment Ownership
 - Total shares: **100%**
