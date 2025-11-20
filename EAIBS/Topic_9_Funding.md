@@ -1,4 +1,4 @@
-# Topic 9: Funding & Investment Readiness — Entrepreneuring AI-Based Startups
+# Topic 9: Funding & Investment Readiness
 
 ## 9.1 Why Funding Matters
 Building an AI-based startup involves navigating dynamic markets, managing technical complexity, and achieving rapid experimentation (validated through the Build–Measure–Learn loop from Lean Startup). Funding becomes essential to:
@@ -113,21 +113,33 @@ Investment involves exchanging equity for capital under mutually agreed terms.
 
 ### **Key Concepts**
 
-#### **1. Valuation**
+#### 1. Valuation
 - **Pre-money valuation:** startup value before investment.  
 - **Post-money valuation:** value after investment.
 
-#### **2. Equity**
+#### 2. Equity
 Portion of ownership investors receive in exchange for capital.
 
 #### **3. Dilution**
 As new shares are issued, earlier owners hold a smaller percentage.
 
 #### **4. SAFEs and Convertible Notes**
-Common early-stage instruments.
+Common early-stage instruments. A **SAFE** is an agreement where an investor gives money now in exchange for the right to receive future equity at the next priced funding round, without accruing interest or having a maturity date. A **convertible note** is a short-term loan that converts into equity during a future priced round, typically including interest and a maturity date that impose financial obligations until conversion. In summary, a SAFE gives investors the right to receive future equity with no interest or repayment obligation, whereas a convertible note is a debt instrument that converts into equity but carries interest and a maturity date requiring repayment if conversion does not occur.
 
 #### **5. Term Sheets**
-Outline key terms such as valuation, rights, and governance.
+A **term sheet** is a non-binding document that outlines the key financial and legal terms of an investment, such as valuation, equity percentage, investor rights, governance provisions, and closing conditions, providing a clear framework for negotiation before drafting the final, legally binding investment agreements. It outlines key terms such as valuation, rights, and governance.
+
+## 9.5 Startup Financing Stages and Funding Sources
+Now that we understand the different startup financing stages, funding sources, and how investments work, it is possible to make an analysis of their interrelationships, typical check sizes (as of 2025-2026) and equity exchanges. This helps entrepreneurs to position themselves in their journey of seeking for funding.
+
+| **Stage** | **Primary Funding Sources** | **Typical Check Size** | **Typical Equity Exchanged** | **Notes** |
+|----------|------------------------------|---------------------------|-------------------------------|-----------|
+| **Pre-Seed** (Ideation & Validation) | - Founders (bootstrapping)  <br>- Friends & Family <br>- Small Grants & Awards <br>- Incubators (rarely) <br>- Pre-seed Angels | **$10k–$250k** | **0%** (bootstrapping, grants) <br>**5%–10%** (friends & family) <br>**0%** (grants) <br>**0–2%** (incubators, uncommon) | Validate problem/solution fit, build prototype |
+| **Seed** (MVP & Early Traction) | - Angel Investors <br>- Angel Syndicates <br>- Seed Funds <br>- Accelerators | **$250k–$2M** | **10%–20%** (typical dilution) <br>**5%–10%** (accelerators) | Build MVP, gain first paying users |
+| **Series A** (Growth & Repeatable Revenue) | - Institutional Venture Capital | **$2M–$15M** | **15%–25%** | Scale product, grow users, build revenue engine |
+| **Series B** (Market Expansion) | - Growth VCs <br>- Corporate Venture Capital | **$15M–$40M+** | **10%–20%** | Expand into new markets, strengthen moat |
+| **Series C+** (Scale & Maturity) | - Late-Stage VCs <br>- Corporate VCs <br>- Private Equity | **$30M–$100M+** | **5%–15%** | Aggressive scaling, acquisitions, global expansion |
+| **Non-Dilutive (Multi-Stage)** | - Grants (I-Corps, SBIR/STTR) <br>- Competitions <br>- Corporate Innovation Grants <br>- Revenue-Based Financing | **$5k–$2M** | **0% equity** | Ideal for tech, scientific, and AI startups |
 
 ## 9.5 Legal & Ethical Considerations in Funding
 Funding introduces obligations and legal responsibilities.
