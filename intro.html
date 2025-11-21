@@ -1,0 +1,891 @@
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="./" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Welcome to Entrepreneuring AI-Based Startups &#8212; Entrepreneuring AI Based Startups</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.8ecb98da25f57f5357bf6f572d296f466b2cfe2517ffebfabe82451661e28f02.css" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+    <script src="_static/documentation_options.js?v=9eb32ce0"></script>
+    <script src="_static/doctools.js?v=9a2dae69"></script>
+    <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/clipboard.min.js?v=a7894cd8"></script>
+    <script src="_static/copybutton.js?v=f281be69"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="_static/togglebutton.js?v=4a39c7ea"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="_static/design-tabs.js?v=f930bc37"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script async="async" src="_static/sphinx-thebe.js?v=c100c467"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script>window.MathJax = {"options": {"processHtmlClass": "tex2jax_process|mathjax_process|math|output_area"}}</script>
+    <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'intro';</script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Topic 1: The Basic GenAI Toolkit" href="Topic_1_The_GenAI_Toolkit.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+        
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="#">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="_static/dendritic_logo.png" class="logo__image only-light" alt="Entrepreneuring AI Based Startups - Home"/>
+    <script>document.write(`<img src="_static/dendritic_logo.png" class="logo__image only-dark" alt="Entrepreneuring AI Based Startups - Home"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item">
+
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1 current active">
+                <a class="reference internal" href="#">
+                    Welcome to Entrepreneuring AI-Based Startups
+                </a>
+            </li>
+        </ul>
+        <ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="Topic_1_The_GenAI_Toolkit.html">Topic 1: The GenAI Toolkit</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Topic_2_AI_Literacy.html">Topic 2: AI Literacy</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Topic_3_Strategic_Positioning.html">Topic 3: Strategic Positioning</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Topic_4_Customer_Development.html">Topic 4: Customer Development</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Topic_5_Design_Thinking_Ideation.html">Topic 5: Design Thinking and Ideation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Topic_6_Lean_Startup.html">Topic 6: Lean Startup</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Topic_7_BMC.html">Topic 7: Business Model Canvas (BMC)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Topic_8_Legal_Ethics.html">Topic 8: Legal and Ethics for Startups</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Topic_9_Funding.html">Topic 9: Funding &amp; Investment Readiness</a></li>
+
+<li class="toctree-l1"><a class="reference internal" href="Topic_10_Pitch.html">Topic 10: Pitching Your Startup</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><button class="sidebar-toggle primary-toggle btn btn-sm" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</button></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/lndecastro/Entrepreneuring_AI_Based_Startups" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="Source repository"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/lndecastro/Entrepreneuring_AI_Based_Startups/edit/main/docs/intro.md" target="_blank"
+   class="btn btn-sm btn-source-edit-button dropdown-item"
+   title="Suggest edit"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-pencil-alt"></i>
+  </span>
+<span class="btn__text-container">Suggest edit</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="_sources/intro.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</button>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Welcome to Entrepreneuring AI-Based Startups</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#about-your-instructor-dr-leandro-nunes-de-castro">About Your Instructor – Dr. Leandro Nunes de Castro</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-goal-and-class-focus">Course Goal and Class Focus</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-ai-entrepreneurship-revolution">The AI Entrepreneurship Revolution</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#what-makes-ai-entrepreneurship-different">What Makes AI Entrepreneurship Different?</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-ai-entrepreneur-s-toolkit">The AI Entrepreneur’s Toolkit</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-startup-ecosystem-today">The Startup Ecosystem Today</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#your-ai-entrepreneurship-framework">Your AI Entrepreneurship Framework</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-project-overview">Course Project Overview</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#ten-entrepreneurial-competencies-traditional-vs-ai-enhanced">Ten Entrepreneurial Competencies: Traditional vs AI-Enhanced</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#cw-1-ten-entrepreneurial-competencies-tec">CW 1: Ten Entrepreneurial Competencies (TEC)</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#our-journey">Our Journey</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#key-roles-in-a-startup-team">1. Key Roles in a Startup Team</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#ceo-chief-executive-officer">CEO – Chief Executive Officer</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#cfo-chief-financial-officer">CFO – Chief Financial Officer</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#cto-chief-technology-officer">CTO – Chief Technology Officer</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#cmo-chief-marketing-officer">CMO – Chief Marketing Officer</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#coo-chief-operating-officer">COO – Chief Operating Officer</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#other-important-roles">Other Important Roles</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#why-complementary-skills-matter">Why Complementary Skills Matter</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#startup-speed-dating">2. Startup Speed Dating</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#objective">Objective</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#setup">Setup</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#instructions">Instructions</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#timing-overview">Timing Overview</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#expected-outcome">Expected Outcome</a></li>
+</ul>
+</li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section class="tex2jax_ignore mathjax_ignore" id="welcome-to-entrepreneuring-ai-based-startups">
+<h1>Welcome to Entrepreneuring AI-Based Startups<a class="headerlink" href="#welcome-to-entrepreneuring-ai-based-startups" title="Link to this heading">#</a></h1>
+<p>Welcome to <strong>CEN 4930 – Entrepreneuring AI-Based Startups</strong>. This course is designed to give you the tools, knowledge, and hands-on experience to plan, design, and launch an AI-driven startup. By combining entrepreneurship principles with artificial intelligence and data science, you will learn how to identify opportunities, build an innovative minimum viable product (MVP), and pitch your startup idea to a panel of judges. Through project-based learning, teamwork, and interactive discussions, this class will challenge you to think like both an entrepreneur and a technologist.</p>
+<section id="about-your-instructor-dr-leandro-nunes-de-castro">
+<h2>About Your Instructor – Dr. Leandro Nunes de Castro<a class="headerlink" href="#about-your-instructor-dr-leandro-nunes-de-castro" title="Link to this heading">#</a></h2>
+<ul class="simple">
+<li><p>Professor in the <strong>Department of Computing and Software Engineering</strong>, U.A. Whitaker College of Engineering, FGCU.</p></li>
+<li><p>Ph.D. in Computer Engineering with 30 years of experience in <strong>Artificial Intelligence, Data Science, and Natural Computing</strong>.</p></li>
+<li><p>Director of the <strong>Dendritic Institute for Artificial Intelligence and Data Science</strong> at FGCU.</p></li>
+<li><p>Author of various AI and Data Science books and recognized among the <strong>Top 2% most influential researchers in Computer Science worldwide</strong>.</p></li>
+<li><p>Experienced entrepreneur, researcher, and educator with a focus on applying AI for innovation, business, and societal impact.</p></li>
+<li><p>Active mentor and collaborator with international academic and industry partners.</p></li>
+</ul>
+</section>
+<section id="course-goal-and-class-focus">
+<h2>Course Goal and Class Focus<a class="headerlink" href="#course-goal-and-class-focus" title="Link to this heading">#</a></h2>
+<ul class="simple">
+<li><p><strong>Course Goal</strong>: Build an AI-powered MVP and deliver a compelling pitch</p></li>
+<li><p><strong>Your Journey</strong>: From idea to functioning prototype in 16 weeks</p></li>
+<li><p><strong>Key Question</strong>: How is AI changing the entrepreneurial landscape?</p></li>
+<li><p><strong>Today’s Focus (08/22)</strong>:</p>
+<ul>
+<li><p>Understanding the AI-entrepreneurship intersection</p></li>
+<li><p>Meetup</p></li>
+<li><p>Team Formation</p></li>
+<li><p>Intro to GenAI: Opening our Toolbox</p></li>
+</ul>
+</li>
+</ul>
+</section>
+<section id="the-ai-entrepreneurship-revolution">
+<h2>The AI Entrepreneurship Revolution<a class="headerlink" href="#the-ai-entrepreneurship-revolution" title="Link to this heading">#</a></h2>
+<p><strong>The Current Landscape</strong></p>
+<ul class="simple">
+<li><p>80% of Y Combinator startups are now AI-focused (2025)</p></li>
+<li><p>25% achieve 95% AI-generated code development</p></li>
+<li><p>$50B+ invested in AI startups in 2024</p></li>
+<li><p>Traditional entrepreneurship principles + AI capabilities = New opportunities</p></li>
+</ul>
+<p><strong>Quote:</strong> <em>“AI doesn’t replace entrepreneurs—it amplifies them.”</em> - Sam Altman, OpenAI</p>
+</section>
+<section id="what-makes-ai-entrepreneurship-different">
+<h2>What Makes AI Entrepreneurship Different?<a class="headerlink" href="#what-makes-ai-entrepreneurship-different" title="Link to this heading">#</a></h2>
+<p><strong>Traditional Entrepreneurship:</strong></p>
+<ul class="simple">
+<li><p>Market research → Product development → Customer validation</p></li>
+<li><p>Linear, sequential process</p></li>
+<li><p>Human-driven insights and development</p></li>
+</ul>
+<p><strong>AI-Enabled Entrepreneurship:</strong></p>
+<ul class="simple">
+<li><p>Rapid prototyping with AI tools</p></li>
+<li><p>Real-time market analysis and customer simulation</p></li>
+<li><p>Iterative, AI-accelerated validation cycles</p></li>
+<li><p>Human creativity + AI computational power</p></li>
+</ul>
+</section>
+<section id="the-ai-entrepreneur-s-toolkit">
+<h2>The AI Entrepreneur’s Toolkit<a class="headerlink" href="#the-ai-entrepreneur-s-toolkit" title="Link to this heading">#</a></h2>
+<p><strong>Core Categories:</strong></p>
+<ol class="arabic simple">
+<li><p><strong>Research &amp; Analysis</strong>: Market sizing, competitor analysis, trend identification</p></li>
+<li><p><strong>Product Development</strong>: Rapid prototyping, feature generation, technical architecture</p></li>
+<li><p><strong>Customer Understanding</strong>: Persona simulation, interview preparation, feedback analysis</p></li>
+<li><p><strong>Business Strategy</strong>: Model generation, scenario planning, risk assessment</p></li>
+<li><p><strong>Communication</strong>: Pitch development, content creation, presentation optimization</p></li>
+</ol>
+</section>
+<section id="the-startup-ecosystem-today">
+<h2>The Startup Ecosystem Today<a class="headerlink" href="#the-startup-ecosystem-today" title="Link to this heading">#</a></h2>
+<p><strong>Key Players:</strong></p>
+<ul class="simple">
+<li><p><strong>Incubators</strong>: Y Combinator, Techstars (AI-first programs), etc</p></li>
+<li><p><strong>Investors</strong>: Andreessen Horowitz, Sequoia (AI-focused funds), etc.</p></li>
+<li><p><strong>Infrastructure</strong>: OpenAI, Anthropic, Google (API providers), etc.</p></li>
+<li><p><strong>Talent</strong>: AI researchers transitioning to entrepreneurship and entrepreneurs embracing AI</p></li>
+</ul>
+<p><strong>Market Dynamics</strong>: Customer expectation of AI integration, competitive necessity, regulatory considerations</p>
+</section>
+<section id="your-ai-entrepreneurship-framework">
+<h2>Your AI Entrepreneurship Framework<a class="headerlink" href="#your-ai-entrepreneurship-framework" title="Link to this heading">#</a></h2>
+<p><strong>The 4-Layer Approach:</strong></p>
+<ol class="arabic simple">
+<li><p><strong>Foundation Layer</strong>: AI literacy and prompt engineering</p></li>
+<li><p><strong>Application Layer</strong>: Using AI for specific business functions</p></li>
+<li><p><strong>Integration Layer</strong>: Building AI into your product/service</p></li>
+<li><p><strong>Innovation Layer</strong>: Creating novel AI-powered solutions</p></li>
+</ol>
+</section>
+<section id="course-project-overview">
+<h2>Course Project Overview<a class="headerlink" href="#course-project-overview" title="Link to this heading">#</a></h2>
+<p><strong>Your Challenge:</strong></p>
+<ul class="simple">
+<li><p>Identify a real problem worth solving</p></li>
+<li><p>Design an AI-enhanced solution</p></li>
+<li><p>Build a functional MVP</p></li>
+<li><p>Validate with real customers</p></li>
+<li><p>Present to panel</p></li>
+</ul>
+<p><strong>Success Metrics:</strong> Problem-solution fit, technical feasibility, market validation, business viability</p>
+</section>
+<section id="ten-entrepreneurial-competencies-traditional-vs-ai-enhanced">
+<h2>Ten Entrepreneurial Competencies: Traditional vs AI-Enhanced<a class="headerlink" href="#ten-entrepreneurial-competencies-traditional-vs-ai-enhanced" title="Link to this heading">#</a></h2>
+<p>The traditional <strong>Ten Entrepreneurial Competencies</strong> describe the mindset and behaviors that have guided entrepreneurs for decades. However, with the rise of AI, these competencies are being reshaped. Entrepreneurs today not only rely on the competencies, but also on their ability to leverage AI tools for opportunity detection, decision-making, efficiency, and collaboration. The table below presents a side-by-side view of the <strong>traditional competencies</strong> and their <strong>AI-enhanced counterparts</strong>, highlighting how entrepreneurial skills evolve in an AI-driven economy.</p>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>#</p></th>
+<th class="head"><p>Traditional Competency</p></th>
+<th class="head"><p>AI-Enhanced Competency</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>1</p></td>
+<td><p><strong>Opportunity Seeking and Initiative</strong><br>Entrepreneurs actively look for opportunities and take initiative to turn them into viable businesses.</p></td>
+<td><p><strong>AI-Augmented Opportunity Seeking and Initiative</strong><br>Entrepreneurs leverage AI for market scanning, trend analysis, and opportunity detection (e.g., NLP on social media, predictive analytics). They use AI copilots to generate and validate new ideas rapidly.</p></td>
+</tr>
+<tr class="row-odd"><td><p>2</p></td>
+<td><p><strong>Persistence</strong><br>Successful entrepreneurs don’t give up easily. They persist in overcoming obstacles and are determined to achieve their goals despite challenges.</p></td>
+<td><p><strong>AI-Driven Persistence</strong><br>Entrepreneurs use AI simulations, reinforcement learning, and iterative prototyping to persist through failures—treating setbacks as data points to improve algorithms, products, and strategies.</p></td>
+</tr>
+<tr class="row-even"><td><p>3</p></td>
+<td><p><strong>Commitment</strong><br>They demonstrate a high level of commitment to their business, going above and beyond to ensure its success.</p></td>
+<td><p><strong>Commitment with Human-AI Synergy</strong><br>Entrepreneurs show commitment not only through personal effort but also by designing AI-human workflows that maximize productivity and long-term trust.</p></td>
+</tr>
+<tr class="row-odd"><td><p>4</p></td>
+<td><p><strong>Demand for Efficiency and Quality</strong><br>Entrepreneurs strive to improve processes, products, and services.</p></td>
+<td><p><strong>Demand for AI-Optimized Efficiency and Quality</strong><br>Entrepreneurs apply AI tools (automation, generative design, predictive monitoring) to optimize operations and maintain high-quality standards.</p></td>
+</tr>
+<tr class="row-even"><td><p>5</p></td>
+<td><p><strong>Risk-Taking</strong><br>They are willing to take calculated risks and make decisions under uncertainty.</p></td>
+<td><p><strong>AI-Assisted Risk-Taking</strong><br>Entrepreneurs combine human judgment with AI-powered risk assessment models (scenario analysis, simulations, fraud detection) to make smarter decisions under uncertainty.</p></td>
+</tr>
+<tr class="row-odd"><td><p>6</p></td>
+<td><p><strong>Goal Setting</strong><br>Entrepreneurs set clear, challenging, and achievable goals.</p></td>
+<td><p><strong>Goal Setting with AI Metrics</strong><br>Entrepreneurs use AI dashboards and predictive KPIs to set SMART goals and adjust them dynamically based on real-time data.</p></td>
+</tr>
+<tr class="row-even"><td><p>7</p></td>
+<td><p><strong>Information Seeking</strong><br>They constantly seek out relevant information through research, feedback, and trends.</p></td>
+<td><p><strong>AI-Enhanced Information Seeking</strong><br>Entrepreneurs integrate AI research assistants, scrapers, and domain-specific LLMs to gather and synthesize information at scale.</p></td>
+</tr>
+<tr class="row-odd"><td><p>8</p></td>
+<td><p><strong>Systematic Planning and Monitoring</strong><br>Entrepreneurs develop detailed plans and regularly monitor progress.</p></td>
+<td><p><strong>Systematic Planning and Monitoring with AI Agents</strong><br>Entrepreneurs deploy AI agents for agile management, scenario simulation, and adaptive monitoring.</p></td>
+</tr>
+<tr class="row-even"><td><p>9</p></td>
+<td><p><strong>Persuasion and Networking</strong><br>They persuade others and build strong networks for growth.</p></td>
+<td><p><strong>AI-Powered Persuasion and Networking</strong><br>Entrepreneurs use AI to personalize pitches, analyze investor profiles, optimize engagement, and find high-value connections.</p></td>
+</tr>
+<tr class="row-odd"><td><p>10</p></td>
+<td><p><strong>Independence and Self-Confidence</strong><br>Entrepreneurs are confident, autonomous, and take responsibility for decisions.</p></td>
+<td><p><strong>Augmented Independence and Self-Confidence</strong><br>Entrepreneurs maintain autonomy while leveraging AI copilots for decision support, gaining confidence from mastering human-AI collaboration.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<section id="cw-1-ten-entrepreneurial-competencies-tec">
+<h3>CW 1: Ten Entrepreneurial Competencies (TEC)<a class="headerlink" href="#cw-1-ten-entrepreneurial-competencies-tec" title="Link to this heading">#</a></h3>
+</section>
+</section>
+<section id="our-journey">
+<h2>Our Journey<a class="headerlink" href="#our-journey" title="Link to this heading">#</a></h2>
+<p><img alt="Our Journey" src="_images/OurJorney.png" /></p>
+</section>
+<hr class="docutils" />
+<section id="key-roles-in-a-startup-team">
+<h2>1. Key Roles in a Startup Team<a class="headerlink" href="#key-roles-in-a-startup-team" title="Link to this heading">#</a></h2>
+<p>When forming your startup team, it is important to have <strong>complementary skills</strong>. Here are some of the most common roles in startups:</p>
+<section id="ceo-chief-executive-officer">
+<h3>CEO – Chief Executive Officer<a class="headerlink" href="#ceo-chief-executive-officer" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p>The <strong>leader of the company</strong> and the one who keeps the team aligned.</p></li>
+<li><p>Focuses on <strong>vision, strategy, and decision-making</strong>.</p></li>
+<li><p>Often the main spokesperson who pitches the startup to investors and partners.</p></li>
+</ul>
+</section>
+<section id="cfo-chief-financial-officer">
+<h3>CFO – Chief Financial Officer<a class="headerlink" href="#cfo-chief-financial-officer" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p>Takes care of the <strong>money side of the business</strong>.</p></li>
+<li><p>Manages the <strong>budget, funding, costs, and financial planning</strong>.</p></li>
+<li><p>Helps ensure the startup can grow in a sustainable way.</p></li>
+</ul>
+</section>
+<section id="cto-chief-technology-officer">
+<h3>CTO – Chief Technology Officer<a class="headerlink" href="#cto-chief-technology-officer" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p>Responsible for the <strong>technology and product development</strong>.</p></li>
+<li><p>Oversees the <strong>software, data, AI models, or any tech tools</strong> used.</p></li>
+<li><p>Ensures the startup’s solution is <strong>feasible, scalable, and secure</strong>.</p></li>
+</ul>
+</section>
+<section id="cmo-chief-marketing-officer">
+<h3>CMO – Chief Marketing Officer<a class="headerlink" href="#cmo-chief-marketing-officer" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p>Focuses on <strong>promoting the product and reaching customers</strong>.</p></li>
+<li><p>Handles <strong>branding, communication, social media, and advertising</strong>.</p></li>
+<li><p>Ensures the startup finds and keeps its target audience.</p></li>
+</ul>
+</section>
+<section id="coo-chief-operating-officer">
+<h3>COO – Chief Operating Officer<a class="headerlink" href="#coo-chief-operating-officer" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p>Manages the <strong>day-to-day operations</strong> of the startup.</p></li>
+<li><p>Ensures everything runs smoothly: people, processes, and projects.</p></li>
+<li><p>Often works closely with the CEO to turn strategy into action.</p></li>
+</ul>
+</section>
+<section id="other-important-roles">
+<h3>Other Important Roles<a class="headerlink" href="#other-important-roles" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Product Manager (PM):</strong> Makes sure the product solves the customer’s problem and is easy to use.</p></li>
+<li><p><strong>Sales Lead:</strong> Builds relationships with customers and closes deals.</p></li>
+<li><p><strong>Customer Success Lead:</strong> Ensures users are happy and stay engaged with the product.</p></li>
+</ul>
+</section>
+</section>
+<section id="why-complementary-skills-matter">
+<h2>Why Complementary Skills Matter<a class="headerlink" href="#why-complementary-skills-matter" title="Link to this heading">#</a></h2>
+<ul class="simple">
+<li><p>A startup usually starts <strong>small (2–3 founders)</strong>, so it is not possible to have all roles from day one.</p></li>
+<li><p>What matters is <strong>balance</strong>:</p>
+<ul>
+<li><p>Someone who <strong>leads and sets vision</strong> (CEO type).</p></li>
+<li><p>Someone who <strong>builds the technology or product</strong> (CTO type).</p></li>
+<li><p>Someone who <strong>connects with customers and markets the solution</strong> (CMO/Sales type).</p></li>
+</ul>
+</li>
+<li><p>As the startup grows, other roles (CFO, COO, etc.) can be added.</p></li>
+</ul>
+<p>👉 <strong>Tip:</strong> When forming your team, choose partners who bring <strong>different strengths</strong> so you don’t all overlap. Think: <em>Who is the visionary? Who is the builder? Who is the seller?</em></p>
+</section>
+<hr class="docutils" />
+<section id="startup-speed-dating">
+<h2>2. Startup Speed Dating<a class="headerlink" href="#startup-speed-dating" title="Link to this heading">#</a></h2>
+<section id="objective">
+<h3>Objective<a class="headerlink" href="#objective" title="Link to this heading">#</a></h3>
+<p>To promote interaction among students, foster networking, and facilitate the creation of startup teams.</p>
+</section>
+<section id="setup">
+<h3>Setup<a class="headerlink" href="#setup" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p>Total students: ~35 (5 groups of 7 students each)</p></li>
+<li><p>Group size: up to 5 students per startup team (later narrowed to partnerships of up to 3 per startup)</p></li>
+<li><p>Activity length: 60 minutes</p></li>
+<li><p>Materials:</p>
+<ul>
+<li><p>Personal business cards (one per student)</p></li>
+<li><p>Timer/clock</p></li>
+<li><p>Whiteboard or projector to track time and instructions</p></li>
+</ul>
+</li>
+</ul>
+</section>
+<section id="instructions">
+<h3>Instructions<a class="headerlink" href="#instructions" title="Link to this heading">#</a></h3>
+<ol class="arabic simple">
+<li><p><strong>Form Groups (5 minutes)</strong></p>
+<ul class="simple">
+<li><p>Divide the class into <strong>5 groups of 7 students each</strong>.</p></li>
+<li><p>Each group will conduct the activity in parallel.</p></li>
+</ul>
+</li>
+<li><p><strong>Student Introductions (7 minutes per group)</strong></p>
+<ul class="simple">
+<li><p>Each student has <strong>1 minute</strong> to introduce themselves to their group.</p></li>
+<li><p>Introductions should include:</p>
+<ul>
+<li><p>Name and background</p></li>
+<li><p>Interests in AI and entrepreneurship</p></li>
+<li><p>Skills they bring to a potential team</p></li>
+<li><p>The type of startup or challenge they would like to work on</p></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p><strong>Business Card Exchange</strong></p>
+<ul class="simple">
+<li><p>After introductions, students exchange <strong>personal business cards</strong> with peers they would like to collaborate with.</p></li>
+<li><p>Students can give their card to multiple classmates, but must do so thoughtfully (not to everyone).</p></li>
+</ul>
+</li>
+<li><p><strong>Rotation / Networking</strong></p>
+<ul class="simple">
+<li><p>After each round, students may <strong>rotate to another group</strong> to expand connections, depending on time available.</p></li>
+<li><p>Repeat introductions.</p></li>
+</ul>
+</li>
+<li><p><strong>Team Formation (10 minutes)</strong></p>
+<ul class="simple">
+<li><p>Based on card exchanges and mutual interest, students start forming <strong>partnerships of up to 3 students per startup team</strong>.</p></li>
+<li><p>Encourage students to select partners who complement their skills.</p></li>
+</ul>
+</li>
+</ol>
+</section>
+<section id="timing-overview">
+<h3>Timing Overview<a class="headerlink" href="#timing-overview" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>5 minutes</strong>: Group setup &amp; instructions</p></li>
+<li><p><strong>7 minutes per group x 5 groups (in parallel)</strong>: Student introductions (35 minutes total across all groups, but only 7 minutes elapsed per group since running simultaneously)</p></li>
+<li><p><strong>5 minutes</strong>: Business card exchange</p></li>
+<li><p><strong>10 minutes</strong>: Team formation and confirmation</p></li>
+</ul>
+</section>
+<section id="expected-outcome">
+<h3>Expected Outcome<a class="headerlink" href="#expected-outcome" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p>Students build initial connections and identify peers they want to work with.</p></li>
+<li><p><strong>Up to 12 startup teams</strong> are formed, each with up to 3 students.</p></li>
+<li><p>The activity mirrors a real-world networking event, preparing students for collaboration in entrepreneurial environments.</p></li>
+</ul>
+</section>
+</section>
+<div class="toctree-wrapper compound">
+</div>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./."
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="right-next"
+       href="Topic_1_The_GenAI_Toolkit.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Topic 1: The Basic GenAI Toolkit</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#about-your-instructor-dr-leandro-nunes-de-castro">About Your Instructor – Dr. Leandro Nunes de Castro</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-goal-and-class-focus">Course Goal and Class Focus</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-ai-entrepreneurship-revolution">The AI Entrepreneurship Revolution</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#what-makes-ai-entrepreneurship-different">What Makes AI Entrepreneurship Different?</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-ai-entrepreneur-s-toolkit">The AI Entrepreneur’s Toolkit</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-startup-ecosystem-today">The Startup Ecosystem Today</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#your-ai-entrepreneurship-framework">Your AI Entrepreneurship Framework</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-project-overview">Course Project Overview</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#ten-entrepreneurial-competencies-traditional-vs-ai-enhanced">Ten Entrepreneurial Competencies: Traditional vs AI-Enhanced</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#cw-1-ten-entrepreneurial-competencies-tec">CW 1: Ten Entrepreneurial Competencies (TEC)</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#our-journey">Our Journey</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#key-roles-in-a-startup-team">1. Key Roles in a Startup Team</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#ceo-chief-executive-officer">CEO – Chief Executive Officer</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#cfo-chief-financial-officer">CFO – Chief Financial Officer</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#cto-chief-technology-officer">CTO – Chief Technology Officer</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#cmo-chief-marketing-officer">CMO – Chief Marketing Officer</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#coo-chief-operating-officer">COO – Chief Operating Officer</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#other-important-roles">Other Important Roles</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#why-complementary-skills-matter">Why Complementary Skills Matter</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#startup-speed-dating">2. Startup Speed Dating</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#objective">Objective</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#setup">Setup</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#instructions">Instructions</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#timing-overview">Timing Overview</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#expected-outcome">Expected Outcome</a></li>
+</ul>
+</li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By Leandro Nunes de Castro, Ph.D.
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  <p class="copyright">
+    
+      © Copyright 2023.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>
