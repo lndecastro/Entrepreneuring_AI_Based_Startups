@@ -268,8 +268,7 @@ Calculate dilution under different investment amounts.
 ### CW 9.3 — Investment Readiness Assessment
 Evaluate your startup’s funding readiness.
 
-## Homework Assignment — HW 9.1
-### Funding Strategy & Investment Readiness Report
+## HW 9.1: Funding Strategy & Investment Readiness Report
 
 Includes:
 - Funding strategy  
